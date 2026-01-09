@@ -1,0 +1,928 @@
+{
+  "version": 1,
+  "updatedAt": "2026-01-09T19:15:28Z",
+  "slug": "conrad-shindler",
+  "roundCount": 92,
+  "rounds": [
+    {
+      "id": "C903E7B5-24D7-5DFA-97D9-17A651DC7421",
+      "date": "2022-07-10T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "Keene Trace Golf Club (Champions Course) - Nicholasville, KY",
+      "roundNumber": 4,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "03704E92-F632-50E9-9227-A2ECCE54F180",
+      "date": "2022-07-10T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "Keene Trace Golf Club (Champions Course) - Nicholasville, KY.",
+      "roundNumber": 4,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "F77ACD55-E0BA-5066-9277-E19C334494D8",
+      "date": "2022-07-09T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "Keene Trace Golf Club (Champions Course) - Nicholasville, KY",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "38B7CD57-14E1-5D86-81D5-077BC7040981",
+      "date": "2022-07-09T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "Keene Trace Golf Club (Champions Course) - Nicholasville, KY.",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "ADE999D8-DC26-57E9-8013-C0CA5993CF91",
+      "date": "2022-07-08T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "Keene Trace Golf Club (Champions Course) - Nicholasville, KY",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B6502366-655F-5EE6-9CB8-D265E952C879",
+      "date": "2022-07-08T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "Keene Trace Golf Club (Champions Course) - Nicholasville, KY.",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "4F18291A-A139-516D-A08E-7487DB5B834A",
+      "date": "2022-07-07T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "Keene Trace Golf Club (Champions Course) - Nicholasville, KY",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "C39262A8-743F-5447-87BD-5E15F88B1FD7",
+      "date": "2022-07-07T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "Keene Trace Golf Club (Champions Course) - Nicholasville, KY.",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "C2FDF191-0453-5513-A88B-6A54252B6DF7",
+      "date": "2022-06-26T00:00:00Z",
+      "tournament": "Travelers Championship",
+      "course": "TPC River Highlands - Cromwell, CT",
+      "roundNumber": 4,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B08EC937-998C-50D8-8D0C-8C2C3104C04E",
+      "date": "2022-06-26T00:00:00Z",
+      "tournament": "Travelers Championship",
+      "course": "TPC River Highlands - Cromwell, CT.",
+      "roundNumber": 4,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "F6EDC9DE-1ED4-53A8-9425-D5AC15D00420",
+      "date": "2022-06-25T00:00:00Z",
+      "tournament": "Travelers Championship",
+      "course": "TPC River Highlands - Cromwell, CT",
+      "roundNumber": 3,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "7956284A-0FE9-561E-A55E-C6683EFC99D9",
+      "date": "2022-06-25T00:00:00Z",
+      "tournament": "Travelers Championship",
+      "course": "TPC River Highlands - Cromwell, CT.",
+      "roundNumber": 3,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "1BCC21AF-508B-599F-9B9F-906C39FB7FA4",
+      "date": "2022-06-24T00:00:00Z",
+      "tournament": "Travelers Championship",
+      "course": "TPC River Highlands - Cromwell, CT",
+      "roundNumber": 2,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B66B2216-38E2-5EA7-B7DF-60B3A5518543",
+      "date": "2022-06-24T00:00:00Z",
+      "tournament": "Travelers Championship",
+      "course": "TPC River Highlands - Cromwell, CT.",
+      "roundNumber": 2,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "9CF6D855-E9A5-5333-9DD9-ED3B3CDB4C17",
+      "date": "2022-06-23T00:00:00Z",
+      "tournament": "Travelers Championship",
+      "course": "TPC River Highlands - Cromwell, CT",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "F6B493E3-8697-51B1-AAFC-20B41283A0D4",
+      "date": "2022-06-23T00:00:00Z",
+      "tournament": "Travelers Championship",
+      "course": "TPC River Highlands - Cromwell, CT.",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "2DFA9A95-7E2A-5214-AA86-AB12B4E6B865",
+      "date": "2022-05-15T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "TPC Craig Ranch - McKinney, TX",
+      "roundNumber": 4,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "E8856777-C248-5B91-AC5B-881C79909A04",
+      "date": "2022-05-15T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "TPC Craig Ranch - McKinney, TX.",
+      "roundNumber": 4,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "FA2D0692-0B3C-5A08-9866-18ED2D109FC8",
+      "date": "2022-05-14T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "TPC Craig Ranch - McKinney, TX",
+      "roundNumber": 3,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "32971B93-EA20-5798-80AA-076619646903",
+      "date": "2022-05-14T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "TPC Craig Ranch - McKinney, TX.",
+      "roundNumber": 3,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "3DFEC94F-C599-517A-87F3-C87A5FFF7AA5",
+      "date": "2022-05-13T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "TPC Craig Ranch - McKinney, TX",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "D746ED11-BF5A-5B50-9C5A-D4B099B38319",
+      "date": "2022-05-13T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "TPC Craig Ranch - McKinney, TX.",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "40B7089B-9BAC-5EA3-8AA3-2F0A763D9FBE",
+      "date": "2022-05-12T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "TPC Craig Ranch - McKinney, TX",
+      "roundNumber": 1,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "2AA522D3-1499-5DC4-A85C-F029BF233DE7",
+      "date": "2022-05-12T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "TPC Craig Ranch - McKinney, TX.",
+      "roundNumber": 1,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "9FFAC54D-CBA4-5AD2-9976-1C4A1396338F",
+      "date": "2020-09-13T00:00:00Z",
+      "tournament": "A Military Tribute at The Greenbrier",
+      "course": "The Old White Course - White Sulphur Springs, WV.",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "DE679E18-E265-5EAA-8C7D-AC7CB7E20DEB",
+      "date": "2020-09-12T00:00:00Z",
+      "tournament": "A Military Tribute at The Greenbrier",
+      "course": "The Old White Course - White Sulphur Springs, WV.",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "B265B566-43F0-57D7-BEB1-235B838D228D",
+      "date": "2019-09-13T00:00:00Z",
+      "tournament": "A Military Tribute at The Greenbrier",
+      "course": "The Old White Course - White Sulphur Springs, WV",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "82EA2A78-3B7A-5CAD-907F-6B54D0853DED",
+      "date": "2019-09-12T00:00:00Z",
+      "tournament": "A Military Tribute at The Greenbrier",
+      "course": "The Old White Course - White Sulphur Springs, WV",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "24B01FD6-5CCC-59BC-9E9D-CC6D66F277AB",
+      "date": "2018-08-19T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC",
+      "roundNumber": 4,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "A32B374C-2396-5A19-BC90-CE94D84B7A5F",
+      "date": "2018-08-18T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC",
+      "roundNumber": 3,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "DA4009DA-2234-59FB-A185-B8B3A097C2B8",
+      "date": "2018-08-17T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC",
+      "roundNumber": 2,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B9E2D17B-4CEC-5905-B93D-ECFAE057FDAA",
+      "date": "2018-08-16T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "52CCE717-E2C2-582B-AB6D-BD92149E2A25",
+      "date": "2018-07-27T00:00:00Z",
+      "tournament": "RBC Canadian Open",
+      "course": "Glen Abbey GC - Oakville, ON",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "644FFBA4-90DF-50EA-AAAE-B958F32AF878",
+      "date": "2018-07-26T00:00:00Z",
+      "tournament": "RBC Canadian Open",
+      "course": "Glen Abbey GC - Oakville, ON",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "F321C952-4C99-538B-8BE7-244DB762C8D9",
+      "date": "2018-07-22T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "Keene Trace Golf Club (Champions Course) - Nicholasville, KY",
+      "roundNumber": 4,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "4B728052-E5DB-586C-BB8F-5A695D2786A9",
+      "date": "2018-07-21T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "Keene Trace Golf Club (Champions Course) - Nicholasville, KY",
+      "roundNumber": 3,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "6DC0B141-FA54-5931-8311-87BF09403BE0",
+      "date": "2018-07-20T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "Keene Trace Golf Club (Champions Course) - Nicholasville, KY",
+      "roundNumber": 2,
+      "score": 64,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "90140CE9-F2C9-51D8-859A-D32C58CB91DF",
+      "date": "2018-07-19T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "Keene Trace Golf Club (Champions Course) - Nicholasville, KY",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "01FC832D-A971-5D94-ADCF-CCBCD430122A",
+      "date": "2018-07-15T00:00:00Z",
+      "tournament": "John Deere Classic",
+      "course": "TPC Deere Run - Silvis, IL",
+      "roundNumber": 4,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "6D397702-0BCC-5C27-8E7B-9FA054EE2BAC",
+      "date": "2018-07-14T00:00:00Z",
+      "tournament": "John Deere Classic",
+      "course": "TPC Deere Run - Silvis, IL",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "34C403A2-79E8-5C1D-BA70-D43C32FDD343",
+      "date": "2018-07-13T00:00:00Z",
+      "tournament": "John Deere Classic",
+      "course": "TPC Deere Run - Silvis, IL",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "19313B20-6B72-58D4-AB17-390F18F95870",
+      "date": "2018-07-12T00:00:00Z",
+      "tournament": "John Deere Classic",
+      "course": "TPC Deere Run - Silvis, IL",
+      "roundNumber": 1,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "ACB380C3-75E4-50C2-85F4-CF086D8D6ED2",
+      "date": "2018-07-06T00:00:00Z",
+      "tournament": "A Military Tribute at The Greenbrier",
+      "course": "The Old White Course - White Sulphur Springs, WV",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "0548E95C-4B9E-5856-AA10-F0EC7339967F",
+      "date": "2018-07-05T00:00:00Z",
+      "tournament": "A Military Tribute at The Greenbrier",
+      "course": "The Old White Course - White Sulphur Springs, WV",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "C668A903-2458-5D79-8B1F-D8A2E7397499",
+      "date": "2018-06-22T00:00:00Z",
+      "tournament": "Travelers Championship",
+      "course": "TPC River Highlands - Cromwell, CT",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "4F0FD2EF-473A-5029-AD8E-3CD3516EC092",
+      "date": "2018-06-21T00:00:00Z",
+      "tournament": "Travelers Championship",
+      "course": "TPC River Highlands - Cromwell, CT",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "E380414B-31C3-5DF3-B5D5-4ED2E2B873C7",
+      "date": "2018-06-10T00:00:00Z",
+      "tournament": "FedEx St. Jude Classic",
+      "course": "TPC Southwind - Memphis, TN",
+      "roundNumber": 4,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "FC0967B8-138F-5A4C-96AC-4C253B2A1226",
+      "date": "2018-06-09T00:00:00Z",
+      "tournament": "FedEx St. Jude Classic",
+      "course": "TPC Southwind - Memphis, TN",
+      "roundNumber": 3,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "6D0CD046-5FF6-5CAC-92ED-62E38D8F0A38",
+      "date": "2018-06-08T00:00:00Z",
+      "tournament": "FedEx St. Jude Classic",
+      "course": "TPC Southwind - Memphis, TN",
+      "roundNumber": 2,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "C5922CF3-AF2C-5CE7-A7C1-08DBD8A3DA7B",
+      "date": "2018-06-07T00:00:00Z",
+      "tournament": "FedEx St. Jude Classic",
+      "course": "TPC Southwind - Memphis, TN",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "375B35A8-A322-514E-9D40-AEB657527737",
+      "date": "2018-05-27T00:00:00Z",
+      "tournament": "Fort Worth Invitational",
+      "course": "Colonial Country Club - Fort Worth, TX",
+      "roundNumber": 4,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "642B162B-9462-51FD-BE91-908BE30998AF",
+      "date": "2018-05-26T00:00:00Z",
+      "tournament": "Fort Worth Invitational",
+      "course": "Colonial Country Club - Fort Worth, TX",
+      "roundNumber": 3,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "5246AA3C-BD75-530E-8950-088F51CE7B1D",
+      "date": "2018-05-25T00:00:00Z",
+      "tournament": "Fort Worth Invitational",
+      "course": "Colonial Country Club - Fort Worth, TX",
+      "roundNumber": 2,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "3CC9C6DD-35D1-52B9-B2D8-29D55AF66C21",
+      "date": "2018-05-24T00:00:00Z",
+      "tournament": "Fort Worth Invitational",
+      "course": "Colonial Country Club - Fort Worth, TX",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "A9D1207D-5967-554D-8514-627215EAB7D7",
+      "date": "2018-05-18T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "Trinity Forest Golf Club - Dallas, TX",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "E9BFD92C-C092-5E3B-8C0B-F7660D2F97AE",
+      "date": "2018-05-17T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "Trinity Forest Golf Club - Dallas, TX",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "87D8813E-E1DD-51CB-8DDC-84CD30C19BFD",
+      "date": "2018-04-20T00:00:00Z",
+      "tournament": "Valero Texas Open",
+      "course": "TPC San Antonio (Oaks Course) - San Antonio, TX",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "C77C08FD-441F-51ED-9F22-224836308E1B",
+      "date": "2018-04-19T00:00:00Z",
+      "tournament": "Valero Texas Open",
+      "course": "TPC San Antonio (Oaks Course) - San Antonio, TX",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "E5305FF5-8EE9-565B-9117-2961C630DE4F",
+      "date": "2018-02-10T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 3,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "EE66DC30-058C-5FDB-A0D9-79E56A79AD6A",
+      "date": "2018-02-09T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 2,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "97BC11B8-C317-5801-A7C4-3F5B624BF41F",
+      "date": "2018-02-08T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "8ADE2D5F-2E9B-53D1-934B-21AE7809CFB0",
+      "date": "2018-01-26T00:00:00Z",
+      "tournament": "Farmers Insurance Open",
+      "course": "Torrey Pines (North Course) - La Jolla, CA",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "BA9AE99F-310E-5CD0-80BF-0608C2DD5376",
+      "date": "2018-01-25T00:00:00Z",
+      "tournament": "Farmers Insurance Open",
+      "course": "Torrey Pines (North Course) - La Jolla, CA",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B414A282-11E4-5818-81E0-8AF3939FD499",
+      "date": "2018-01-20T00:00:00Z",
+      "tournament": "CareerBuilder Challenge",
+      "course": "La Quinta Country Club - La Quinta, CA",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "64738035-C31C-5FBE-8E29-7D2FD0260D43",
+      "date": "2018-01-19T00:00:00Z",
+      "tournament": "CareerBuilder Challenge",
+      "course": "La Quinta Country Club - La Quinta, CA",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "DDBE2C35-EB91-5165-8BAE-EFC989421E71",
+      "date": "2018-01-18T00:00:00Z",
+      "tournament": "CareerBuilder Challenge",
+      "course": "La Quinta Country Club - La Quinta, CA",
+      "roundNumber": 1,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "D5EB9B5A-4FE0-5BB6-ABE3-EFA3441CC268",
+      "date": "2018-01-14T00:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Waialae Country Club - Honolulu, HI",
+      "roundNumber": 4,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B1DAAB5F-6773-5993-A715-3B20945F4B2C",
+      "date": "2018-01-13T00:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Waialae Country Club - Honolulu, HI",
+      "roundNumber": 3,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B604D025-51B5-5FF6-88AD-8870B9EF465E",
+      "date": "2018-01-12T00:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Waialae Country Club - Honolulu, HI",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "4EA7B469-9549-5467-A9A3-F4D6C022C4E7",
+      "date": "2018-01-11T00:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Waialae Country Club - Honolulu, HI",
+      "roundNumber": 1,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "FFF5ED40-4B98-51C3-93A5-83F8616E6E5B",
+      "date": "2017-11-17T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "CCBF1567-A7C9-5D57-AAE2-7177C307CBDB",
+      "date": "2017-11-16T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "4A75591F-793F-569D-B3F9-3063BFCB6910",
+      "date": "2017-11-12T00:00:00Z",
+      "tournament": "OHL Classic at Mayakoba",
+      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "roundNumber": 4,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "280D3AD0-59AE-5913-8617-A7A1B92354AA",
+      "date": "2017-11-11T00:00:00Z",
+      "tournament": "OHL Classic at Mayakoba",
+      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "roundNumber": 3,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "A13DD692-4538-5407-9583-814F4713E9F9",
+      "date": "2017-11-10T00:00:00Z",
+      "tournament": "OHL Classic at Mayakoba",
+      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "F67E4C5A-A507-5CA7-98AC-0076E42F1F16",
+      "date": "2017-11-09T00:00:00Z",
+      "tournament": "OHL Classic at Mayakoba",
+      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "9D73281D-E7F9-5503-95AF-B7FC3279C4E5",
+      "date": "2017-10-29T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS",
+      "roundNumber": 4,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "46C6174C-9B83-5641-9449-33A49EBCB43C",
+      "date": "2017-10-28T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS",
+      "roundNumber": 3,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "75237CAA-7F3C-516C-8CBC-592F0DB68C63",
+      "date": "2017-10-27T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS",
+      "roundNumber": 2,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "301B4336-08DD-51E8-8262-4315E940B41D",
+      "date": "2017-10-26T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS",
+      "roundNumber": 1,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "1E264EF3-1DE6-5061-99DF-996F14879C93",
+      "date": "2017-10-06T00:00:00Z",
+      "tournament": "Safeway Open",
+      "course": "Silverado Resort and Spa (North Course) - Napa, CA",
+      "roundNumber": 2,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "AA51EA4E-BCD4-58F3-B104-5496F5EB5F05",
+      "date": "2017-10-05T00:00:00Z",
+      "tournament": "Safeway Open",
+      "course": "Silverado Resort and Spa (North Course) - Napa, CA",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "C1D9848D-26B7-5E4C-9E78-6B21A2B23E6E",
+      "date": "2016-05-21T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "TPC Four Seasons Resort - Irving, TX",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "AB79007E-FCD5-534B-BF0B-35DD09C63EB3",
+      "date": "2016-05-21T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "TPC Four Seasons Resort - Irving, TX.",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "436B3BAB-C66C-55AF-8E8C-7771FCF43479",
+      "date": "2016-05-20T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "TPC Four Seasons Resort - Irving, TX",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "3665E017-23AC-58C6-929A-307E846E7F50",
+      "date": "2016-05-20T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "TPC Four Seasons Resort - Irving, TX.",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "CA203417-EA6C-5A08-A1B7-314750BC7102",
+      "date": "2016-05-19T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "TPC Four Seasons Resort - Irving, TX",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "93D095A7-7B8F-5F77-9280-85332BBDBBBC",
+      "date": "2016-05-19T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "TPC Four Seasons Resort - Irving, TX.",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "02A8AD33-5921-54C8-BDB9-3556A3905E0E",
+      "date": "2013-04-05T00:00:00Z",
+      "tournament": "Valero Texas Open",
+      "course": "TPC San Antonio (Oaks Course) - San Antonio, TX",
+      "roundNumber": 2,
+      "score": 78,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "73BB35FE-84FD-535F-8AF4-3D94204F6DF5",
+      "date": "2013-04-05T00:00:00Z",
+      "tournament": "Valero Texas Open",
+      "course": "TPC San Antonio (Oaks Course) - San Antonio, TX.",
+      "roundNumber": 2,
+      "score": 78,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "06B0CF64-817B-5675-9CAD-97F6B66F8A57",
+      "date": "2013-04-04T00:00:00Z",
+      "tournament": "Valero Texas Open",
+      "course": "TPC San Antonio (Oaks Course) - San Antonio, TX",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "4A0E9C46-EFB7-5A7F-811F-BD81E79DDF83",
+      "date": "2013-04-04T00:00:00Z",
+      "tournament": "Valero Texas Open",
+      "course": "TPC San Antonio (Oaks Course) - San Antonio, TX.",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    }
+  ]
+}

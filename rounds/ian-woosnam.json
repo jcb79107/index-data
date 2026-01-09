@@ -1,0 +1,858 @@
+{
+  "version": 1,
+  "updatedAt": "2026-01-09T19:15:28Z",
+  "slug": "ian-woosnam",
+  "roundCount": 85,
+  "rounds": [
+    {
+      "id": "9488453A-F8BC-5B5D-9BFB-D8DEAF5F73FB",
+      "date": "2021-04-09T00:00:00Z",
+      "tournament": "2021 Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 2,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "70F5B284-2B95-5D63-AAB8-F7A248AA31EB",
+      "date": "2021-04-09T00:00:00Z",
+      "tournament": "2021 Masters Tournament",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "C090F05D-8090-5BC6-A477-61D755130E3D",
+      "date": "2021-04-08T00:00:00Z",
+      "tournament": "2021 Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 1,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "C041E1B0-7CA3-5B73-86C4-E957CF89E9CF",
+      "date": "2021-04-08T00:00:00Z",
+      "tournament": "2021 Masters Tournament",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "ACC4DA4D-B368-5661-908B-A2826A947755",
+      "date": "2019-04-12T00:00:00Z",
+      "tournament": "2019 Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 2,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "EE0CFEB5-0CD4-5CC4-9696-1E88050FAB7A",
+      "date": "2019-04-12T00:00:00Z",
+      "tournament": "2019 Masters Tournament",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "CD31EBEB-7E20-5A64-8190-FD14843B25FE",
+      "date": "2019-04-11T00:00:00Z",
+      "tournament": "2019 Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 1,
+      "score": 80,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "98428A28-DE8B-5201-B075-9FC2B18364EA",
+      "date": "2019-04-11T00:00:00Z",
+      "tournament": "2019 Masters Tournament",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 80,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "CD96D2A0-D45F-51BE-8099-9041D59B140A",
+      "date": "2018-04-06T00:00:00Z",
+      "tournament": "2018 Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 2,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "3018BDB8-3F23-5995-ACB0-D0F1FB609133",
+      "date": "2018-04-05T00:00:00Z",
+      "tournament": "2018 Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 1,
+      "score": 79,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "6639DDD1-034C-5BCC-85A4-811D880E0EF0",
+      "date": "2017-04-07T00:00:00Z",
+      "tournament": "2017 Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 2,
+      "score": 78,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "32F1BD7C-356D-5AA2-83BD-EB7A45A4784E",
+      "date": "2017-04-07T00:00:00Z",
+      "tournament": "2017 Masters Tournament",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 78,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "758AC6E6-6542-5908-AC66-307E2898A34A",
+      "date": "2017-04-06T00:00:00Z",
+      "tournament": "2017 Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 1,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "008A4A83-8608-5BC5-B81B-99C766F68465",
+      "date": "2017-04-06T00:00:00Z",
+      "tournament": "2017 Masters Tournament",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "CD234E93-BEE8-5B44-98E5-4DD9F99F2788",
+      "date": "2016-04-08T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 2,
+      "score": 81,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "4BE8EAAB-86C3-53C8-B409-44F9FA44FA61",
+      "date": "2016-04-08T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 81,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "C1446F39-0178-5945-8663-ED5186FDA5E8",
+      "date": "2016-04-07T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 1,
+      "score": 82,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "0F5D434A-C771-5664-A857-39F647F2353F",
+      "date": "2016-04-07T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 82,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "2DE68472-5EB7-505B-9785-8F3957E9E559",
+      "date": "2015-04-10T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "FB4E5545-4268-5C90-9D4B-0A0FA10C9D48",
+      "date": "2015-04-10T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "9D439C0F-7AFD-5815-A47C-973DC7B1267E",
+      "date": "2015-04-09T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "87415846-CB7D-51D9-B7FF-CB77D4D44B36",
+      "date": "2015-04-09T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "0EA4ABBF-7BCE-5E09-91C7-E3966DEFBA73",
+      "date": "2014-04-11T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "306103FC-D7D2-5E56-A4EE-6C076479F5F1",
+      "date": "2014-04-11T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "891AA9BC-FAB7-5B80-9F79-31358DD8DCB5",
+      "date": "2014-04-10T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 1,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "3F9CF5CC-CEDE-5742-81DB-14D6856CB932",
+      "date": "2014-04-10T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "45A8680D-4D88-58A3-8F90-0DE5D901D494",
+      "date": "2013-04-12T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 2,
+      "score": 78,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "D9EDBA8E-A798-5A40-923D-53051657BF4B",
+      "date": "2013-04-12T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 78,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "D93E89E7-6B30-5FC2-9EFF-46FC1B1BF803",
+      "date": "2013-04-11T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 1,
+      "score": 80,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "8B2017C5-D82A-5469-95EC-D6F1E2698DF2",
+      "date": "2013-04-11T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 80,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "839676A6-FFD4-550F-9687-355B5619030B",
+      "date": "2012-04-06T00:00:00Z",
+      "tournament": "The Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 2,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "5288204F-A536-5D69-9CE9-10D4873CF5CE",
+      "date": "2012-04-05T00:00:00Z",
+      "tournament": "The Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 1,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "D0D57F8D-154F-5D51-B4CE-3AEB2CBAF22F",
+      "date": "2011-04-08T00:00:00Z",
+      "tournament": "The Masters",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 2,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "EA4C6750-7B1B-5597-9EA1-82EE50E1856E",
+      "date": "2011-04-07T00:00:00Z",
+      "tournament": "The Masters",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 1,
+      "score": 78,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "69B7D151-47DB-5FB1-B21C-C249C861CA31",
+      "date": "2010-04-09T00:00:00Z",
+      "tournament": "The Masters",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 2,
+      "score": 83,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "85604A80-AAFF-541F-90B6-6F2D36D38D61",
+      "date": "2010-04-09T00:00:00Z",
+      "tournament": "The Masters",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 83,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "722ABB92-9F34-5529-A600-D6C0D0AD3478",
+      "date": "2010-04-08T00:00:00Z",
+      "tournament": "The Masters",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 1,
+      "score": 81,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "D074CF9E-F2FF-59A4-BEA5-70657CE70917",
+      "date": "2010-04-08T00:00:00Z",
+      "tournament": "The Masters",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 81,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "302EABDC-B320-589D-99C0-05708815F377",
+      "date": "2009-04-10T00:00:00Z",
+      "tournament": "The Masters",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 2,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "C99C6A60-9FEF-58B8-9C3D-5709DF648CD9",
+      "date": "2009-04-10T00:00:00Z",
+      "tournament": "The Masters",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "F619355F-C9CA-5C4D-8248-E05913AD8BD8",
+      "date": "2009-04-09T00:00:00Z",
+      "tournament": "The Masters",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "55AD13C7-DD10-5FA5-AA68-AD68CD53E51A",
+      "date": "2009-04-09T00:00:00Z",
+      "tournament": "The Masters",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "A179F76D-BF85-5EB0-B2A8-7F53C8DA0DD2",
+      "date": "2008-04-13T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 4,
+      "score": 78,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "75BD6F93-373D-5CAF-9882-CE5CBFEEB183",
+      "date": "2008-04-12T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 3,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "79D9DA27-4BEF-541E-971B-AEE74D6633C2",
+      "date": "2008-04-11T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "9010C331-A10E-5339-98CD-3A23158275BB",
+      "date": "2008-04-10T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "9E57F45D-6AF5-581E-B14D-AB7756B2E1F1",
+      "date": "2006-04-07T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "78C8B6BF-D6A6-578C-BFE3-2AEA2C5A13E6",
+      "date": "2006-04-06T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 1,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "1365E20D-1209-575E-BE86-FE84FFFF2CDD",
+      "date": "2005-07-15T00:00:00Z",
+      "tournament": "British Open Championship",
+      "course": "St Andrews Links (Old Course) - St. Andrews, Scotland",
+      "roundNumber": 2,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "1D5B83F4-D556-5D42-9F1D-BCB3BDE46D15",
+      "date": "2005-07-14T00:00:00Z",
+      "tournament": "British Open Championship",
+      "course": "St Andrews Links (Old Course) - St. Andrews, Scotland",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B5C7ED6A-B57D-511C-8C9E-7E69517D39CA",
+      "date": "2005-04-08T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 2,
+      "score": 78,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "A3EE0E0A-EA2E-537A-A5CF-BE1F6D2EAA4F",
+      "date": "2005-04-07T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 1,
+      "score": 78,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "86F53A5B-E9B6-5090-A824-8110B1BAD808",
+      "date": "2004-08-13T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B35B5A7D-B244-535A-A65F-95E0AA5A5837",
+      "date": "2004-08-12T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 79,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "EA36C90E-1B23-5C61-9867-0C97BC1773DD",
+      "date": "2004-04-09T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 2,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "BCEFB7B8-0A55-5539-ACC0-F7BCBACC5B65",
+      "date": "2004-04-08T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 1,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "BE6A40C1-63A9-56F4-95AB-45B7AC6F87B7",
+      "date": "2003-07-20T00:00:00Z",
+      "tournament": "British Open Championship",
+      "course": "Plainfield CC - Edison, NJ",
+      "roundNumber": 4,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "C170AD57-2E2C-5CB0-8A82-76B25BAF8131",
+      "date": "2003-07-19T00:00:00Z",
+      "tournament": "British Open Championship",
+      "course": "Plainfield CC - Edison, NJ",
+      "roundNumber": 3,
+      "score": 80,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "A9422537-5D9F-56A5-AFDE-7D7412A4CA53",
+      "date": "2003-07-18T00:00:00Z",
+      "tournament": "British Open Championship",
+      "course": "Plainfield CC - Edison, NJ",
+      "roundNumber": 2,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "7E59FD86-3FE2-5C81-8107-541C7FCCBEAE",
+      "date": "2003-07-17T00:00:00Z",
+      "tournament": "British Open Championship",
+      "course": "Plainfield CC - Edison, NJ",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "981BFFB1-C6F4-52C8-B529-23D23D0739EE",
+      "date": "2003-04-11T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "1D301A87-97F6-57F4-B702-773E5778A665",
+      "date": "2003-04-10T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 1,
+      "score": 80,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "C9001AEF-2FFC-548C-8FC3-585BEBC88EF8",
+      "date": "2002-08-16T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "BE2954E1-AE59-5568-9606-23CE6FE8E3D5",
+      "date": "2002-08-15T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "645B2BD5-572A-5B1C-AEC3-02D707320919",
+      "date": "2002-07-21T00:00:00Z",
+      "tournament": "British Open Championship",
+      "course": "nan",
+      "roundNumber": 4,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "92087154-581D-5096-B6F1-655F24EBC1EE",
+      "date": "2002-07-20T00:00:00Z",
+      "tournament": "British Open Championship",
+      "course": "nan",
+      "roundNumber": 3,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "338411EA-A68E-58CF-8EC4-7615AE16D38A",
+      "date": "2002-07-19T00:00:00Z",
+      "tournament": "British Open Championship",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "A960624E-BE75-5192-8A6B-38ECDDFFE2F1",
+      "date": "2002-07-18T00:00:00Z",
+      "tournament": "British Open Championship",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "48DF2C3B-8579-5CA0-A7D4-98522986B6B7",
+      "date": "2002-04-12T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 2,
+      "score": 78,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "DBD43F27-BB76-5EEE-9C4E-7F7E3FA27FD6",
+      "date": "2002-04-11T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 1,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "8949B126-94FD-5C39-A7F5-C3CD1F08619C",
+      "date": "2001-08-19T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "nan",
+      "roundNumber": 4,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "D50F2B83-18E0-5778-BEBE-0367CBC758EB",
+      "date": "2001-08-18T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "nan",
+      "roundNumber": 3,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "FB71C004-5736-5E36-9FC6-0454F7255376",
+      "date": "2001-08-17T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B5BA9130-3044-5E35-A30D-15E9AC998B38",
+      "date": "2001-08-16T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "D0BE7D48-EE16-5F36-BC1C-91B4B41D15A2",
+      "date": "2001-07-22T00:00:00Z",
+      "tournament": "British Open Championship",
+      "course": "nan",
+      "roundNumber": 4,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "9F16A576-7EB8-51AF-9656-8096302D0339",
+      "date": "2001-07-21T00:00:00Z",
+      "tournament": "British Open Championship",
+      "course": "nan",
+      "roundNumber": 3,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "EFD24DAD-E7BA-5260-80BE-1AD4AB273EE2",
+      "date": "2001-07-20T00:00:00Z",
+      "tournament": "British Open Championship",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "CE32DDFB-1F87-52E7-97FE-7B7A2B0E347C",
+      "date": "2001-07-19T00:00:00Z",
+      "tournament": "British Open Championship",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "E7196908-8A94-5ED2-BBC2-1C0A825D3588",
+      "date": "2001-04-06T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 2,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "661D7318-8DE3-5F65-A28A-257AFF0E3CF0",
+      "date": "2001-04-05T00:00:00Z",
+      "tournament": "Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "1B4B5F3E-1C7A-5D8E-80C4-B7E4F3234008",
+      "date": "2001-03-29T00:00:00Z",
+      "tournament": "BellSouth Classic",
+      "course": "TPC Sugarloaf - Duluth, GA",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "DCF9458B-0F10-57CA-B9B1-58C1DD6ABB6C",
+      "date": "2001-03-25T00:00:00Z",
+      "tournament": "THE PLAYERS Championship",
+      "course": "TPC Sawgrass (THE PLAYERS Stadium Course) - Ponte Vedra Beach, FL",
+      "roundNumber": 4,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "6916E056-9CB5-50A8-962C-9140573F4F6A",
+      "date": "2001-03-24T00:00:00Z",
+      "tournament": "THE PLAYERS Championship",
+      "course": "TPC Sawgrass (THE PLAYERS Stadium Course) - Ponte Vedra Beach, FL",
+      "roundNumber": 3,
+      "score": 81,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "35690F84-505B-5F5C-ADD6-B65A86438C0B",
+      "date": "2001-03-23T00:00:00Z",
+      "tournament": "THE PLAYERS Championship",
+      "course": "TPC Sawgrass (THE PLAYERS Stadium Course) - Ponte Vedra Beach, FL",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "130947E5-D0C5-5B26-A10A-A6C92BA67231",
+      "date": "2001-03-22T00:00:00Z",
+      "tournament": "THE PLAYERS Championship",
+      "course": "TPC Sawgrass (THE PLAYERS Stadium Course) - Ponte Vedra Beach, FL",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    }
+  ]
+}

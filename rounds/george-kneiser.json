@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "updatedAt": "2026-01-09T19:15:28Z",
+  "slug": "george-kneiser",
+  "roundCount": 4,
+  "rounds": [
+    {
+      "id": "0F1D0A53-0AA8-5E5A-834E-00CA298CE681",
+      "date": "2025-06-13T00:00:00Z",
+      "tournament": "U.S. Open",
+      "course": "Oakmont Country Club - Oakmont, PA",
+      "roundNumber": 2,
+      "score": 79,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "282FFAAF-A881-5CC5-B914-7F24B945139E",
+      "date": "2025-06-12T00:00:00Z",
+      "tournament": "U.S. Open",
+      "course": "Oakmont Country Club - Oakmont, PA",
+      "roundNumber": 1,
+      "score": 81,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "D7D85CB1-1ABC-5E51-8AD4-9EFF0D368831",
+      "date": "2024-08-09T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "D10377AA-7892-5C64-AD0B-45661B14D537",
+      "date": "2024-08-08T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    }
+  ]
+}

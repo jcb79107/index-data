@@ -1,0 +1,4968 @@
+{
+  "version": 1,
+  "updatedAt": "2026-01-09T19:15:28Z",
+  "slug": "rob-oppenheim",
+  "roundCount": 496,
+  "rounds": [
+    {
+      "id": "AFBF6E1C-8FA9-5C30-B278-875B89BD96E4",
+      "date": "2023-12-17T00:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "TPC Sawgrass (Dye's Valley Course) - Ponte Vedra Beach, FL",
+      "roundNumber": 4,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "66B02C68-63C8-5C72-A7E0-6FB81C494B5C",
+      "date": "2023-12-16T00:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "TPC Sawgrass (Dye's Valley Course) - Ponte Vedra Beach, FL",
+      "roundNumber": 3,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "F18EACF4-6957-5846-95F3-3F9D12A153FE",
+      "date": "2023-12-15T00:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "TPC Sawgrass (Dye's Valley Course) - Ponte Vedra Beach, FL",
+      "roundNumber": 2,
+      "score": 65,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "F6927947-C2D0-5C95-B7B7-8DB02D6B6C93",
+      "date": "2023-12-14T00:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "TPC Sawgrass (Dye's Valley Course) - Ponte Vedra Beach, FL",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "9B4079A3-68A1-532D-91C7-B43D50547CE5",
+      "date": "2021-12-04T00:00:00Z",
+      "tournament": "Mayakoba Golf Classic presented by UNIFIN",
+      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico.",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "56C76344-409E-5B5F-94E5-6EFC2451D009",
+      "date": "2021-12-03T00:00:00Z",
+      "tournament": "Mayakoba Golf Classic presented by UNIFIN",
+      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico.",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "FDB2A308-74E0-5AB3-84E3-E7D365F63601",
+      "date": "2021-11-22T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA. Sea Island Resort (Plantation Course) - Saint Simons Island, GA.",
+      "roundNumber": 4,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "37F44F97-CF65-507D-BC95-440BB43E006D",
+      "date": "2021-11-21T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA. Sea Island Resort (Plantation Course) - Saint Simons Island, GA.",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "541D21A7-B04F-5BE6-838D-648C06050C92",
+      "date": "2021-11-20T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA. Sea Island Resort (Plantation Course) - Saint Simons Island, GA.",
+      "roundNumber": 2,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "D434AE15-580D-5588-9EB9-555EF6890030",
+      "date": "2021-11-19T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA. Sea Island Resort (Plantation Course) - Saint Simons Island, GA.",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "F3A4D979-1406-501F-A33A-149FA6C407F6",
+      "date": "2021-10-30T00:00:00Z",
+      "tournament": "Bermuda Championship",
+      "course": "Port Royal Golf Course - Southampton Parish, Bermuda.",
+      "roundNumber": 2,
+      "score": 78,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "1D634D97-C908-5A07-8C70-D7BCFF5EAA15",
+      "date": "2021-10-29T00:00:00Z",
+      "tournament": "Bermuda Championship",
+      "course": "Port Royal Golf Course - Southampton Parish, Bermuda.",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "13F07527-5ABC-51A8-847B-59B279A1B134",
+      "date": "2021-09-13T00:00:00Z",
+      "tournament": "Safeway Open",
+      "course": "Silverado Resort and Spa (North Course) - Napa, CA.",
+      "roundNumber": 4,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "208A4F90-2A25-568B-833F-4E26A0A0D5DC",
+      "date": "2021-09-12T00:00:00Z",
+      "tournament": "Safeway Open",
+      "course": "Silverado Resort and Spa (North Course) - Napa, CA.",
+      "roundNumber": 3,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "86319469-67E5-51E9-84FE-E34819D25D02",
+      "date": "2021-09-11T00:00:00Z",
+      "tournament": "Safeway Open",
+      "course": "Silverado Resort and Spa (North Course) - Napa, CA.",
+      "roundNumber": 2,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "0D8E3797-6BE7-56E4-ABCD-611FE453AF2E",
+      "date": "2021-09-10T00:00:00Z",
+      "tournament": "Safeway Open",
+      "course": "Silverado Resort and Spa (North Course) - Napa, CA.",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "4CBA1FB4-8B26-5185-98F2-2B1E40CEFE40",
+      "date": "2021-08-15T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC",
+      "roundNumber": 4,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "3AB96E6D-92C4-5C2C-8F2F-AF77321AE07A",
+      "date": "2021-08-15T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC.",
+      "roundNumber": 4,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "2E55C09E-5E11-5901-84CC-2DA173B4A6F2",
+      "date": "2021-08-14T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC",
+      "roundNumber": 3,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "E75E01EA-BF39-58AC-B860-7EA9DB8C9A14",
+      "date": "2021-08-14T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC.",
+      "roundNumber": 3,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "2E462994-9823-5FF8-B7A6-90F0F29A3F48",
+      "date": "2021-08-13T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "146DC0DC-C5BE-5FE0-A207-832DD85C3164",
+      "date": "2021-08-13T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC.",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "4A680732-B241-5F76-8173-F1ED5E19B3EE",
+      "date": "2021-08-12T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC",
+      "roundNumber": 1,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "DEBCA3A0-43C1-5959-A2F3-2748FAFE1E71",
+      "date": "2021-08-12T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC.",
+      "roundNumber": 1,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "0596BAB5-4411-5504-9772-2B0F667974B6",
+      "date": "2021-08-06T00:00:00Z",
+      "tournament": "Barracuda Championship",
+      "course": "Tahoe Mountain Club (Old Greenwood) - Truckee, CA.",
+      "roundNumber": 2,
+      "score": 5,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "196B07A6-4437-5C1C-8287-A50F5500C6B6",
+      "date": "2021-08-05T00:00:00Z",
+      "tournament": "Barracuda Championship",
+      "course": "Tahoe Mountain Club (Old Greenwood) - Truckee, CA.",
+      "roundNumber": 1,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "E1011DF1-0E7C-5901-A71B-06CECD9CCE2C",
+      "date": "2021-07-23T00:00:00Z",
+      "tournament": "3M Open",
+      "course": "TPC Twin Cities - Blaine, MN",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "4AFCED50-9694-52AB-A4D9-AF266962E6CA",
+      "date": "2021-07-23T00:00:00Z",
+      "tournament": "3M Open",
+      "course": "TPC Twin Cities - Blaine, MN.",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "5CD8365B-EB32-5CD3-A776-F2DF4B5C7DF9",
+      "date": "2021-07-22T00:00:00Z",
+      "tournament": "3M Open",
+      "course": "TPC Twin Cities - Blaine, MN",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "3E9EA432-1479-5D87-A211-F4E4BABF65C9",
+      "date": "2021-07-22T00:00:00Z",
+      "tournament": "3M Open",
+      "course": "TPC Twin Cities - Blaine, MN.",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "99A7DE29-EAF6-5D66-AD7D-51835312F000",
+      "date": "2021-07-18T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "Keene Trace Golf Club (Champions Course) - Nicholasville, KY",
+      "roundNumber": 4,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "E5A1778D-6748-51D1-8A0E-8B65C860CCF0",
+      "date": "2021-07-18T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "Keene Trace Golf Club (Champions Course) - Nicholasville, KY.",
+      "roundNumber": 4,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "DDE17F41-4031-5980-8D65-3F9A54ED3F7B",
+      "date": "2021-07-17T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "Keene Trace Golf Club (Champions Course) - Nicholasville, KY",
+      "roundNumber": 3,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "A94A048B-B8F5-5FAF-BF35-8B8BBF98F350",
+      "date": "2021-07-17T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "Keene Trace Golf Club (Champions Course) - Nicholasville, KY.",
+      "roundNumber": 3,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "E957B036-D23F-51D4-A36D-3F5797157E74",
+      "date": "2021-07-16T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "Keene Trace Golf Club (Champions Course) - Nicholasville, KY",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "E48EBA0A-A2E2-5B2F-895B-D73C22B7C100",
+      "date": "2021-07-16T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "Keene Trace Golf Club (Champions Course) - Nicholasville, KY.",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "EFD7D699-7223-5FCC-AB74-F0081C2291BC",
+      "date": "2021-07-15T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "Keene Trace Golf Club (Champions Course) - Nicholasville, KY",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B54CA2B5-B6EE-56D5-99B3-B0B7D95C1324",
+      "date": "2021-07-15T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "Keene Trace Golf Club (Champions Course) - Nicholasville, KY.",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "2A213171-4841-5A8A-8EDF-7D9EB463A4BC",
+      "date": "2021-07-11T00:00:00Z",
+      "tournament": "John Deere Classic",
+      "course": "TPC Deere Run - Silvis, IL",
+      "roundNumber": 4,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "74456A5A-AB92-5C2A-9107-0DDE82E689F0",
+      "date": "2021-07-11T00:00:00Z",
+      "tournament": "John Deere Classic",
+      "course": "TPC Deere Run - Silvis, IL.",
+      "roundNumber": 4,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "768CDB91-A84C-57A2-B505-C88B910CC5A6",
+      "date": "2021-07-10T00:00:00Z",
+      "tournament": "John Deere Classic",
+      "course": "TPC Deere Run - Silvis, IL",
+      "roundNumber": 3,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "EBF04D6F-CF90-5E7C-8747-30D3BF292C0E",
+      "date": "2021-07-10T00:00:00Z",
+      "tournament": "John Deere Classic",
+      "course": "TPC Deere Run - Silvis, IL.",
+      "roundNumber": 3,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "CB0282C0-99EC-5588-978E-E53B5B5F7034",
+      "date": "2021-07-09T00:00:00Z",
+      "tournament": "John Deere Classic",
+      "course": "TPC Deere Run - Silvis, IL",
+      "roundNumber": 2,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "BB2574D1-5C0C-53AD-A756-F5C1D1CD0D9F",
+      "date": "2021-07-09T00:00:00Z",
+      "tournament": "John Deere Classic",
+      "course": "TPC Deere Run - Silvis, IL.",
+      "roundNumber": 2,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "D9282C5C-C79C-593E-AD62-21B4F60527D5",
+      "date": "2021-07-08T00:00:00Z",
+      "tournament": "John Deere Classic",
+      "course": "TPC Deere Run - Silvis, IL",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "BF4D5014-1F56-5929-AFC0-510CF6E1AC54",
+      "date": "2021-07-08T00:00:00Z",
+      "tournament": "John Deere Classic",
+      "course": "TPC Deere Run - Silvis, IL.",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "EFC19AD4-4CC0-5206-B480-F2E60062CB95",
+      "date": "2021-07-02T00:00:00Z",
+      "tournament": "Rocket Mortgage Classic",
+      "course": "Detroit Golf Club - Detroit, MI",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "5BB1A6E0-7FD4-55AD-AAAB-91B2BD3C73F1",
+      "date": "2021-07-02T00:00:00Z",
+      "tournament": "Rocket Mortgage Classic",
+      "course": "Detroit Golf Club - Detroit, MI.",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "922CBA7E-E723-5D76-8712-696EB9CDDDCA",
+      "date": "2021-07-01T00:00:00Z",
+      "tournament": "Rocket Mortgage Classic",
+      "course": "Detroit Golf Club - Detroit, MI",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "57BD6287-65DC-533C-9F42-6B52F3A9DD9B",
+      "date": "2021-07-01T00:00:00Z",
+      "tournament": "Rocket Mortgage Classic",
+      "course": "Detroit Golf Club - Detroit, MI.",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "EFA0BCAC-FC6E-5974-B70E-5B995375F932",
+      "date": "2021-06-25T00:00:00Z",
+      "tournament": "Travelers Championship",
+      "course": "TPC River Highlands - Cromwell, CT",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "42441A33-8D93-5176-9D25-A3B805124C42",
+      "date": "2021-06-24T00:00:00Z",
+      "tournament": "Travelers Championship",
+      "course": "TPC River Highlands - Cromwell, CT",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "6DAF4763-4353-5463-99B2-D94B89049062",
+      "date": "2021-06-13T00:00:00Z",
+      "tournament": "Palmetto Championship at Congaree",
+      "course": "Congaree Golf Club - Ridgeland, SC",
+      "roundNumber": 4,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "97EFA0F7-68B1-5F6A-8823-ECACE8230DEF",
+      "date": "2021-06-13T00:00:00Z",
+      "tournament": "Palmetto Championship at Congaree",
+      "course": "Congaree Golf Club - Ridgeland, SC.",
+      "roundNumber": 4,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "148489E5-AC5F-57BE-935A-2C937D341CDC",
+      "date": "2021-06-12T00:00:00Z",
+      "tournament": "Palmetto Championship at Congaree",
+      "course": "Congaree Golf Club - Ridgeland, SC",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B838E185-4EE2-5330-A3F3-B7B60F18AED2",
+      "date": "2021-06-12T00:00:00Z",
+      "tournament": "Palmetto Championship at Congaree",
+      "course": "Congaree Golf Club - Ridgeland, SC.",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "FD22B1CC-CABE-522A-AE70-DDD1715C9D11",
+      "date": "2021-06-11T00:00:00Z",
+      "tournament": "Palmetto Championship at Congaree",
+      "course": "Congaree Golf Club - Ridgeland, SC",
+      "roundNumber": 2,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "2B99D141-5069-5F78-99A8-5772B68E04DE",
+      "date": "2021-06-11T00:00:00Z",
+      "tournament": "Palmetto Championship at Congaree",
+      "course": "Congaree Golf Club - Ridgeland, SC.",
+      "roundNumber": 2,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "79B71706-2FFD-5873-90C6-387790520422",
+      "date": "2021-06-10T00:00:00Z",
+      "tournament": "Palmetto Championship at Congaree",
+      "course": "Congaree Golf Club - Ridgeland, SC",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "8985BD9D-7546-53BB-AC05-9572BD1BE1BD",
+      "date": "2021-06-10T00:00:00Z",
+      "tournament": "Palmetto Championship at Congaree",
+      "course": "Congaree Golf Club - Ridgeland, SC.",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "C87F4747-FFC8-53EC-BE1C-939CF1BFCD31",
+      "date": "2021-05-16T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "TPC Craig Ranch - McKinney, TX",
+      "roundNumber": 4,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "6B3E6307-C585-5FF9-83DE-781056D6219A",
+      "date": "2021-05-16T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "TPC Craig Ranch - McKinney, TX.",
+      "roundNumber": 4,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "2645CC71-779B-5D83-945C-760651B96D4E",
+      "date": "2021-05-15T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "TPC Craig Ranch - McKinney, TX",
+      "roundNumber": 3,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "4336696F-FCB2-58CB-BF61-AD53C0885D43",
+      "date": "2021-05-15T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "TPC Craig Ranch - McKinney, TX.",
+      "roundNumber": 3,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "0D2E5FC7-F318-5015-84B7-0195159C85BF",
+      "date": "2021-05-14T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "TPC Craig Ranch - McKinney, TX",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "052583C8-D691-510A-B31F-26EB34751183",
+      "date": "2021-05-14T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "TPC Craig Ranch - McKinney, TX.",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "C8BE1FA9-016B-515B-84EF-60E17C66F62E",
+      "date": "2021-05-13T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "TPC Craig Ranch - McKinney, TX",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B9B752F6-5FF7-5D91-990D-245E8C4CAFEC",
+      "date": "2021-05-13T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "TPC Craig Ranch - McKinney, TX.",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "4BFF75C2-1ED6-5112-9A04-14719A0AD0E0",
+      "date": "2021-05-07T00:00:00Z",
+      "tournament": "Wells Fargo Championship",
+      "course": "Quail Hollow Club - Charlotte, NC",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "91925E68-F7DD-57F8-8D6D-B0F5C3849BB8",
+      "date": "2021-05-07T00:00:00Z",
+      "tournament": "Wells Fargo Championship",
+      "course": "Quail Hollow Club - Charlotte, NC.",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "8C71B9CB-C6D8-594E-9636-C833CEDB4267",
+      "date": "2021-05-06T00:00:00Z",
+      "tournament": "Wells Fargo Championship",
+      "course": "Quail Hollow Club - Charlotte, NC",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "D0641ADF-D8BF-5D79-B52C-E27D4A7E7F1E",
+      "date": "2021-05-06T00:00:00Z",
+      "tournament": "Wells Fargo Championship",
+      "course": "Quail Hollow Club - Charlotte, NC.",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "C80C5ABF-FCCA-5E9E-91B9-47D4393D7DB3",
+      "date": "2021-04-30T00:00:00Z",
+      "tournament": "Valspar Championship",
+      "course": "Innisbrook Resort (Copperhead Course) - Palm Harbor, FL",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "7B58B780-E434-5565-BA2D-3DD57DEC01E7",
+      "date": "2021-04-30T00:00:00Z",
+      "tournament": "Valspar Championship",
+      "course": "Innisbrook Resort (Copperhead Course) - Palm Harbor, FL.",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "ACB5D78F-B8AA-51D6-9D9E-9BFCB2CE9558",
+      "date": "2021-04-29T00:00:00Z",
+      "tournament": "Valspar Championship",
+      "course": "Innisbrook Resort (Copperhead Course) - Palm Harbor, FL",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "A601702E-F971-58AB-9C8D-E10F0F9A33F0",
+      "date": "2021-04-29T00:00:00Z",
+      "tournament": "Valspar Championship",
+      "course": "Innisbrook Resort (Copperhead Course) - Palm Harbor, FL.",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "BCD7AB8A-C2D2-5A89-9C83-91AE6ABB2587",
+      "date": "2021-04-02T00:00:00Z",
+      "tournament": "Valero Texas Open",
+      "course": "TPC San Antonio (Oaks Course) - San Antonio, TX",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "DD59F4E3-D3CA-5AFD-A97E-FC5EDFA15280",
+      "date": "2021-04-02T00:00:00Z",
+      "tournament": "Valero Texas Open",
+      "course": "TPC San Antonio (Oaks Course) - San Antonio, TX.",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "07D5F611-7D39-5970-BC9B-470D34C2A0D5",
+      "date": "2021-04-01T00:00:00Z",
+      "tournament": "Valero Texas Open",
+      "course": "TPC San Antonio (Oaks Course) - San Antonio, TX",
+      "roundNumber": 1,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "69130E1C-68E5-5AA0-928D-B8C778CD1B08",
+      "date": "2021-04-01T00:00:00Z",
+      "tournament": "Valero Texas Open",
+      "course": "TPC San Antonio (Oaks Course) - San Antonio, TX.",
+      "roundNumber": 1,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "CDBB3D76-516F-5D0E-A46A-79183A46CCE4",
+      "date": "2021-03-26T00:00:00Z",
+      "tournament": "Corales Puntacana Resort & Club Championship",
+      "course": "Puntacana Resort & Club (Corales Golf Course) - Punta Cana, Dominican Republic",
+      "roundNumber": 2,
+      "score": 78,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "2875AC7B-A539-5345-A863-3E67A9DC0DD0",
+      "date": "2021-03-26T00:00:00Z",
+      "tournament": "Corales Puntacana Resort & Club Championship",
+      "course": "Puntacana Resort & Club (Corales Golf Course) - Punta Cana, Dominican Republic.",
+      "roundNumber": 2,
+      "score": 78,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "27B5B8FB-C0C2-55BF-81D0-BACF7EF7D017",
+      "date": "2021-03-25T00:00:00Z",
+      "tournament": "Corales Puntacana Resort & Club Championship",
+      "course": "Puntacana Resort & Club (Corales Golf Course) - Punta Cana, Dominican Republic",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "7F528BC1-E426-5256-A43D-4FACC027BC00",
+      "date": "2021-03-25T00:00:00Z",
+      "tournament": "Corales Puntacana Resort & Club Championship",
+      "course": "Puntacana Resort & Club (Corales Golf Course) - Punta Cana, Dominican Republic.",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "BDD2E8EA-7378-5159-A1B2-A81047C93339",
+      "date": "2021-03-19T00:00:00Z",
+      "tournament": "The Honda Classic",
+      "course": "PGA National Resort & Spa (The Champion) - Palm Beach Gardens, FL",
+      "roundNumber": 2,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "EF5F9C42-8C61-5368-9D0E-150F3B3AC355",
+      "date": "2021-03-19T00:00:00Z",
+      "tournament": "The Honda Classic",
+      "course": "PGA National Resort & Spa (The Champion) - Palm Beach Gardens, FL.",
+      "roundNumber": 2,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "B285D4E6-1726-5942-9CC1-D994DA2E69AA",
+      "date": "2021-03-18T00:00:00Z",
+      "tournament": "The Honda Classic",
+      "course": "PGA National Resort & Spa (The Champion) - Palm Beach Gardens, FL",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "42EAC44D-EA55-5123-983D-39D33F655DFB",
+      "date": "2021-03-18T00:00:00Z",
+      "tournament": "The Honda Classic",
+      "course": "PGA National Resort & Spa (The Champion) - Palm Beach Gardens, FL.",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "262C5110-6629-53A1-AB00-B2763C259B63",
+      "date": "2021-02-28T00:00:00Z",
+      "tournament": "Puerto Rico Open",
+      "course": "Grand Reserve Country Club - Rio Grande, Puerto Rico",
+      "roundNumber": 4,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "0E86FB97-A7AD-5EB8-BB06-F1ABA7567981",
+      "date": "2021-02-28T00:00:00Z",
+      "tournament": "Puerto Rico Open",
+      "course": "Grand Reserve Country Club - Rio Grande, Puerto Rico.",
+      "roundNumber": 4,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "0903FB20-8309-51F6-ADBC-3E1DB910C5A8",
+      "date": "2021-02-27T00:00:00Z",
+      "tournament": "Puerto Rico Open",
+      "course": "Grand Reserve Country Club - Rio Grande, Puerto Rico",
+      "roundNumber": 3,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "0DCB67D3-C9CD-5034-B507-5ACB9D49444E",
+      "date": "2021-02-27T00:00:00Z",
+      "tournament": "Puerto Rico Open",
+      "course": "Grand Reserve Country Club - Rio Grande, Puerto Rico.",
+      "roundNumber": 3,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "289DEC3A-B366-5391-B2A8-142AB0CBF598",
+      "date": "2021-02-26T00:00:00Z",
+      "tournament": "Puerto Rico Open",
+      "course": "Grand Reserve Country Club - Rio Grande, Puerto Rico",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "5D42DCDE-71D3-55D9-8715-6E30B15E6A44",
+      "date": "2021-02-26T00:00:00Z",
+      "tournament": "Puerto Rico Open",
+      "course": "Grand Reserve Country Club - Rio Grande, Puerto Rico.",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "5B1620DF-8634-58A2-A24C-C043A1E905F1",
+      "date": "2021-02-25T00:00:00Z",
+      "tournament": "Puerto Rico Open",
+      "course": "Grand Reserve Country Club - Rio Grande, Puerto Rico",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "F60A6621-F320-51E6-961C-47E823B77B1B",
+      "date": "2021-02-25T00:00:00Z",
+      "tournament": "Puerto Rico Open",
+      "course": "Grand Reserve Country Club - Rio Grande, Puerto Rico.",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "F72F5F89-B9C1-511D-87B7-B5FB1AD6E15C",
+      "date": "2021-02-14T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 4,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "15B555E7-EEE3-551C-A963-32A807E5BEEE",
+      "date": "2021-02-14T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA. Pebble Beach Golf Links - Pebble Beach, CA.",
+      "roundNumber": 4,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "5DB0AFE7-5311-50EE-8702-BD588D5EE367",
+      "date": "2021-02-13T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 3,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "63304BA1-DBF8-5FDB-9292-E532CA8166BF",
+      "date": "2021-02-13T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA. Pebble Beach Golf Links - Pebble Beach, CA.",
+      "roundNumber": 3,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "CF499BB9-CCD1-575C-8313-3C8464F16DDC",
+      "date": "2021-02-12T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "4BC78E02-6270-580A-B591-73B6D00B800D",
+      "date": "2021-02-12T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA. Pebble Beach Golf Links - Pebble Beach, CA.",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "4E2EEDD6-FF86-5883-9AF1-D5E1B4AE07BA",
+      "date": "2021-02-11T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "1FA9DF95-B015-5EDB-A5E7-8C247643DF6B",
+      "date": "2021-02-11T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA. Pebble Beach Golf Links - Pebble Beach, CA.",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "CF4726A8-51A2-5F7A-9113-65EEF6B82468",
+      "date": "2021-01-29T00:00:00Z",
+      "tournament": "Farmers Insurance Open",
+      "course": "Torrey Pines (North Course) - La Jolla, CA",
+      "roundNumber": 2,
+      "score": 79,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "C4191A52-DC96-520F-86A8-5604E7ED9550",
+      "date": "2021-01-29T00:00:00Z",
+      "tournament": "Farmers Insurance Open",
+      "course": "Torrey Pines (North Course) - La Jolla, CA. Torrey Pines (South Course) - La Jolla, CA.",
+      "roundNumber": 2,
+      "score": 79,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "F521BA48-D6A2-564F-97F6-EED595182353",
+      "date": "2021-01-28T00:00:00Z",
+      "tournament": "Farmers Insurance Open",
+      "course": "Torrey Pines (North Course) - La Jolla, CA",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "51B342CD-294F-523D-A84A-CF8DEA45D888",
+      "date": "2021-01-28T00:00:00Z",
+      "tournament": "Farmers Insurance Open",
+      "course": "Torrey Pines (North Course) - La Jolla, CA. Torrey Pines (South Course) - La Jolla, CA.",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "87A9E5D1-5163-5568-B856-751F0B02B8D5",
+      "date": "2021-01-24T00:00:00Z",
+      "tournament": "The American Express",
+      "course": "Jack Nicklaus Tournament Course - La Quinta, CA",
+      "roundNumber": 4,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "DCE8F817-7719-5B60-A89A-2579450B7669",
+      "date": "2021-01-24T00:00:00Z",
+      "tournament": "The American Express",
+      "course": "Jack Nicklaus Tournament Course - La Quinta, CA. Pete Dye Stadium Course - La Quinta, CA.",
+      "roundNumber": 4,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "11F40128-7E3F-5941-B6AD-306C6F437598",
+      "date": "2021-01-23T00:00:00Z",
+      "tournament": "The American Express",
+      "course": "Jack Nicklaus Tournament Course - La Quinta, CA",
+      "roundNumber": 3,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B2204F35-8EAE-5830-8E6E-0BDB7685D211",
+      "date": "2021-01-23T00:00:00Z",
+      "tournament": "The American Express",
+      "course": "Jack Nicklaus Tournament Course - La Quinta, CA. Pete Dye Stadium Course - La Quinta, CA.",
+      "roundNumber": 3,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "E6FD43C3-8027-5A7C-A9BD-A1E24129A303",
+      "date": "2021-01-22T00:00:00Z",
+      "tournament": "The American Express",
+      "course": "Jack Nicklaus Tournament Course - La Quinta, CA",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "C90845A7-F343-5FBD-9347-F29CF8D5BAD5",
+      "date": "2021-01-22T00:00:00Z",
+      "tournament": "The American Express",
+      "course": "Jack Nicklaus Tournament Course - La Quinta, CA. Pete Dye Stadium Course - La Quinta, CA.",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "A731468A-5FF5-521F-AA6C-94AE72DCD889",
+      "date": "2021-01-21T00:00:00Z",
+      "tournament": "The American Express",
+      "course": "Jack Nicklaus Tournament Course - La Quinta, CA",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "83B13951-F1E1-5164-9337-BA376355FE58",
+      "date": "2021-01-21T00:00:00Z",
+      "tournament": "The American Express",
+      "course": "Jack Nicklaus Tournament Course - La Quinta, CA. Pete Dye Stadium Course - La Quinta, CA.",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "B0A465BF-E386-520D-9B37-0B7264D0D23D",
+      "date": "2021-01-15T00:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Waialae Country Club - Honolulu, HI",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "145F30CF-0E0A-5707-A277-4760A1711801",
+      "date": "2021-01-15T00:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Waialae Country Club - Honolulu, HI.",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "951F1EE8-CB1C-5510-B0F1-4B1E36D6245C",
+      "date": "2021-01-14T00:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Waialae Country Club - Honolulu, HI",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "FB4462CC-F026-52D0-B9D8-DBA9916EB9AA",
+      "date": "2021-01-14T00:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Waialae Country Club - Honolulu, HI.",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "BE5710BB-23B1-5B15-9880-23F94DE80EC3",
+      "date": "2020-12-04T00:00:00Z",
+      "tournament": "Mayakoba Golf Classic presented by UNIFIN",
+      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "28D302B4-2E92-5518-B7ED-6EE07451BFA1",
+      "date": "2020-12-03T00:00:00Z",
+      "tournament": "Mayakoba Golf Classic presented by UNIFIN",
+      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "7079B3A0-C2C6-5865-B437-F63B5F6D7FFB",
+      "date": "2020-11-24T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA. Sea Island Resort (Plantation Course) - Saint Simons Island, GA.",
+      "roundNumber": 4,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "911EC64D-54D7-5540-92EF-15D5B5475DD3",
+      "date": "2020-11-23T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA. Sea Island Resort (Plantation Course) - Saint Simons Island, GA.",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "03C0C1D1-36A2-560B-BC01-E30A04D09475",
+      "date": "2020-11-22T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA",
+      "roundNumber": 4,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B7204039-EF86-5009-86BC-570C098123A5",
+      "date": "2020-11-22T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA. Sea Island Resort (Plantation Course) - Saint Simons Island, GA.",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "9D1C09CE-4F36-56BB-A261-0A5A408BC2C4",
+      "date": "2020-11-21T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "512FC152-7436-5FCA-8363-50C188C604B5",
+      "date": "2020-11-21T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA. Sea Island Resort (Plantation Course) - Saint Simons Island, GA.",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "3A6745C5-6600-54B2-9744-4E473C9E62B6",
+      "date": "2020-11-20T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA",
+      "roundNumber": 2,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "FA0E6F6E-804A-5B22-AE59-12A854F5D6B2",
+      "date": "2020-11-19T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "E9CEEBB6-1432-5313-9381-D601A757DE1E",
+      "date": "2020-11-15T00:00:00Z",
+      "tournament": "Mayakoba Golf Classic",
+      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico.",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "2E7839DD-FA7E-5BB6-977A-AA7D73F15BB5",
+      "date": "2020-11-14T00:00:00Z",
+      "tournament": "Mayakoba Golf Classic",
+      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico.",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "5E3BBD9A-B47B-5761-B188-1F5B81FB49DA",
+      "date": "2020-11-03T00:00:00Z",
+      "tournament": "Bermuda Championship",
+      "course": "Port Royal Golf Course - Southampton Parish, Bermuda.",
+      "roundNumber": 4,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "F33F4E80-AAE0-5EED-B466-470BE82FAF7A",
+      "date": "2020-11-02T00:00:00Z",
+      "tournament": "Bermuda Championship",
+      "course": "Port Royal Golf Course - Southampton Parish, Bermuda.",
+      "roundNumber": 3,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "269EDD9C-A5CB-5C8A-A104-AED432BC6F1B",
+      "date": "2020-11-01T00:00:00Z",
+      "tournament": "Bermuda Championship",
+      "course": "Port Royal Golf Course - Southampton Parish, Bermuda.",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "3F8A329D-7968-5FF9-8D60-DD1066FE8D73",
+      "date": "2020-10-31T00:00:00Z",
+      "tournament": "Bermuda Championship",
+      "course": "Port Royal Golf Course - Southampton Parish, Bermuda.",
+      "roundNumber": 1,
+      "score": 64,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "18E69ACD-0020-55ED-B3BE-BF34E14F8ECE",
+      "date": "2020-10-30T00:00:00Z",
+      "tournament": "Bermuda Championship",
+      "course": "Port Royal Golf Course - Southampton Parish, Bermuda",
+      "roundNumber": 2,
+      "score": 78,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "9E905F18-1BE2-5ADB-92F7-D0C27D0DE4CD",
+      "date": "2020-10-29T00:00:00Z",
+      "tournament": "Bermuda Championship",
+      "course": "Port Royal Golf Course - Southampton Parish, Bermuda",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "25F8CE66-AB17-5EA8-AF73-20016F3FD98D",
+      "date": "2020-10-13T00:00:00Z",
+      "tournament": "Houston Open",
+      "course": "Golf Club of Houston - Houston, TX.",
+      "roundNumber": 4,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "16C8C59E-6775-5118-BF37-23E7B86C6016",
+      "date": "2020-10-12T00:00:00Z",
+      "tournament": "Houston Open",
+      "course": "Golf Club of Houston - Houston, TX.",
+      "roundNumber": 3,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "28781FD6-6A12-5D3D-B781-9C178A52F917",
+      "date": "2020-10-11T00:00:00Z",
+      "tournament": "Houston Open",
+      "course": "Golf Club of Houston - Houston, TX.",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "410B5F40-BFF5-5F35-A23A-ED4E282266E2",
+      "date": "2020-10-10T00:00:00Z",
+      "tournament": "Houston Open",
+      "course": "Golf Club of Houston - Houston, TX.",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "D9A652D4-960D-55EF-8F77-1F12AED45A9D",
+      "date": "2020-10-04T00:00:00Z",
+      "tournament": "Shriners Hospitals for Children Open",
+      "course": "TPC Summerlin - Las Vegas, NV.",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "D7139318-A3BD-5E4A-B645-B1458CA823B8",
+      "date": "2020-10-03T00:00:00Z",
+      "tournament": "Shriners Hospitals for Children Open",
+      "course": "TPC Summerlin - Las Vegas, NV.",
+      "roundNumber": 1,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "3FA9389C-FFFB-549C-8666-26A6EC038565",
+      "date": "2020-09-29T00:00:00Z",
+      "tournament": "Safeway Open",
+      "course": "Silverado Resort and Spa (North Course) - Napa, CA.",
+      "roundNumber": 4,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "1181BF12-E8D7-52BF-BCE2-5D3DED8335E0",
+      "date": "2020-09-28T00:00:00Z",
+      "tournament": "Safeway Open",
+      "course": "Silverado Resort and Spa (North Course) - Napa, CA.",
+      "roundNumber": 3,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "BD1290D7-A29E-5AFD-B145-4BA8F54D4DD6",
+      "date": "2020-09-27T00:00:00Z",
+      "tournament": "Safeway Open",
+      "course": "Silverado Resort and Spa (North Course) - Napa, CA.",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "D35807CE-ABDD-5BD6-BB61-E0F4587447CC",
+      "date": "2020-09-26T00:00:00Z",
+      "tournament": "Safeway Open",
+      "course": "Silverado Resort and Spa (North Course) - Napa, CA.",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "A0DAA43C-087E-5D78-8525-EBFAE6F1BB1F",
+      "date": "2020-09-20T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS.",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "9ABE10A3-7802-57C9-B61F-DC158FA9736E",
+      "date": "2020-09-19T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS.",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "92D46DF1-2256-56CD-8233-584116E4DE4E",
+      "date": "2020-09-15T00:00:00Z",
+      "tournament": "A Military Tribute at The Greenbrier",
+      "course": "The Old White Course - White Sulphur Springs, WV.",
+      "roundNumber": 4,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "35DF7660-B1E6-5DFB-9141-6B9B1BBD3CF2",
+      "date": "2020-09-14T00:00:00Z",
+      "tournament": "A Military Tribute at The Greenbrier",
+      "course": "The Old White Course - White Sulphur Springs, WV.",
+      "roundNumber": 3,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "A7BF722E-68D3-5AF5-8E50-F33CD6FBF9C8",
+      "date": "2020-09-13T00:00:00Z",
+      "tournament": "Safeway Open",
+      "course": "Silverado Resort and Spa (North Course) - Napa, CA",
+      "roundNumber": 4,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "83BD9DB1-7AA0-5AF4-9B4E-0DA9FFE97195",
+      "date": "2020-09-13T00:00:00Z",
+      "tournament": "A Military Tribute at The Greenbrier",
+      "course": "The Old White Course - White Sulphur Springs, WV.",
+      "roundNumber": 2,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "0910975C-AB2C-5A42-840F-66345E11EA88",
+      "date": "2020-09-12T00:00:00Z",
+      "tournament": "Safeway Open",
+      "course": "Silverado Resort and Spa (North Course) - Napa, CA",
+      "roundNumber": 3,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "F749B97E-1A88-5FCF-AA63-E75767DD0D45",
+      "date": "2020-09-12T00:00:00Z",
+      "tournament": "A Military Tribute at The Greenbrier",
+      "course": "The Old White Course - White Sulphur Springs, WV.",
+      "roundNumber": 1,
+      "score": 65,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "2D9C60FF-0757-5B88-BDF3-15F7B794CD98",
+      "date": "2020-09-11T00:00:00Z",
+      "tournament": "Safeway Open",
+      "course": "Silverado Resort and Spa (North Course) - Napa, CA",
+      "roundNumber": 2,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "D12BFA63-4185-5CCA-B3A4-56C6BAB10449",
+      "date": "2020-09-10T00:00:00Z",
+      "tournament": "Safeway Open",
+      "course": "Silverado Resort and Spa (North Course) - Napa, CA",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "2CC96F68-142B-5F7A-A1F3-0B79BAA3E951",
+      "date": "2020-08-16T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC",
+      "roundNumber": 4,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "09F88BB7-0062-52EE-881B-66B8EFBFCF53",
+      "date": "2020-08-16T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC.",
+      "roundNumber": 4,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "5C7898F3-02BD-5909-B9BC-C403EE26FD96",
+      "date": "2020-08-15T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC",
+      "roundNumber": 3,
+      "score": 62,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "BDA54E90-739F-5C1C-A742-C8872A4B1C31",
+      "date": "2020-08-15T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC.",
+      "roundNumber": 3,
+      "score": 62,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "5F97FD07-E4BD-5B84-BF2C-078757524E01",
+      "date": "2020-08-14T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC",
+      "roundNumber": 2,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "D59AD6F5-3FE2-5C94-AEC8-4EDC6E393686",
+      "date": "2020-08-14T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC.",
+      "roundNumber": 2,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "F2ED4E28-A046-5605-B25B-EE7C578C13BD",
+      "date": "2020-08-13T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC",
+      "roundNumber": 1,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "A0B880DA-B5AF-5A97-9C1F-74CA0005188D",
+      "date": "2020-08-13T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC.",
+      "roundNumber": 1,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "0148AA1A-433C-5EC5-B989-718E00FA038D",
+      "date": "2020-07-24T00:00:00Z",
+      "tournament": "3M Open",
+      "course": "TPC Twin Cities - Blaine, MN",
+      "roundNumber": 2,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "D0DBA2B3-6DF4-5743-92A4-ED85C386F458",
+      "date": "2020-07-24T00:00:00Z",
+      "tournament": "3M Open",
+      "course": "TPC Twin Cities - Blaine, MN.",
+      "roundNumber": 2,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "93B63C7C-9E6C-59DA-BAD6-BDA091023EAD",
+      "date": "2020-07-23T00:00:00Z",
+      "tournament": "3M Open",
+      "course": "TPC Twin Cities - Blaine, MN",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "6918201B-752B-5ADE-AA77-A321AA2DC9F3",
+      "date": "2020-07-23T00:00:00Z",
+      "tournament": "3M Open",
+      "course": "TPC Twin Cities - Blaine, MN.",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "1D3EC2CC-2AF0-58D1-9F47-A908B7D64572",
+      "date": "2020-07-10T00:00:00Z",
+      "tournament": "Workday Charity Open",
+      "course": "Muirfield Village Golf Club - Dublin, OH",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "5B2B4F6D-919B-5ADE-9DFD-213149976EEF",
+      "date": "2020-07-10T00:00:00Z",
+      "tournament": "Workday Charity Open",
+      "course": "Muirfield Village Golf Club - Dublin, OH.",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "DF701C6D-5677-5E64-95DC-2FA37EF5387C",
+      "date": "2020-07-09T00:00:00Z",
+      "tournament": "Workday Charity Open",
+      "course": "Muirfield Village Golf Club - Dublin, OH",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "BCFB3C37-882D-589A-9409-B5CD5E71DBBA",
+      "date": "2020-07-09T00:00:00Z",
+      "tournament": "Workday Charity Open",
+      "course": "Muirfield Village Golf Club - Dublin, OH.",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "25E02957-2D57-5596-AD1D-E35359AAF0F2",
+      "date": "2020-07-03T00:00:00Z",
+      "tournament": "Rocket Mortgage Classic",
+      "course": "Detroit Golf Club - Detroit, MI",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "F0EFF3C6-FAD1-55DB-8063-D60B475024FF",
+      "date": "2020-07-03T00:00:00Z",
+      "tournament": "Rocket Mortgage Classic",
+      "course": "Detroit Golf Club - Detroit, MI.",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "A6F407D1-30BA-51FB-9952-46A785BBA83B",
+      "date": "2020-07-02T00:00:00Z",
+      "tournament": "Rocket Mortgage Classic",
+      "course": "Detroit Golf Club - Detroit, MI",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "5B8CB21D-5EA8-5A72-AB87-6DD3AB567308",
+      "date": "2020-07-02T00:00:00Z",
+      "tournament": "Rocket Mortgage Classic",
+      "course": "Detroit Golf Club - Detroit, MI.",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "0923AA7D-14CF-5A4A-A87C-85158AFF4ECF",
+      "date": "2020-06-26T00:00:00Z",
+      "tournament": "Travelers Championship",
+      "course": "TPC River Highlands - Cromwell, CT",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "038889E2-7951-5B33-A32C-43A6DB004337",
+      "date": "2020-06-26T00:00:00Z",
+      "tournament": "Travelers Championship",
+      "course": "TPC River Highlands - Cromwell, CT.",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "04B62486-50E4-5247-BC5A-28DA86BBA1EB",
+      "date": "2020-06-25T00:00:00Z",
+      "tournament": "Travelers Championship",
+      "course": "TPC River Highlands - Cromwell, CT",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "7E0964A7-1C28-54D5-B01A-93F87DE536AB",
+      "date": "2020-06-25T00:00:00Z",
+      "tournament": "Travelers Championship",
+      "course": "TPC River Highlands - Cromwell, CT.",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "169E3108-7A80-59F8-90A2-A4345512AA3C",
+      "date": "2020-03-08T00:00:00Z",
+      "tournament": "Arnold Palmer Invitational Pres. By Mastercard",
+      "course": "Arnold Palmer's Bay Hill Club & Lodge - Orlando, FL",
+      "roundNumber": 4,
+      "score": 83,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "563BA40B-28C5-55B0-8F09-BED0606C843F",
+      "date": "2020-03-08T00:00:00Z",
+      "tournament": "Arnold Palmer Invitational Pres. By Mastercard",
+      "course": "Arnold Palmer's Bay Hill Club & Lodge - Orlando, FL.",
+      "roundNumber": 4,
+      "score": 83,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "CA9722E5-4DED-53E2-AE91-C5247E30E18A",
+      "date": "2020-03-07T00:00:00Z",
+      "tournament": "Arnold Palmer Invitational Pres. By Mastercard",
+      "course": "Arnold Palmer's Bay Hill Club & Lodge - Orlando, FL",
+      "roundNumber": 3,
+      "score": 83,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "6D9C0044-EFC3-595F-BFD5-7E8B55AFFBEB",
+      "date": "2020-03-07T00:00:00Z",
+      "tournament": "Arnold Palmer Invitational Pres. By Mastercard",
+      "course": "Arnold Palmer's Bay Hill Club & Lodge - Orlando, FL.",
+      "roundNumber": 3,
+      "score": 83,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "A9C476DD-6FB1-572F-BBFE-4CCFC20C6E42",
+      "date": "2020-03-06T00:00:00Z",
+      "tournament": "Arnold Palmer Invitational Pres. By Mastercard",
+      "course": "Arnold Palmer's Bay Hill Club & Lodge - Orlando, FL",
+      "roundNumber": 2,
+      "score": 78,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "0B0F3521-DAF6-5E72-AAD7-49CDCFD1593B",
+      "date": "2020-03-06T00:00:00Z",
+      "tournament": "Arnold Palmer Invitational Pres. By Mastercard",
+      "course": "Arnold Palmer's Bay Hill Club & Lodge - Orlando, FL.",
+      "roundNumber": 2,
+      "score": 78,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "C701EEAB-D117-54C3-A805-90F10F2CF798",
+      "date": "2020-03-05T00:00:00Z",
+      "tournament": "Arnold Palmer Invitational Pres. By Mastercard",
+      "course": "Arnold Palmer's Bay Hill Club & Lodge - Orlando, FL",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "221E42E1-4FD5-54ED-8D24-254621F31688",
+      "date": "2020-03-05T00:00:00Z",
+      "tournament": "Arnold Palmer Invitational Pres. By Mastercard",
+      "course": "Arnold Palmer's Bay Hill Club & Lodge - Orlando, FL.",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "625D26AA-F5D2-5DA7-8913-98D4FEBF0A17",
+      "date": "2020-02-28T00:00:00Z",
+      "tournament": "The Honda Classic",
+      "course": "PGA National Resort & Spa (The Champion) - Palm Beach Gardens, FL",
+      "roundNumber": 2,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "72165D32-DCA4-5AEA-A5FF-5CA5D6F99E44",
+      "date": "2020-02-28T00:00:00Z",
+      "tournament": "The Honda Classic",
+      "course": "PGA National Resort & Spa (The Champion) - Palm Beach Gardens, FL.",
+      "roundNumber": 2,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "9CBCD690-2803-50AE-AEEA-9873A0B0108A",
+      "date": "2020-02-27T00:00:00Z",
+      "tournament": "The Honda Classic",
+      "course": "PGA National Resort & Spa (The Champion) - Palm Beach Gardens, FL",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "31AC5968-59A8-504A-B617-F97C32C0B774",
+      "date": "2020-02-27T00:00:00Z",
+      "tournament": "The Honda Classic",
+      "course": "PGA National Resort & Spa (The Champion) - Palm Beach Gardens, FL.",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "75491DBB-C2D2-5984-AE60-528DEFD98A1A",
+      "date": "2020-02-23T00:00:00Z",
+      "tournament": "Puerto Rico Open",
+      "course": "Grand Reserve Country Club - Rio Grande, Puerto Rico",
+      "roundNumber": 4,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "92D42CE8-7C59-5405-8C81-66D07EFC14A9",
+      "date": "2020-02-22T00:00:00Z",
+      "tournament": "Puerto Rico Open",
+      "course": "Grand Reserve Country Club - Rio Grande, Puerto Rico",
+      "roundNumber": 3,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "6364E698-EFF7-5EE1-8407-D5F743E068DF",
+      "date": "2020-02-21T00:00:00Z",
+      "tournament": "Puerto Rico Open",
+      "course": "Grand Reserve Country Club - Rio Grande, Puerto Rico",
+      "roundNumber": 2,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "348DA5C7-B622-50E2-B9C9-46EF0CE05515",
+      "date": "2020-02-20T00:00:00Z",
+      "tournament": "Puerto Rico Open",
+      "course": "Grand Reserve Country Club - Rio Grande, Puerto Rico",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "0CB785EE-2C3C-5922-BC32-49B1E6AA772E",
+      "date": "2020-02-09T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 4,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "38D1AC1A-57BB-51A4-B738-67B853B7BC5E",
+      "date": "2020-02-09T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA. Pebble Beach Golf Links - Pebble Beach, CA. Monterey Peninsula Country Club (Shore Course) - Pebble Beach, CA.",
+      "roundNumber": 4,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "192F36E2-58F3-54BF-B5E3-CA784ACE62B7",
+      "date": "2020-02-08T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "F808912F-98C7-5357-80E4-99B3836A9852",
+      "date": "2020-02-08T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA. Pebble Beach Golf Links - Pebble Beach, CA. Monterey Peninsula Country Club (Shore Course) - Pebble Beach, CA.",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "BD5D8D21-3E30-5427-A5BF-59B5CD703AFB",
+      "date": "2020-02-07T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "8837780C-2D7E-5CE3-BE27-154E5AFD7047",
+      "date": "2020-02-07T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA. Pebble Beach Golf Links - Pebble Beach, CA. Monterey Peninsula Country Club (Shore Course) - Pebble Beach, CA.",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "0A211DFC-EEBB-5511-AC4D-74B0166E7D30",
+      "date": "2020-02-06T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "C35BEE1A-8EC3-565E-AB9E-BF65ECC69D55",
+      "date": "2020-02-06T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA. Pebble Beach Golf Links - Pebble Beach, CA. Monterey Peninsula Country Club (Shore Course) - Pebble Beach, CA.",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "9CF10621-7607-54A6-B9D4-876FAD2AABB4",
+      "date": "2020-01-24T00:00:00Z",
+      "tournament": "Farmers Insurance Open",
+      "course": "Torrey Pines (North Course) - La Jolla, CA",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B13BBE95-F686-5773-84D7-8AF5285DD8A4",
+      "date": "2020-01-24T00:00:00Z",
+      "tournament": "Farmers Insurance Open",
+      "course": "Torrey Pines (North Course) - La Jolla, CA. Torrey Pines (South Course) - La Jolla, CA.",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "14879DED-9A91-5865-9810-C79653A72733",
+      "date": "2020-01-23T00:00:00Z",
+      "tournament": "Farmers Insurance Open",
+      "course": "Torrey Pines (North Course) - La Jolla, CA",
+      "roundNumber": 1,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "D76C1226-BCF9-5E03-8DFC-1C0BC4E0CD24",
+      "date": "2020-01-23T00:00:00Z",
+      "tournament": "Farmers Insurance Open",
+      "course": "Torrey Pines (North Course) - La Jolla, CA. Torrey Pines (South Course) - La Jolla, CA.",
+      "roundNumber": 1,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "FDE7F0DB-4C0E-5706-8390-F434AAC13A1C",
+      "date": "2020-01-18T00:00:00Z",
+      "tournament": "The American Express",
+      "course": "La Quinta Country Club - La Quinta, CA",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "42B5FCF0-D3B1-5C44-8D4C-68463C6BCB1D",
+      "date": "2020-01-18T00:00:00Z",
+      "tournament": "The American Express",
+      "course": "La Quinta Country Club - La Quinta, CA. Jack Nicklaus Tournament Course - La Quinta, CA. Pete Dye Stadium Course - La Quinta, CA.",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "A422DBC7-3EF4-5D8B-B967-4BB19697CD90",
+      "date": "2020-01-17T00:00:00Z",
+      "tournament": "The American Express",
+      "course": "La Quinta Country Club - La Quinta, CA",
+      "roundNumber": 2,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "A3812CD6-7EA4-5C1B-89C9-34FD268F7C0D",
+      "date": "2020-01-17T00:00:00Z",
+      "tournament": "The American Express",
+      "course": "La Quinta Country Club - La Quinta, CA. Jack Nicklaus Tournament Course - La Quinta, CA. Pete Dye Stadium Course - La Quinta, CA.",
+      "roundNumber": 2,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "EE3677DC-0CBA-58E3-979A-74B52C81BD35",
+      "date": "2020-01-16T00:00:00Z",
+      "tournament": "The American Express",
+      "course": "La Quinta Country Club - La Quinta, CA",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "172A1858-1B2E-566A-A642-036CB7F4B05F",
+      "date": "2020-01-16T00:00:00Z",
+      "tournament": "The American Express",
+      "course": "La Quinta Country Club - La Quinta, CA. Jack Nicklaus Tournament Course - La Quinta, CA. Pete Dye Stadium Course - La Quinta, CA.",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "590A2184-06FE-5901-939E-491B74284253",
+      "date": "2020-01-12T00:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Waialae Country Club - Honolulu, HI",
+      "roundNumber": 4,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "F1102020-777E-5A2A-AC3E-32F9DB88CD0F",
+      "date": "2020-01-12T00:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Waialae Country Club - Honolulu, HI.",
+      "roundNumber": 4,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "474BEFC4-695C-5802-8489-FBFBBDD23EAA",
+      "date": "2020-01-11T00:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Waialae Country Club - Honolulu, HI",
+      "roundNumber": 3,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "1745632E-DDE7-5960-A3EF-8839D7FD33A4",
+      "date": "2020-01-11T00:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Waialae Country Club - Honolulu, HI.",
+      "roundNumber": 3,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "F73F1375-C06E-5158-9707-C43C949BD23B",
+      "date": "2020-01-10T00:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Waialae Country Club - Honolulu, HI",
+      "roundNumber": 2,
+      "score": 65,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "ADCCF0EB-E876-50D2-A9BC-B02177A2B911",
+      "date": "2020-01-10T00:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Waialae Country Club - Honolulu, HI.",
+      "roundNumber": 2,
+      "score": 65,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "EF16CBF4-96B2-533D-AF26-26DBC8ECF4E3",
+      "date": "2020-01-09T00:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Waialae Country Club - Honolulu, HI",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "DD7CD160-E1E6-5181-A184-80A41303BBE5",
+      "date": "2020-01-09T00:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Waialae Country Club - Honolulu, HI.",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "858D1AE7-F690-58DC-8B9B-0BE7BA17361A",
+      "date": "2019-11-24T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA",
+      "roundNumber": 4,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "3FE837E4-9CF3-59AC-B4C9-5E51C0186215",
+      "date": "2019-11-23T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "E30FAFC6-2F01-579D-8A4B-123EFC96DFE3",
+      "date": "2019-11-22T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "4A3BE2B1-4A9D-52D3-88F5-9C9A2B131281",
+      "date": "2019-11-21T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "900ABC37-1E94-5E2E-902C-9A08DB965863",
+      "date": "2019-11-15T00:00:00Z",
+      "tournament": "Mayakoba Golf Classic",
+      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "44D40A37-B5D4-5F2E-BE4F-5CF186439B8A",
+      "date": "2019-11-14T00:00:00Z",
+      "tournament": "Mayakoba Golf Classic",
+      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "5855E503-E5B2-5372-AC8C-FA3E646541DC",
+      "date": "2019-11-03T00:00:00Z",
+      "tournament": "Bermuda Championship",
+      "course": "Port Royal Golf Course - Southampton Parish, Bermuda",
+      "roundNumber": 4,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "9D22E829-CB4C-5B17-9BDF-AB33F18DBEF9",
+      "date": "2019-11-02T00:00:00Z",
+      "tournament": "Bermuda Championship",
+      "course": "Port Royal Golf Course - Southampton Parish, Bermuda",
+      "roundNumber": 3,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "F3FFABD1-5028-526B-B441-67B9BD861831",
+      "date": "2019-11-02T00:00:00Z",
+      "tournament": "Shriners Hospital for Children Open",
+      "course": "TPC Summerlin - Las Vegas, NV.",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "615E0C95-B6B4-5A40-8CE9-05144F5C66B3",
+      "date": "2019-11-01T00:00:00Z",
+      "tournament": "Bermuda Championship",
+      "course": "Port Royal Golf Course - Southampton Parish, Bermuda",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "45A392C9-E44F-5F72-923B-BCB0F61A41C9",
+      "date": "2019-11-01T00:00:00Z",
+      "tournament": "Shriners Hospital for Children Open",
+      "course": "TPC Summerlin - Las Vegas, NV.",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "6FDC231C-5EBA-50B6-A685-B08F1AA0B83F",
+      "date": "2019-10-31T00:00:00Z",
+      "tournament": "Bermuda Championship",
+      "course": "Port Royal Golf Course - Southampton Parish, Bermuda",
+      "roundNumber": 1,
+      "score": 64,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "A80D0F1E-EB20-53AE-92BC-5C0B38710129",
+      "date": "2019-10-13T00:00:00Z",
+      "tournament": "Houston Open",
+      "course": "Golf Club of Houston - Houston, TX",
+      "roundNumber": 4,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "6E801BF3-ED4B-5DBB-9646-EF9693BC71E8",
+      "date": "2019-10-12T00:00:00Z",
+      "tournament": "Houston Open",
+      "course": "Golf Club of Houston - Houston, TX",
+      "roundNumber": 3,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "D26302BB-B9A8-510F-94A9-8DAF6B30737A",
+      "date": "2019-10-11T00:00:00Z",
+      "tournament": "Houston Open",
+      "course": "Golf Club of Houston - Houston, TX",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "F6B1EB67-CE0B-5F3B-A3C8-FDF479537E67",
+      "date": "2019-10-10T00:00:00Z",
+      "tournament": "Houston Open",
+      "course": "Golf Club of Houston - Houston, TX",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "0FF07D93-E23E-5D89-A1CC-2E5D2DB44CA2",
+      "date": "2019-10-04T00:00:00Z",
+      "tournament": "Shriners Hospitals for Children Open",
+      "course": "TPC Summerlin - Las Vegas, NV",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "957183F1-0E4F-50A0-BA7B-D75F28A39E3B",
+      "date": "2019-10-03T00:00:00Z",
+      "tournament": "Shriners Hospitals for Children Open",
+      "course": "TPC Summerlin - Las Vegas, NV",
+      "roundNumber": 1,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "4ECDA20D-E323-5009-91B3-A1731E69D299",
+      "date": "2019-09-29T00:00:00Z",
+      "tournament": "Safeway Open",
+      "course": "Silverado Resort and Spa (North Course) - Napa, CA",
+      "roundNumber": 4,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "0F810DE5-0A6F-5109-8305-C1E66FAC4DC8",
+      "date": "2019-09-28T00:00:00Z",
+      "tournament": "Safeway Open",
+      "course": "Silverado Resort and Spa (North Course) - Napa, CA",
+      "roundNumber": 3,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "AAF35932-12C6-5838-BA54-E67A550C3B00",
+      "date": "2019-09-27T00:00:00Z",
+      "tournament": "Safeway Open",
+      "course": "Silverado Resort and Spa (North Course) - Napa, CA",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "4743BB47-6426-50D2-A826-A446B21B490C",
+      "date": "2019-09-26T00:00:00Z",
+      "tournament": "Safeway Open",
+      "course": "Silverado Resort and Spa (North Course) - Napa, CA",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "16CD46AA-1EC5-5552-93B8-5DD113D22BF0",
+      "date": "2019-09-20T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "F525523F-6B64-55DC-B69C-FF18CD75EF71",
+      "date": "2019-09-19T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "E32596D4-1F54-5262-88B4-8755A51AEB14",
+      "date": "2019-09-15T00:00:00Z",
+      "tournament": "A Military Tribute at The Greenbrier",
+      "course": "The Old White Course - White Sulphur Springs, WV",
+      "roundNumber": 4,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "C23D3BCD-65E9-582D-8564-E74C95E7D5E0",
+      "date": "2019-09-14T00:00:00Z",
+      "tournament": "A Military Tribute at The Greenbrier",
+      "course": "The Old White Course - White Sulphur Springs, WV",
+      "roundNumber": 3,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "164910E7-E475-583B-8A3A-2DFDFE63A491",
+      "date": "2019-09-13T00:00:00Z",
+      "tournament": "A Military Tribute at The Greenbrier",
+      "course": "The Old White Course - White Sulphur Springs, WV",
+      "roundNumber": 2,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "C7D5EAED-C66B-5A1E-8032-E62032E988BA",
+      "date": "2019-09-12T00:00:00Z",
+      "tournament": "A Military Tribute at The Greenbrier",
+      "course": "The Old White Course - White Sulphur Springs, WV",
+      "roundNumber": 1,
+      "score": 65,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "142480DA-50A3-5A71-984B-6D45B254BC3F",
+      "date": "2019-06-14T00:00:00Z",
+      "tournament": "U.S. Open",
+      "course": "Pebble Beach Golf Links - Pebble Beach, CA",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "A0A880A7-3091-588F-82AC-6A52A75D9E6A",
+      "date": "2019-06-14T00:00:00Z",
+      "tournament": "U.S. Open",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "5EF86C15-5104-534B-A1E2-B3CAA9266AF3",
+      "date": "2019-06-13T00:00:00Z",
+      "tournament": "U.S. Open",
+      "course": "Pebble Beach Golf Links - Pebble Beach, CA",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "A261D13B-5898-5771-B6FA-45D3E5E1248C",
+      "date": "2019-06-13T00:00:00Z",
+      "tournament": "U.S. Open",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "20955366-9572-5975-9F41-C4521ECC3E5B",
+      "date": "2018-11-02T00:00:00Z",
+      "tournament": "Shriners Hospital for Children Open",
+      "course": "TPC Summerlin - Las Vegas, NV",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "610A49FF-393C-5C0A-9C18-FAD8A6462ECD",
+      "date": "2018-11-01T00:00:00Z",
+      "tournament": "Shriners Hospital for Children Open",
+      "course": "TPC Summerlin - Las Vegas, NV",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "6C352FBB-9C05-5638-B1CD-67930CFA790D",
+      "date": "2018-08-17T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC",
+      "roundNumber": 2,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "D35559F2-C9C6-5D3C-9EB7-A4CBDA87BEA7",
+      "date": "2018-08-16T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "6C58F191-8533-51DE-8554-4838D8FF9E51",
+      "date": "2018-07-29T00:00:00Z",
+      "tournament": "RBC Canadian Open",
+      "course": "Glen Abbey GC - Oakville, ON",
+      "roundNumber": 4,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "382BF1BC-32B4-5EBE-BE9C-7EC1C909460A",
+      "date": "2018-07-28T00:00:00Z",
+      "tournament": "RBC Canadian Open",
+      "course": "Glen Abbey GC - Oakville, ON",
+      "roundNumber": 3,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "6B57EDFB-8CC6-5081-984B-9C2A4C2541ED",
+      "date": "2018-07-27T00:00:00Z",
+      "tournament": "RBC Canadian Open",
+      "course": "Glen Abbey GC - Oakville, ON",
+      "roundNumber": 2,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "D11FC07F-E8EB-55EB-9C62-CB0006EAD360",
+      "date": "2018-07-26T00:00:00Z",
+      "tournament": "RBC Canadian Open",
+      "course": "Glen Abbey GC - Oakville, ON",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "032BC1AB-CC34-5F35-92A8-CD01BB03EFE6",
+      "date": "2018-07-22T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "Keene Trace Golf Club (Champions Course) - Nicholasville, KY",
+      "roundNumber": 4,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "E2B3296C-9FFF-563B-86F7-6CFAE670FBC5",
+      "date": "2018-07-21T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "Keene Trace Golf Club (Champions Course) - Nicholasville, KY",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "C43A12CC-70C8-5FAA-8C4C-7D131EB3AADA",
+      "date": "2018-07-20T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "Keene Trace Golf Club (Champions Course) - Nicholasville, KY",
+      "roundNumber": 2,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "8593A10D-8D0F-556C-BD06-0868F4DDACE2",
+      "date": "2018-07-19T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "Keene Trace Golf Club (Champions Course) - Nicholasville, KY",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "2A63537F-09A6-5D71-8932-B0B1B0FD106B",
+      "date": "2018-07-13T00:00:00Z",
+      "tournament": "John Deere Classic",
+      "course": "TPC Deere Run - Silvis, IL",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "E6057FEC-B328-55F3-A84C-8D5806327FA8",
+      "date": "2018-07-12T00:00:00Z",
+      "tournament": "John Deere Classic",
+      "course": "TPC Deere Run - Silvis, IL",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "39DCC1F1-D8B0-509C-A9CE-0786170D67CD",
+      "date": "2018-07-08T00:00:00Z",
+      "tournament": "A Military Tribute at The Greenbrier",
+      "course": "The Old White Course - White Sulphur Springs, WV",
+      "roundNumber": 4,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "89BDF75D-BF9B-56E2-8CEF-5871EC653ECB",
+      "date": "2018-07-07T00:00:00Z",
+      "tournament": "A Military Tribute at The Greenbrier",
+      "course": "The Old White Course - White Sulphur Springs, WV",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "6D617E92-6CAF-5F60-8459-BE0BCF84B989",
+      "date": "2018-07-06T00:00:00Z",
+      "tournament": "A Military Tribute at The Greenbrier",
+      "course": "The Old White Course - White Sulphur Springs, WV",
+      "roundNumber": 2,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "C7EE967B-B857-543C-9F49-A525C77B50FF",
+      "date": "2018-07-05T00:00:00Z",
+      "tournament": "A Military Tribute at The Greenbrier",
+      "course": "The Old White Course - White Sulphur Springs, WV",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "6771218F-64CF-5CFC-92FB-84BE998E47C8",
+      "date": "2018-06-29T00:00:00Z",
+      "tournament": "Quicken Loans National",
+      "course": "TPC Potomac at Avenel Farm - Potomac, MD",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "E304198C-D87D-5530-99F6-B86D5AD98FA5",
+      "date": "2018-06-28T00:00:00Z",
+      "tournament": "Quicken Loans National",
+      "course": "TPC Potomac at Avenel Farm - Potomac, MD",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "7BEC4660-59ED-5AB8-BDFA-7E1483CB3324",
+      "date": "2018-06-22T00:00:00Z",
+      "tournament": "Travelers Championship",
+      "course": "TPC River Highlands - Cromwell, CT",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "F84EA6EB-A108-554B-A659-EED39BFF5893",
+      "date": "2018-06-21T00:00:00Z",
+      "tournament": "Travelers Championship",
+      "course": "TPC River Highlands - Cromwell, CT",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B6AF1B15-69A4-5DC4-B695-070AEE58B06A",
+      "date": "2018-06-08T00:00:00Z",
+      "tournament": "FedEx St. Jude Classic",
+      "course": "TPC Southwind - Memphis, TN",
+      "roundNumber": 2,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "999160C6-FACC-5D80-B4C2-367EF1C70738",
+      "date": "2018-06-07T00:00:00Z",
+      "tournament": "FedEx St. Jude Classic",
+      "course": "TPC Southwind - Memphis, TN",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "02555805-56DF-58FE-BCC6-051D3056871E",
+      "date": "2018-05-18T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "Trinity Forest Golf Club - Dallas, TX",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "FC39B9D8-BD26-5B97-B4DB-2D13C94B4459",
+      "date": "2018-05-17T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "Trinity Forest Golf Club - Dallas, TX",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "9F787A52-1E9E-5FEB-A79D-FC5500772D21",
+      "date": "2018-05-04T00:00:00Z",
+      "tournament": "Wells Fargo Championship",
+      "course": "Quail Hollow Club - Charlotte, NC",
+      "roundNumber": 2,
+      "score": 79,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "97D72EDE-C734-5F15-851F-669032846FF2",
+      "date": "2018-05-03T00:00:00Z",
+      "tournament": "Wells Fargo Championship",
+      "course": "Quail Hollow Club - Charlotte, NC",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "A4037F95-02B2-5EDD-9ACC-772E36BFD0BD",
+      "date": "2018-04-20T00:00:00Z",
+      "tournament": "Valero Texas Open",
+      "course": "TPC San Antonio (Oaks Course) - San Antonio, TX",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B8FD4E2A-AC8B-55E1-91A8-2D3DB208D0D5",
+      "date": "2018-04-19T00:00:00Z",
+      "tournament": "Valero Texas Open",
+      "course": "TPC San Antonio (Oaks Course) - San Antonio, TX",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "1CC09EB2-2F8B-58EE-9BA4-F0673C874B52",
+      "date": "2018-04-01T00:00:00Z",
+      "tournament": "Houston Open",
+      "course": "Golf Club of Houston - Houston, TX",
+      "roundNumber": 4,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "34700BBD-D041-5948-91A2-EFCFFAC14991",
+      "date": "2018-03-31T00:00:00Z",
+      "tournament": "Houston Open",
+      "course": "Golf Club of Houston - Houston, TX",
+      "roundNumber": 3,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "3A703208-E709-5C39-8714-E95C5780486A",
+      "date": "2018-03-30T00:00:00Z",
+      "tournament": "Houston Open",
+      "course": "Golf Club of Houston - Houston, TX",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "171E280D-8B0C-50A4-BA2E-801671A6DCF2",
+      "date": "2018-03-29T00:00:00Z",
+      "tournament": "Houston Open",
+      "course": "Golf Club of Houston - Houston, TX",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "45B7FC5C-4842-5288-AAD0-7643964AEA52",
+      "date": "2018-02-23T00:00:00Z",
+      "tournament": "The Honda Classic",
+      "course": "PGA National Resort & Spa (The Champion) - Palm Beach Gardens, FL",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "4740AA10-1730-5E02-B455-F4CF6278FD82",
+      "date": "2018-02-22T00:00:00Z",
+      "tournament": "The Honda Classic",
+      "course": "PGA National Resort & Spa (The Champion) - Palm Beach Gardens, FL",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "19F5EF0E-9E2B-5538-975A-4D4879A06750",
+      "date": "2018-02-16T00:00:00Z",
+      "tournament": "Genesis Open",
+      "course": "Riviera Country Club - Pacific Palisades, CA",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "241B107F-9A5D-59E5-A4DD-DBBB0315A12B",
+      "date": "2018-02-15T00:00:00Z",
+      "tournament": "Genesis Open",
+      "course": "Riviera Country Club - Pacific Palisades, CA",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "55DBB216-B07E-5DDA-B386-AB9FC90AC33F",
+      "date": "2018-02-11T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 4,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "7B895DF6-CF7F-5E3C-8A52-8A95D649CC05",
+      "date": "2018-02-10T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 3,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "9C29A37A-CA64-5CD0-BF8F-6A7D387F3C9D",
+      "date": "2018-02-09T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "E01E9478-FB5B-5993-91D0-B2C468243980",
+      "date": "2018-02-08T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 1,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "C1EF007D-F772-5E66-AEB2-D62C78164B85",
+      "date": "2018-01-26T00:00:00Z",
+      "tournament": "Farmers Insurance Open",
+      "course": "Torrey Pines (North Course) - La Jolla, CA",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "719ECA2C-9A67-5A43-A8CB-9C2B88E5CF1C",
+      "date": "2018-01-25T00:00:00Z",
+      "tournament": "Farmers Insurance Open",
+      "course": "Torrey Pines (North Course) - La Jolla, CA",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "0D8CF87D-BB73-55CF-ABCF-B1AC07C52438",
+      "date": "2018-01-21T00:00:00Z",
+      "tournament": "CareerBuilder Challenge",
+      "course": "La Quinta Country Club - La Quinta, CA",
+      "roundNumber": 4,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "19CAEF63-C3B8-5B6C-B902-7CFB6E2FF6D8",
+      "date": "2018-01-20T00:00:00Z",
+      "tournament": "CareerBuilder Challenge",
+      "course": "La Quinta Country Club - La Quinta, CA",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "3F29DF4A-F9F4-5EAB-A418-D4C59A6A7E41",
+      "date": "2018-01-19T00:00:00Z",
+      "tournament": "CareerBuilder Challenge",
+      "course": "La Quinta Country Club - La Quinta, CA",
+      "roundNumber": 2,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "1B7F9379-91FD-52C4-B1C9-1DEEF9B52E31",
+      "date": "2018-01-18T00:00:00Z",
+      "tournament": "CareerBuilder Challenge",
+      "course": "La Quinta Country Club - La Quinta, CA",
+      "roundNumber": 1,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "28058707-34A3-5192-9269-1F6022BEBCE4",
+      "date": "2018-01-12T00:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Waialae Country Club - Honolulu, HI",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "22EC71D9-5104-5798-823A-D706DA0D1D7D",
+      "date": "2018-01-11T00:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Waialae Country Club - Honolulu, HI",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "55B7E736-9DA5-5119-92DF-EEA2B8B8A10C",
+      "date": "2017-11-19T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA",
+      "roundNumber": 4,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "C46114AB-7D00-5BE5-BC98-5F01F69B175E",
+      "date": "2017-11-18T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA",
+      "roundNumber": 3,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "626E7262-96C1-53C4-A290-9CD969825A0D",
+      "date": "2017-11-17T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA",
+      "roundNumber": 2,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "25D55986-A062-56C6-9D32-2F9B27B74391",
+      "date": "2017-11-16T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "405D42D6-7DE9-5780-A2FA-1C651F3810E6",
+      "date": "2017-11-12T00:00:00Z",
+      "tournament": "OHL Classic at Mayakoba",
+      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "roundNumber": 4,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "7153DDD6-93F9-54B5-95A6-5484DD825070",
+      "date": "2017-11-11T00:00:00Z",
+      "tournament": "OHL Classic at Mayakoba",
+      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "roundNumber": 3,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "DB169275-3C5C-50CF-ABC7-B225FD083972",
+      "date": "2017-11-10T00:00:00Z",
+      "tournament": "OHL Classic at Mayakoba",
+      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "roundNumber": 2,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B81A9A58-2B8F-5FD8-BC73-BDF11E5128B6",
+      "date": "2017-11-09T00:00:00Z",
+      "tournament": "OHL Classic at Mayakoba",
+      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "F9FA60C4-A096-5FC5-A2DC-26681DD5BCB8",
+      "date": "2017-11-03T00:00:00Z",
+      "tournament": "Shriners Hospitals for Children Open",
+      "course": "TPC Summerlin - Las Vegas, NV",
+      "roundNumber": 2,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "109D3E43-7E47-5C6A-9DF4-1BA30A3A45A6",
+      "date": "2017-11-02T00:00:00Z",
+      "tournament": "Shriners Hospitals for Children Open",
+      "course": "TPC Summerlin - Las Vegas, NV",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "5754A621-C7B1-5646-A2A7-B1B39917ED62",
+      "date": "2017-10-30T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS.",
+      "roundNumber": 4,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "44C74C6F-A81C-5DC5-A8A5-BEE8C13E1FCA",
+      "date": "2017-10-29T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS",
+      "roundNumber": 4,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "CFAECDC4-7F76-556B-817D-F6892DEFAAD5",
+      "date": "2017-10-29T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS.",
+      "roundNumber": 3,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "748E11D7-E224-5F17-AC5F-D2CB5D683A63",
+      "date": "2017-10-28T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "46589326-F220-5CA0-B271-4B3A1836B0B0",
+      "date": "2017-10-28T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS.",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "3531002C-8968-591E-B36F-BA72EA466A2E",
+      "date": "2017-10-27T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "639E5ECC-0F1B-5977-800E-DF9F1C1C8828",
+      "date": "2017-10-27T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS.",
+      "roundNumber": 1,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "D1C5F4D8-0246-5454-A962-5C3F9668E5A1",
+      "date": "2017-10-26T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "5718A7E9-55AF-5C5A-B23F-D311C18582F9",
+      "date": "2017-10-06T00:00:00Z",
+      "tournament": "Safeway Open",
+      "course": "Silverado Resort and Spa (North Course) - Napa, CA",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "4790DEBD-56C0-59C3-B675-2CE3E3346EBB",
+      "date": "2017-10-05T00:00:00Z",
+      "tournament": "Safeway Open",
+      "course": "Silverado Resort and Spa (North Course) - Napa, CA",
+      "roundNumber": 1,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "98DA8794-4D11-5ED6-A30B-2AA17AE8C18A",
+      "date": "2017-03-17T00:00:00Z",
+      "tournament": "Arnold Palmer Invitational presented by Mastercard",
+      "course": "Arnold Palmer's Bay Hill Club & Lodge - Orlando, FL",
+      "roundNumber": 2,
+      "score": 80,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "C8532462-711B-5B29-80CA-AA24640D6251",
+      "date": "2017-03-17T00:00:00Z",
+      "tournament": "Arnold Palmer Invitational presented by Mastercard",
+      "course": "Arnold Palmer's Bay Hill Club & Lodge - Orlando, FL.",
+      "roundNumber": 2,
+      "score": 80,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "52F7A690-578F-5A2D-9496-1B4EB77E046D",
+      "date": "2017-03-16T00:00:00Z",
+      "tournament": "Arnold Palmer Invitational presented by Mastercard",
+      "course": "Arnold Palmer's Bay Hill Club & Lodge - Orlando, FL",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "72AB4C7B-4B08-5CBD-815E-6895A93B0594",
+      "date": "2017-03-16T00:00:00Z",
+      "tournament": "Arnold Palmer Invitational presented by Mastercard",
+      "course": "Arnold Palmer's Bay Hill Club & Lodge - Orlando, FL.",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "C6860DB7-279A-510C-B215-4CB4C49695FA",
+      "date": "2017-02-17T00:00:00Z",
+      "tournament": "Genesis Open",
+      "course": "Riviera Country Club - Pacific Palisades, CA",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "388C4C7B-F4F8-5DA1-A04A-88DE21B17757",
+      "date": "2017-02-17T00:00:00Z",
+      "tournament": "Genesis Open",
+      "course": "Riviera Country Club - Pacific Palisades, CA.",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "63FADE7E-DF31-5002-A356-7A96C3CD4D69",
+      "date": "2017-02-16T00:00:00Z",
+      "tournament": "Genesis Open",
+      "course": "Riviera Country Club - Pacific Palisades, CA",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B7C134C6-9D6A-552F-9605-02E8476B971F",
+      "date": "2017-02-16T00:00:00Z",
+      "tournament": "Genesis Open",
+      "course": "Riviera Country Club - Pacific Palisades, CA.",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "56C8CC91-9ECF-5A80-9410-E614C917E2DC",
+      "date": "2017-02-12T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 4,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "E5DBD51F-CBC0-565D-9FFA-C4A1768849F9",
+      "date": "2017-02-12T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA. Pebble Beach Golf Links - Pebble Beach, CA. Monterey Peninsula Country Club (Shore Course) - Pebble Beach, CA.",
+      "roundNumber": 4,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "C3ED5DA7-3042-5305-ACB5-373BA59BB1EE",
+      "date": "2017-02-11T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 3,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "590EB42C-B8E5-53D2-A4BB-BB1255807BC9",
+      "date": "2017-02-11T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA. Pebble Beach Golf Links - Pebble Beach, CA. Monterey Peninsula Country Club (Shore Course) - Pebble Beach, CA.",
+      "roundNumber": 3,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "7313A850-1680-5DC1-A017-9C551F1275F3",
+      "date": "2017-02-10T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "A0837B37-5464-5B3B-AFE3-5611AE649C04",
+      "date": "2017-02-10T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA. Pebble Beach Golf Links - Pebble Beach, CA. Monterey Peninsula Country Club (Shore Course) - Pebble Beach, CA.",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "3C822F6B-2B22-5B5A-91F0-00D4547A526D",
+      "date": "2017-02-09T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "0ED0B0DC-D03A-549B-8BC5-9729737F254A",
+      "date": "2017-02-09T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA. Pebble Beach Golf Links - Pebble Beach, CA. Monterey Peninsula Country Club (Shore Course) - Pebble Beach, CA.",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "20D6EBD5-3E7D-5CA6-9CD2-4F641F5C740B",
+      "date": "2016-11-22T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA. Sea Island Resort (Plantation Course) - Saint Simons Island, GA.",
+      "roundNumber": 4,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "34F74964-37C4-5F28-9D7A-5AAF267D8346",
+      "date": "2016-11-21T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA. Sea Island Resort (Plantation Course) - Saint Simons Island, GA.",
+      "roundNumber": 3,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "D23B1CCC-9F9D-509F-8403-5260DDF16458",
+      "date": "2016-11-20T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA. Sea Island Resort (Plantation Course) - Saint Simons Island, GA.",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "FED00338-0669-5DA3-B7B2-2830903076E9",
+      "date": "2016-11-19T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA. Sea Island Resort (Plantation Course) - Saint Simons Island, GA.",
+      "roundNumber": 1,
+      "score": 65,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "896C6671-F83B-5EA8-9B8C-108C3C68BC52",
+      "date": "2016-11-08T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS.",
+      "roundNumber": 4,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "9F43451C-420D-54BB-8737-0A5C56D4D753",
+      "date": "2016-11-07T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS.",
+      "roundNumber": 3,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "EE351657-D92C-59A4-A5DE-2A5CC8579847",
+      "date": "2016-11-06T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS.",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "946479D8-3CAC-5C39-9DE0-5D1AC627972C",
+      "date": "2016-11-05T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS.",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "5AFD20E4-1F93-56DD-A646-274E602F942E",
+      "date": "2016-10-30T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS",
+      "roundNumber": 4,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "CE06B236-5AA4-5A73-A848-D810B24E61E3",
+      "date": "2016-10-29T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS",
+      "roundNumber": 3,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "76F9975F-FB06-5075-AC26-721CBA0FE44A",
+      "date": "2016-10-28T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "6426BD32-FBC7-516F-8C70-40050C39E8B0",
+      "date": "2016-10-27T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS",
+      "roundNumber": 1,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "6FEA8A89-ED44-540D-8700-8E3F7F1FC250",
+      "date": "2016-08-19T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC",
+      "roundNumber": 2,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "4112D7DC-CC51-5595-A64A-50EBEAE3DA77",
+      "date": "2016-08-19T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC.",
+      "roundNumber": 2,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "7E5E0C19-D4A8-54FB-BB85-2A8051E3DEA8",
+      "date": "2016-08-18T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "2B1A1C75-0B14-599D-9B37-D807C280A1F2",
+      "date": "2016-08-18T00:00:00Z",
+      "tournament": "Wyndham Championship",
+      "course": "Sedgefield Country Club - Greensboro, NC.",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "893CE014-BA30-5722-AD21-A28E5C7F3CC8",
+      "date": "2016-08-14T00:00:00Z",
+      "tournament": "John Deere Classic",
+      "course": "TPC Deere Run - Silvis, IL",
+      "roundNumber": 4,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "942F4D7A-37A4-5222-A262-4F0EB2B421BD",
+      "date": "2016-08-14T00:00:00Z",
+      "tournament": "John Deere Classic",
+      "course": "TPC Deere Run - Silvis, IL.",
+      "roundNumber": 4,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "66761AB2-62AE-56AA-9F4E-A495D7AE4605",
+      "date": "2016-08-13T00:00:00Z",
+      "tournament": "John Deere Classic",
+      "course": "TPC Deere Run - Silvis, IL",
+      "roundNumber": 3,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "C14E8A51-D6DC-5B29-85F3-E20ED12D699B",
+      "date": "2016-08-13T00:00:00Z",
+      "tournament": "John Deere Classic",
+      "course": "TPC Deere Run - Silvis, IL.",
+      "roundNumber": 3,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "D04A9501-159F-5DF3-9A38-7D203A36E5B8",
+      "date": "2016-08-12T00:00:00Z",
+      "tournament": "John Deere Classic",
+      "course": "TPC Deere Run - Silvis, IL",
+      "roundNumber": 2,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B178A0B6-8163-56A2-97DC-836BDC150AD1",
+      "date": "2016-08-12T00:00:00Z",
+      "tournament": "John Deere Classic",
+      "course": "TPC Deere Run - Silvis, IL.",
+      "roundNumber": 2,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "5641CB17-55A0-581F-AA56-C00D3B461523",
+      "date": "2016-08-11T00:00:00Z",
+      "tournament": "John Deere Classic",
+      "course": "TPC Deere Run - Silvis, IL",
+      "roundNumber": 1,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "3DD934F2-7D47-5C39-94AD-336A8ED861CB",
+      "date": "2016-08-11T00:00:00Z",
+      "tournament": "John Deere Classic",
+      "course": "TPC Deere Run - Silvis, IL.",
+      "roundNumber": 1,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "2BB5DF33-1C4C-527D-B6BF-D1B918238002",
+      "date": "2016-08-05T00:00:00Z",
+      "tournament": "Travelers Championship",
+      "course": "TPC River Highlands - Cromwell, CT",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "061A6950-1B22-5922-B66D-614B08B0CCF5",
+      "date": "2016-08-05T00:00:00Z",
+      "tournament": "Travelers Championship",
+      "course": "TPC River Highlands - Cromwell, CT.",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "4540296F-ED14-5375-8907-3B7B9D84164F",
+      "date": "2016-08-04T00:00:00Z",
+      "tournament": "Travelers Championship",
+      "course": "TPC River Highlands - Cromwell, CT",
+      "roundNumber": 1,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "3F523B50-ED41-5FFB-9923-CCB0ADDC9B0A",
+      "date": "2016-08-04T00:00:00Z",
+      "tournament": "Travelers Championship",
+      "course": "TPC River Highlands - Cromwell, CT.",
+      "roundNumber": 1,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "4AD9E4EB-6727-57E5-892F-31C9357349A0",
+      "date": "2016-07-22T00:00:00Z",
+      "tournament": "RBC Canadian Open",
+      "course": "Glen Abbey GC - Oakville, ON",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "4C5D167F-7A8B-5350-940F-2A8AFB8A6AE8",
+      "date": "2016-07-22T00:00:00Z",
+      "tournament": "RBC Canadian Open",
+      "course": "Glen Abbey GC - Oakville, ON.",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "D4972F5B-E144-5EED-8100-B505274CD22C",
+      "date": "2016-07-21T00:00:00Z",
+      "tournament": "RBC Canadian Open",
+      "course": "Glen Abbey GC - Oakville, ON",
+      "roundNumber": 1,
+      "score": 80,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "4D412869-7223-5310-B49D-2BF75AA03F62",
+      "date": "2016-07-21T00:00:00Z",
+      "tournament": "RBC Canadian Open",
+      "course": "Glen Abbey GC - Oakville, ON.",
+      "roundNumber": 1,
+      "score": 80,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "56139938-994F-5871-8D68-A8660B722F7E",
+      "date": "2016-07-15T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "RTJ Trail Grand National Lake - Auburn, AL",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "A582906D-1473-552C-8C8C-E2633266F90F",
+      "date": "2016-07-15T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "RTJ Trail Grand National Lake - Auburn, AL.",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "F7DAE685-E2B6-5CF7-A90A-883E35E86437",
+      "date": "2016-07-14T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "RTJ Trail Grand National Lake - Auburn, AL",
+      "roundNumber": 1,
+      "score": 78,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "9618D477-3167-517A-94E9-397F28D74D8D",
+      "date": "2016-07-14T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "RTJ Trail Grand National Lake - Auburn, AL.",
+      "roundNumber": 1,
+      "score": 78,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "43D68C3E-B93C-566B-865C-57EF93FE1AAC",
+      "date": "2016-06-26T00:00:00Z",
+      "tournament": "Quicken Loans National",
+      "course": "Congressional Country Club - Bethesda, MD",
+      "roundNumber": 4,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "385BD2F2-DC38-5AF3-850E-AD2E940AB44C",
+      "date": "2016-06-26T00:00:00Z",
+      "tournament": "Quicken Loans National",
+      "course": "Congressional Country Club - Bethesda, MD.",
+      "roundNumber": 4,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "59535DCE-F05A-559A-9A4E-887494EB1B55",
+      "date": "2016-06-25T00:00:00Z",
+      "tournament": "Quicken Loans National",
+      "course": "Congressional Country Club - Bethesda, MD",
+      "roundNumber": 3,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "2B5CD011-C608-583C-95AE-FD2570A30FAD",
+      "date": "2016-06-25T00:00:00Z",
+      "tournament": "Quicken Loans National",
+      "course": "Congressional Country Club - Bethesda, MD.",
+      "roundNumber": 3,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "CA4A7CC7-4CE1-5558-9A28-49A7B4C71F49",
+      "date": "2016-06-24T00:00:00Z",
+      "tournament": "Quicken Loans National",
+      "course": "Congressional Country Club - Bethesda, MD",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "BB999C42-0D0C-5D04-BF55-5D17B62204DF",
+      "date": "2016-06-24T00:00:00Z",
+      "tournament": "Quicken Loans National",
+      "course": "Congressional Country Club - Bethesda, MD.",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "7982CAFC-22C0-5275-837E-C18D745A3633",
+      "date": "2016-06-23T00:00:00Z",
+      "tournament": "Quicken Loans National",
+      "course": "Congressional Country Club - Bethesda, MD",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "88B7C550-C504-549F-B464-0AF8FFDE27EC",
+      "date": "2016-06-23T00:00:00Z",
+      "tournament": "Quicken Loans National",
+      "course": "Congressional Country Club - Bethesda, MD.",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "2DDA628B-3FC2-5840-8240-2CBDD58766E5",
+      "date": "2016-06-19T00:00:00Z",
+      "tournament": "U.S. Open",
+      "course": "Oakmont Country Club - Oakmont, PA",
+      "roundNumber": 4,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "FB773B62-D0CD-559F-928F-D2EFF049649C",
+      "date": "2016-06-19T00:00:00Z",
+      "tournament": "U.S. Open",
+      "course": "nan",
+      "roundNumber": 4,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "25A0E54A-26FB-5C75-8AFC-3047D4BF8939",
+      "date": "2016-06-18T00:00:00Z",
+      "tournament": "U.S. Open",
+      "course": "Oakmont Country Club - Oakmont, PA",
+      "roundNumber": 3,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "267ABC6E-12C7-5D1F-87C7-E9964E686C5D",
+      "date": "2016-06-18T00:00:00Z",
+      "tournament": "U.S. Open",
+      "course": "nan",
+      "roundNumber": 3,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "40101750-5A24-5232-BC3B-71ADC6669D64",
+      "date": "2016-06-17T00:00:00Z",
+      "tournament": "U.S. Open",
+      "course": "Oakmont Country Club - Oakmont, PA",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "F111832F-9690-58C4-A0A0-CC3F99C649ED",
+      "date": "2016-06-17T00:00:00Z",
+      "tournament": "U.S. Open",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "B74B3807-CBEC-57F9-90B1-9E8606215A52",
+      "date": "2016-06-16T00:00:00Z",
+      "tournament": "U.S. Open",
+      "course": "Oakmont Country Club - Oakmont, PA",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "C73D469A-ACC7-54C1-A9B1-BB0BFA86C88A",
+      "date": "2016-06-16T00:00:00Z",
+      "tournament": "U.S. Open",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "F0A83F08-5ACF-5AA1-A660-16F7157B8A7A",
+      "date": "2016-06-12T00:00:00Z",
+      "tournament": "FedEx St. Jude Classic",
+      "course": "TPC Southwind - Memphis, TN",
+      "roundNumber": 4,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B7BA7A0F-81ED-56D9-B405-F735398BD95D",
+      "date": "2016-06-12T00:00:00Z",
+      "tournament": "FedEx St. Jude Classic",
+      "course": "TPC Southwind - Memphis, TN.",
+      "roundNumber": 4,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "F00937DD-C4FF-5B76-B83C-D13607CECBB0",
+      "date": "2016-06-11T00:00:00Z",
+      "tournament": "FedEx St. Jude Classic",
+      "course": "TPC Southwind - Memphis, TN",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "1CECF180-8DB8-5292-9399-66FC0F564A4E",
+      "date": "2016-06-11T00:00:00Z",
+      "tournament": "FedEx St. Jude Classic",
+      "course": "TPC Southwind - Memphis, TN.",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "FD78CA85-FCEB-5955-BE93-1BE383EFA9F3",
+      "date": "2016-06-10T00:00:00Z",
+      "tournament": "FedEx St. Jude Classic",
+      "course": "TPC Southwind - Memphis, TN",
+      "roundNumber": 2,
+      "score": 65,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "6AD248E7-1C57-55A6-87E2-F4EE4060294C",
+      "date": "2016-06-10T00:00:00Z",
+      "tournament": "FedEx St. Jude Classic",
+      "course": "TPC Southwind - Memphis, TN.",
+      "roundNumber": 2,
+      "score": 65,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "57A131A3-E6A4-53D1-8CFD-91E587E5AEFB",
+      "date": "2016-06-09T00:00:00Z",
+      "tournament": "FedEx St. Jude Classic",
+      "course": "TPC Southwind - Memphis, TN",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "4E1DB5D9-50D7-5F21-8804-7DECC337EE87",
+      "date": "2016-06-09T00:00:00Z",
+      "tournament": "FedEx St. Jude Classic",
+      "course": "TPC Southwind - Memphis, TN.",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "616B25E1-CFD0-5893-908C-7745A123BC20",
+      "date": "2016-05-20T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "TPC Four Seasons Resort - Irving, TX",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "61B46BC5-177C-5BDB-9662-3ADCDC0B4D05",
+      "date": "2016-05-20T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "TPC Four Seasons Resort - Irving, TX.",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "D6BA5788-AD34-5030-B958-50AE00022503",
+      "date": "2016-05-19T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "TPC Four Seasons Resort - Irving, TX",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "BA06AA82-CB93-58D0-8631-A95E7055D3D0",
+      "date": "2016-05-19T00:00:00Z",
+      "tournament": "AT&T Byron Nelson",
+      "course": "TPC Four Seasons Resort - Irving, TX.",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "25187F62-6A24-5DB3-9D8E-80CA273707D5",
+      "date": "2016-05-08T00:00:00Z",
+      "tournament": "Wells Fargo Championship",
+      "course": "Quail Hollow Club - Charlotte, NC",
+      "roundNumber": 4,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "45DE5554-ABFF-5DF4-9E9C-E2185FB45BDC",
+      "date": "2016-05-08T00:00:00Z",
+      "tournament": "Wells Fargo Championship",
+      "course": "Quail Hollow Club - Charlotte, NC.",
+      "roundNumber": 4,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "7F7EE3AA-5B8F-54F8-91D3-D4D5FE5FB5BC",
+      "date": "2016-05-07T00:00:00Z",
+      "tournament": "Wells Fargo Championship",
+      "course": "Quail Hollow Club - Charlotte, NC",
+      "roundNumber": 3,
+      "score": 79,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "3A6C117D-8DFC-589C-AB71-E1E6A132B8CA",
+      "date": "2016-05-07T00:00:00Z",
+      "tournament": "Wells Fargo Championship",
+      "course": "Quail Hollow Club - Charlotte, NC.",
+      "roundNumber": 3,
+      "score": 79,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "F0B9287E-5DC9-5B9C-BCB0-2A18F5F729EF",
+      "date": "2016-05-06T00:00:00Z",
+      "tournament": "Wells Fargo Championship",
+      "course": "Quail Hollow Club - Charlotte, NC",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "ACDAF015-CB7C-5210-AB00-0C443331489D",
+      "date": "2016-05-06T00:00:00Z",
+      "tournament": "Wells Fargo Championship",
+      "course": "Quail Hollow Club - Charlotte, NC.",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "08B17BEE-CA6B-5E35-9ADF-E1F87540B25B",
+      "date": "2016-05-05T00:00:00Z",
+      "tournament": "Wells Fargo Championship",
+      "course": "Quail Hollow Club - Charlotte, NC",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "F2487B54-BFE4-5903-8FE3-05DB542DC0D9",
+      "date": "2016-05-05T00:00:00Z",
+      "tournament": "Wells Fargo Championship",
+      "course": "Quail Hollow Club - Charlotte, NC.",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "1C05F601-29F4-508E-ACEC-27D7EFE7E9D2",
+      "date": "2016-04-30T00:00:00Z",
+      "tournament": "Zurich Classic of New Orleans",
+      "course": "TPC Louisiana - Avondale, LA",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "E22A1A84-0822-561D-A5D6-A627484E7E7E",
+      "date": "2016-04-30T00:00:00Z",
+      "tournament": "Zurich Classic of New Orleans",
+      "course": "TPC Louisiana - Avondale, LA.",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "DA22CC54-A819-5DB4-8660-D8DAED00D24C",
+      "date": "2016-04-29T00:00:00Z",
+      "tournament": "Zurich Classic of New Orleans",
+      "course": "TPC Louisiana - Avondale, LA",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "19E60BDF-280A-5AF9-B324-B3327BD07E96",
+      "date": "2016-04-29T00:00:00Z",
+      "tournament": "Zurich Classic of New Orleans",
+      "course": "TPC Louisiana - Avondale, LA.",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "B115DDE3-DA27-53B0-8A5B-340B6ECCF6FF",
+      "date": "2016-04-28T00:00:00Z",
+      "tournament": "Zurich Classic of New Orleans",
+      "course": "TPC Louisiana - Avondale, LA",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "BF96D67B-0804-5A68-A59B-39EFC356634B",
+      "date": "2016-04-28T00:00:00Z",
+      "tournament": "Zurich Classic of New Orleans",
+      "course": "TPC Louisiana - Avondale, LA.",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "EC6A554B-FB81-5298-B41E-047214B077F2",
+      "date": "2016-04-24T00:00:00Z",
+      "tournament": "Valero Texas Open",
+      "course": "TPC San Antonio (Oaks Course) - San Antonio, TX",
+      "roundNumber": 4,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "4DA27DEC-A5FD-515D-A737-5CA1639275D9",
+      "date": "2016-04-24T00:00:00Z",
+      "tournament": "Valero Texas Open",
+      "course": "TPC San Antonio (Oaks Course) - San Antonio, TX.",
+      "roundNumber": 4,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "A493D15D-B362-5ABA-9843-509A2A955E23",
+      "date": "2016-04-23T00:00:00Z",
+      "tournament": "Valero Texas Open",
+      "course": "TPC San Antonio (Oaks Course) - San Antonio, TX",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "D660FEFE-751A-570F-803C-8F32C18A92A3",
+      "date": "2016-04-23T00:00:00Z",
+      "tournament": "Valero Texas Open",
+      "course": "TPC San Antonio (Oaks Course) - San Antonio, TX.",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "ACA411D3-1C30-5ED3-A366-228E8420879F",
+      "date": "2016-04-22T00:00:00Z",
+      "tournament": "Valero Texas Open",
+      "course": "TPC San Antonio (Oaks Course) - San Antonio, TX",
+      "roundNumber": 2,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "6E621791-170E-5E02-BD7F-D45F17DEA62E",
+      "date": "2016-04-22T00:00:00Z",
+      "tournament": "Valero Texas Open",
+      "course": "TPC San Antonio (Oaks Course) - San Antonio, TX.",
+      "roundNumber": 2,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "30B53F42-A3D8-59CE-9475-5423F6F21E01",
+      "date": "2016-04-21T00:00:00Z",
+      "tournament": "Valero Texas Open",
+      "course": "TPC San Antonio (Oaks Course) - San Antonio, TX",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "7E4BC61B-3230-5D34-8C3F-13E4020EC7FC",
+      "date": "2016-04-21T00:00:00Z",
+      "tournament": "Valero Texas Open",
+      "course": "TPC San Antonio (Oaks Course) - San Antonio, TX.",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "08653578-D8CB-54A3-9550-41DD58925AF4",
+      "date": "2016-03-25T00:00:00Z",
+      "tournament": "Puerto Rico Open at Coco Beach",
+      "course": "Grand Reserve Country Club - Rio Grande, Puerto Rico",
+      "roundNumber": 2,
+      "score": 79,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "DA3E51BA-FCBB-5511-8808-C6A00B49AA39",
+      "date": "2016-03-25T00:00:00Z",
+      "tournament": "Puerto Rico Open at Coco Beach",
+      "course": "Grand Reserve Country Club - Rio Grande, Puerto Rico.",
+      "roundNumber": 2,
+      "score": 79,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "32F18FBA-54DA-5B75-B09C-48A550353BAD",
+      "date": "2016-03-24T00:00:00Z",
+      "tournament": "Puerto Rico Open at Coco Beach",
+      "course": "Grand Reserve Country Club - Rio Grande, Puerto Rico",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "74296CAB-A794-561C-8C35-0C6CB32E4353",
+      "date": "2016-03-24T00:00:00Z",
+      "tournament": "Puerto Rico Open at Coco Beach",
+      "course": "Grand Reserve Country Club - Rio Grande, Puerto Rico.",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "9AD274AF-7712-5E60-B964-36986C0F1777",
+      "date": "2016-03-20T00:00:00Z",
+      "tournament": "Arnold Palmer Invitational presented by MasterCard",
+      "course": "Arnold Palmer's Bay Hill Club & Lodge - Orlando, FL",
+      "roundNumber": 4,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "441BFBF9-ADCE-544D-ABB3-397BBFCB9FFC",
+      "date": "2016-03-20T00:00:00Z",
+      "tournament": "Arnold Palmer Invitational presented by MasterCard",
+      "course": "Arnold Palmer's Bay Hill Club & Lodge - Orlando, FL.",
+      "roundNumber": 4,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "9986320C-3D70-50D6-B84C-6CD8CEE74FC3",
+      "date": "2016-03-19T00:00:00Z",
+      "tournament": "Arnold Palmer Invitational presented by MasterCard",
+      "course": "Arnold Palmer's Bay Hill Club & Lodge - Orlando, FL",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "0C1DD440-2DCC-5C77-9080-B81EEE9F30F3",
+      "date": "2016-03-19T00:00:00Z",
+      "tournament": "Arnold Palmer Invitational presented by MasterCard",
+      "course": "Arnold Palmer's Bay Hill Club & Lodge - Orlando, FL.",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "606B4AD7-700F-5A07-B5C6-410DFF1176D0",
+      "date": "2016-03-18T00:00:00Z",
+      "tournament": "Arnold Palmer Invitational presented by MasterCard",
+      "course": "Arnold Palmer's Bay Hill Club & Lodge - Orlando, FL",
+      "roundNumber": 2,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "EDD292A6-9779-581A-AEA6-2E9DB47114D0",
+      "date": "2016-03-18T00:00:00Z",
+      "tournament": "Arnold Palmer Invitational presented by MasterCard",
+      "course": "Arnold Palmer's Bay Hill Club & Lodge - Orlando, FL.",
+      "roundNumber": 2,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "463C8E24-1EEC-55B2-92AD-CAB611226405",
+      "date": "2016-03-17T00:00:00Z",
+      "tournament": "Arnold Palmer Invitational presented by MasterCard",
+      "course": "Arnold Palmer's Bay Hill Club & Lodge - Orlando, FL",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "2B94E959-4AF1-5D93-B421-074E0D20CE0B",
+      "date": "2016-03-17T00:00:00Z",
+      "tournament": "Arnold Palmer Invitational presented by MasterCard",
+      "course": "Arnold Palmer's Bay Hill Club & Lodge - Orlando, FL.",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "3406701A-AE54-5FB2-8D25-57C8DB70AF83",
+      "date": "2016-02-13T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 3,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "9B500B94-77B1-5F68-8C53-305B6696D209",
+      "date": "2016-02-13T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA. Pebble Beach Golf Links - Pebble Beach, CA. Monterey Peninsula Country Club (Shore Course) - Pebble Beach, CA.",
+      "roundNumber": 3,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "D1C8AFDF-BFF6-5DDA-A5B2-2FBB533DC11C",
+      "date": "2016-02-12T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "241B1C52-FDCA-56B6-B80F-C892648090E0",
+      "date": "2016-02-12T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA. Pebble Beach Golf Links - Pebble Beach, CA. Monterey Peninsula Country Club (Shore Course) - Pebble Beach, CA.",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "2DCAECF8-4F7B-57D5-9B9B-40047265EA34",
+      "date": "2016-02-11T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "E610D34C-077B-5928-99C8-5C0B7CB1D9EF",
+      "date": "2016-02-11T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA. Pebble Beach Golf Links - Pebble Beach, CA. Monterey Peninsula Country Club (Shore Course) - Pebble Beach, CA.",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "44AC9CC3-1E33-571D-B442-9EFA5973034F",
+      "date": "2016-01-31T00:00:00Z",
+      "tournament": "Farmers Insurance Open",
+      "course": "Torrey Pines (North Course) - La Jolla, CA",
+      "roundNumber": 4,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "A4491A83-600B-5398-9921-A26A97F0F3F7",
+      "date": "2016-01-31T00:00:00Z",
+      "tournament": "Farmers Insurance Open",
+      "course": "Torrey Pines (North Course) - La Jolla, CA. Torrey Pines (South Course) - La Jolla, CA.",
+      "roundNumber": 4,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "624AC115-D677-5A78-A3FC-A98B50F973BD",
+      "date": "2016-01-30T00:00:00Z",
+      "tournament": "Farmers Insurance Open",
+      "course": "Torrey Pines (North Course) - La Jolla, CA",
+      "roundNumber": 3,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "CEF4AFE1-7840-5531-9C83-1482ECC764B7",
+      "date": "2016-01-30T00:00:00Z",
+      "tournament": "Farmers Insurance Open",
+      "course": "Torrey Pines (North Course) - La Jolla, CA. Torrey Pines (South Course) - La Jolla, CA.",
+      "roundNumber": 3,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "2496D111-AD4A-507F-BC4D-7C648401DA64",
+      "date": "2016-01-29T00:00:00Z",
+      "tournament": "Farmers Insurance Open",
+      "course": "Torrey Pines (North Course) - La Jolla, CA",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "82B0C23B-F2B7-578A-B97D-8D87044C6209",
+      "date": "2016-01-29T00:00:00Z",
+      "tournament": "Farmers Insurance Open",
+      "course": "Torrey Pines (North Course) - La Jolla, CA. Torrey Pines (South Course) - La Jolla, CA.",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "506E0B6C-389F-5005-A820-98822BD75070",
+      "date": "2016-01-28T00:00:00Z",
+      "tournament": "Farmers Insurance Open",
+      "course": "Torrey Pines (North Course) - La Jolla, CA",
+      "roundNumber": 1,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "DF7398CB-DF9E-511E-B2D6-76B480852242",
+      "date": "2016-01-28T00:00:00Z",
+      "tournament": "Farmers Insurance Open",
+      "course": "Torrey Pines (North Course) - La Jolla, CA. Torrey Pines (South Course) - La Jolla, CA.",
+      "roundNumber": 1,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "F9FAB91F-4776-5B19-BF8D-6A95DDC08283",
+      "date": "2016-01-23T00:00:00Z",
+      "tournament": "CareerBuilder Challenge in partnership with the Clinton Foundation",
+      "course": "La Quinta Country Club - La Quinta, CA",
+      "roundNumber": 3,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "75BE757B-C665-5CEE-88E4-FF61BBE61AF0",
+      "date": "2016-01-23T00:00:00Z",
+      "tournament": "CareerBuilder Challenge in partnership with the Clinton Foundation",
+      "course": "La Quinta Country Club - La Quinta, CA. Jack Nicklaus Tournament Course - La Quinta, CA. Stadium Course - La Quinta, CA. Jack Nicklaus Tournament Course - Duplicate - La Quinta, CA.",
+      "roundNumber": 3,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "57038F37-326D-5865-ACB3-11076D6EEF6E",
+      "date": "2016-01-22T00:00:00Z",
+      "tournament": "CareerBuilder Challenge in partnership with the Clinton Foundation",
+      "course": "La Quinta Country Club - La Quinta, CA",
+      "roundNumber": 2,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "8422A940-085F-5179-BC1F-40F2F68E1771",
+      "date": "2016-01-22T00:00:00Z",
+      "tournament": "CareerBuilder Challenge in partnership with the Clinton Foundation",
+      "course": "La Quinta Country Club - La Quinta, CA. Jack Nicklaus Tournament Course - La Quinta, CA. Stadium Course - La Quinta, CA. Jack Nicklaus Tournament Course - Duplicate - La Quinta, CA.",
+      "roundNumber": 2,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "63D1A3E0-6FBB-5699-A5B6-C57E421870AF",
+      "date": "2016-01-21T00:00:00Z",
+      "tournament": "CareerBuilder Challenge in partnership with the Clinton Foundation",
+      "course": "La Quinta Country Club - La Quinta, CA",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "7C92049C-EA11-5B74-BA68-85293BB5EF0C",
+      "date": "2016-01-21T00:00:00Z",
+      "tournament": "CareerBuilder Challenge in partnership with the Clinton Foundation",
+      "course": "La Quinta Country Club - La Quinta, CA. Jack Nicklaus Tournament Course - La Quinta, CA. Stadium Course - La Quinta, CA. Jack Nicklaus Tournament Course - Duplicate - La Quinta, CA.",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "3EBA0567-98CC-5DD1-9388-F803F34E6D24",
+      "date": "2016-01-15T00:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Waialae Country Club - Honolulu, HI",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "5483E407-3358-5A63-8710-D2FFF47F5CFB",
+      "date": "2016-01-15T00:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Waialae Country Club - Honolulu, HI.",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "45F99817-A5F2-5F17-8B23-25C58168CB25",
+      "date": "2016-01-14T00:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Waialae Country Club - Honolulu, HI",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "13D14212-670B-5CBC-AD40-3BA47C0BF3C9",
+      "date": "2016-01-14T00:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Waialae Country Club - Honolulu, HI.",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "ED3644E8-C13E-5513-9300-5E77B8BA2EC5",
+      "date": "2015-11-22T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA",
+      "roundNumber": 4,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "BB2AB863-4D16-5160-B997-5DB43B9B7245",
+      "date": "2015-11-21T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA",
+      "roundNumber": 3,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "60D07DD0-ACA0-5155-9642-4534DB45EEAD",
+      "date": "2015-11-20T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "8F6EE686-51D6-57E2-898D-8DFCA7E29595",
+      "date": "2015-11-19T00:00:00Z",
+      "tournament": "The RSM Classic",
+      "course": "Sea Island Resort (Seaside Course) - Saint Simons Island, GA",
+      "roundNumber": 1,
+      "score": 65,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "2224CADD-F525-5CDB-89F0-8FC2E4453798",
+      "date": "2015-11-08T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS",
+      "roundNumber": 4,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "80268669-6B36-5DD3-AA6B-B7296111565C",
+      "date": "2015-11-07T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS",
+      "roundNumber": 3,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "8B562DAA-1AC8-5127-A3C0-ADBB97F5F583",
+      "date": "2015-11-06T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "1D8B6AED-2A63-5EF8-A2CF-7DFCC3ECB56E",
+      "date": "2015-11-05T00:00:00Z",
+      "tournament": "Sanderson Farms Championship",
+      "course": "Country Club of Jackson - Jackson, MS",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "AE606908-C2CB-53E1-B2C5-327B5AD57BAA",
+      "date": "2014-06-13T00:00:00Z",
+      "tournament": "U.S. Open Golf Championship",
+      "course": "Pinehurst No. 2 - Pinehurst, NC",
+      "roundNumber": 2,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "287B72FD-9712-5A51-A411-45A8AEFA7FF3",
+      "date": "2014-06-12T00:00:00Z",
+      "tournament": "U.S. Open Golf Championship",
+      "course": "Pinehurst No. 2 - Pinehurst, NC",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "E8C37607-5A3B-52F5-8598-DA9974F74259",
+      "date": "2012-12-01T00:00:00Z",
+      "tournament": "PGA TOUR Qualifying Tournament",
+      "course": "PGA West (Nicklaus Tournament Course) - La Quinta, CA",
+      "roundNumber": 4,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "D833024A-48DC-5D56-B075-C274E1708200",
+      "date": "2012-11-30T00:00:00Z",
+      "tournament": "PGA TOUR Qualifying Tournament",
+      "course": "PGA West (Nicklaus Tournament Course) - La Quinta, CA",
+      "roundNumber": 3,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "36D9BFEE-E3F7-55C7-AE45-B2186A9363BA",
+      "date": "2012-11-29T00:00:00Z",
+      "tournament": "PGA TOUR Qualifying Tournament",
+      "course": "PGA West (Nicklaus Tournament Course) - La Quinta, CA",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "2CFC4623-D5CF-555C-8095-9C6A76CFA2E8",
+      "date": "2012-11-28T00:00:00Z",
+      "tournament": "PGA TOUR Qualifying Tournament",
+      "course": "PGA West (Nicklaus Tournament Course) - La Quinta, CA",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "3EB2F8CA-847C-5A58-8D97-F5CE302B36B0",
+      "date": "2011-12-03T00:00:00Z",
+      "tournament": "PGA TOUR Qualifying Tournament",
+      "course": "PGA West (Nicklaus Tournament Course) - La Quinta, CA",
+      "roundNumber": 4,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "33061DFA-1B3A-55FB-A29C-B25BB2EC78B8",
+      "date": "2011-12-02T00:00:00Z",
+      "tournament": "PGA TOUR Qualifying Tournament",
+      "course": "PGA West (Nicklaus Tournament Course) - La Quinta, CA",
+      "roundNumber": 3,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "AAF8966D-B8DD-518C-9173-1AE9A3643670",
+      "date": "2011-12-01T00:00:00Z",
+      "tournament": "PGA TOUR Qualifying Tournament",
+      "course": "PGA West (Nicklaus Tournament Course) - La Quinta, CA",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "BAC7C3CD-A2CF-5ACF-8DA7-74804914DB3E",
+      "date": "2011-11-30T00:00:00Z",
+      "tournament": "PGA TOUR Qualifying Tournament",
+      "course": "PGA West (Nicklaus Tournament Course) - La Quinta, CA",
+      "roundNumber": 1,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "84D754C6-89A3-5F66-88D5-F0D9D845D939",
+      "date": "2009-12-05T00:00:00Z",
+      "tournament": "PGA Tour Qualifying Tournament",
+      "course": "Bear Lake Country Club Links Course",
+      "roundNumber": 4,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "C5BE890C-9C04-5D9E-BDE9-EE45FFC13B1D",
+      "date": "2009-12-05T00:00:00Z",
+      "tournament": "PGA Tour Qualifying Tournament",
+      "course": "Bear Lake Country Club Links Course. Bear Lake Country Club Lakes Course.",
+      "roundNumber": 4,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "D800A870-48CF-53B2-B841-76D227AFFA7A",
+      "date": "2009-12-04T00:00:00Z",
+      "tournament": "PGA Tour Qualifying Tournament",
+      "course": "Bear Lake Country Club Links Course",
+      "roundNumber": 3,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "CCFFD89F-3AC0-5FD9-810E-AF7CE04930EF",
+      "date": "2009-12-04T00:00:00Z",
+      "tournament": "PGA Tour Qualifying Tournament",
+      "course": "Bear Lake Country Club Links Course. Bear Lake Country Club Lakes Course.",
+      "roundNumber": 3,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "F034D72D-FDC1-5778-B5AE-F814871F8670",
+      "date": "2009-12-03T00:00:00Z",
+      "tournament": "PGA Tour Qualifying Tournament",
+      "course": "Bear Lake Country Club Links Course",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "E301388A-3792-5801-9215-7F675C3C6AA7",
+      "date": "2009-12-03T00:00:00Z",
+      "tournament": "PGA Tour Qualifying Tournament",
+      "course": "Bear Lake Country Club Links Course. Bear Lake Country Club Lakes Course.",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "221C929C-87D6-5FA9-833C-5A36FE8F7FFB",
+      "date": "2009-12-02T00:00:00Z",
+      "tournament": "PGA Tour Qualifying Tournament",
+      "course": "Bear Lake Country Club Links Course",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "F8DF0E77-E758-5F10-BF77-5BE07982CB29",
+      "date": "2009-12-02T00:00:00Z",
+      "tournament": "PGA Tour Qualifying Tournament",
+      "course": "Bear Lake Country Club Links Course. Bear Lake Country Club Lakes Course.",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "0D64F612-3F77-5914-A81E-DA09FC924217",
+      "date": "2006-09-10T00:00:00Z",
+      "tournament": "Canadian Open",
+      "course": "Hamilton Golf & Country Club - Hamilton, ON",
+      "roundNumber": 4,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "81D267E8-80D4-5891-AEB0-213B5D90870B",
+      "date": "2006-09-09T00:00:00Z",
+      "tournament": "Canadian Open",
+      "course": "Hamilton Golf & Country Club - Hamilton, ON",
+      "roundNumber": 3,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "F937AD43-8B5F-5CD2-9BF6-1F16A1F3B1F1",
+      "date": "2006-09-08T00:00:00Z",
+      "tournament": "Canadian Open",
+      "course": "Hamilton Golf & Country Club - Hamilton, ON",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "3773B37D-2806-52E1-974A-32CD70B69E34",
+      "date": "2006-09-07T00:00:00Z",
+      "tournament": "Canadian Open",
+      "course": "Hamilton Golf & Country Club - Hamilton, ON",
+      "roundNumber": 1,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "23C392B5-5CEF-5C65-9A7A-CAB05779795C",
+      "date": "2006-09-02T00:00:00Z",
+      "tournament": "Deutsche Bank Championship",
+      "course": "TPC Boston - Norton, MA",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "6E76D6FF-90C4-5C48-8EB8-E284B9C2E755",
+      "date": "2006-09-01T00:00:00Z",
+      "tournament": "Deutsche Bank Championship",
+      "course": "TPC Boston - Norton, MA",
+      "roundNumber": 1,
+      "score": 78,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    }
+  ]
+}

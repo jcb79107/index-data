@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updatedAt": "2026-01-09T19:15:28Z",
+  "slug": "sam-smith",
+  "roundCount": 2,
+  "rounds": [
+    {
+      "id": "73E89C51-A0F1-5B7A-8501-44528784EBB5",
+      "date": "2011-05-27T00:00:00Z",
+      "tournament": "HP Byron Nelson Championship",
+      "course": "TPC Four Seasons Resort - Irving, TX",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "D7E4D1C7-C4BD-5F8D-9116-0FC1DB26A66C",
+      "date": "2011-05-26T00:00:00Z",
+      "tournament": "HP Byron Nelson Championship",
+      "course": "TPC Four Seasons Resort - Irving, TX",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    }
+  ]
+}

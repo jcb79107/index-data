@@ -1,0 +1,828 @@
+{
+  "version": 1,
+  "updatedAt": "2026-01-09T19:15:28Z",
+  "slug": "doug-dunakey",
+  "roundCount": 82,
+  "rounds": [
+    {
+      "id": "B9373FBA-5E4E-5466-B9DE-09F7440EDA44",
+      "date": "2003-06-13T00:00:00Z",
+      "tournament": "U.S. Open Championship",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "8A36B404-D4B7-5DCC-A165-B950E65E7126",
+      "date": "2003-06-12T00:00:00Z",
+      "tournament": "U.S. Open Championship",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "94E02563-CCB0-5015-8D86-BB1AA90E0EC9",
+      "date": "2001-11-04T00:00:00Z",
+      "tournament": "Southern Farm Bureau Classic",
+      "course": "Annandale GC - Madison, MS",
+      "roundNumber": 4,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "232B9DF5-6E21-5861-BA91-9F4CD966280E",
+      "date": "2001-11-03T00:00:00Z",
+      "tournament": "Southern Farm Bureau Classic",
+      "course": "Annandale GC - Madison, MS",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "4D114696-2F3C-570E-AD8B-4F2BF84CCFBE",
+      "date": "2001-11-02T00:00:00Z",
+      "tournament": "Southern Farm Bureau Classic",
+      "course": "Annandale GC - Madison, MS",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "4EB1C324-C209-5068-83FA-A74B56854CCE",
+      "date": "2001-11-01T00:00:00Z",
+      "tournament": "Southern Farm Bureau Classic",
+      "course": "Annandale GC - Madison, MS",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "ADD88ED7-2F29-5831-9F31-484DF6455A33",
+      "date": "2001-10-26T00:00:00Z",
+      "tournament": "Buick Challenge",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "5C9F119A-8D8B-5167-9993-0F08E822F976",
+      "date": "2001-10-25T00:00:00Z",
+      "tournament": "Buick Challenge",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "10B2954C-7832-53EE-A8E2-F885D6251B3A",
+      "date": "2001-10-19T00:00:00Z",
+      "tournament": "National Car Rental Golf Classic Disney",
+      "course": "Magnolia GC - Lake Buena Vista, FL",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "7B7F29AD-DBED-5A84-9C9B-69B1AD820C88",
+      "date": "2001-10-18T00:00:00Z",
+      "tournament": "National Car Rental Golf Classic Disney",
+      "course": "Magnolia GC - Lake Buena Vista, FL",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "AF849EF0-ECEC-5605-98A8-B2F617545F09",
+      "date": "2001-10-12T00:00:00Z",
+      "tournament": "Invensys Classic at Las Vegas",
+      "course": "TPC Summerlin - Las Vegas, NV",
+      "roundNumber": 3,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "82F48051-3787-53D5-9C67-A94629F1B496",
+      "date": "2001-10-11T00:00:00Z",
+      "tournament": "Invensys Classic at Las Vegas",
+      "course": "TPC Summerlin - Las Vegas, NV",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "DB5C2B7F-F27A-59D1-9017-8062210CA0C9",
+      "date": "2001-10-10T00:00:00Z",
+      "tournament": "Invensys Classic at Las Vegas",
+      "course": "TPC Summerlin - Las Vegas, NV",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "BE08EE4D-4688-5F33-9595-23B9D03BCEB9",
+      "date": "2001-10-05T00:00:00Z",
+      "tournament": "Michelob Championship at Kingsmill",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "DD3CA938-673B-5274-AC2F-1CB29EE7DE3B",
+      "date": "2001-10-04T00:00:00Z",
+      "tournament": "Michelob Championship at Kingsmill",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "D4B23086-0467-5CAB-826F-8D8D67216CEF",
+      "date": "2001-09-30T00:00:00Z",
+      "tournament": "Texas Open at LaCantera",
+      "course": "LaCantera GC - San Antonio, TX",
+      "roundNumber": 4,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "16BA3DD5-BFFF-5FEC-9211-111C42F65EDC",
+      "date": "2001-09-29T00:00:00Z",
+      "tournament": "Texas Open at LaCantera",
+      "course": "LaCantera GC - San Antonio, TX",
+      "roundNumber": 3,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "DE66217C-5DB2-5C51-B71B-DB28C1FB25AB",
+      "date": "2001-09-28T00:00:00Z",
+      "tournament": "Texas Open at LaCantera",
+      "course": "LaCantera GC - San Antonio, TX",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "2EDD6538-0D98-5BA6-8A45-33CB4440DF94",
+      "date": "2001-09-27T00:00:00Z",
+      "tournament": "Texas Open at LaCantera",
+      "course": "LaCantera GC - San Antonio, TX",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "59B8B48A-9CAD-5E21-9BCF-37265FE35E96",
+      "date": "2001-09-07T00:00:00Z",
+      "tournament": "Bell Canadian Open",
+      "course": "The Royal Montreal Golf Club - Ile Bizard, PQ",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "DCB23D51-B246-5F20-A920-14AD90E41831",
+      "date": "2001-09-06T00:00:00Z",
+      "tournament": "Bell Canadian Open",
+      "course": "The Royal Montreal Golf Club - Ile Bizard, PQ",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "00F1E445-F6AF-5945-B746-85AB9574D8D7",
+      "date": "2001-08-31T00:00:00Z",
+      "tournament": "Air Canada Championship",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "2D682D1F-C72F-560E-9DF5-B820406DEC18",
+      "date": "2001-08-30T00:00:00Z",
+      "tournament": "Air Canada Championship",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "BF6B1209-CF33-5683-B452-6D35178FCB2E",
+      "date": "2001-08-24T00:00:00Z",
+      "tournament": "Reno-Tahoe Open",
+      "course": "Montreux G&CC - Reno, NV",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "F3005CA2-F2C1-5364-ADE4-037C011D5014",
+      "date": "2001-08-23T00:00:00Z",
+      "tournament": "Reno-Tahoe Open",
+      "course": "Montreux G&CC - Reno, NV",
+      "roundNumber": 1,
+      "score": 79,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "6D1FD5DD-6A53-56C9-8626-74956D60C0FE",
+      "date": "2001-08-10T00:00:00Z",
+      "tournament": "Buick Open",
+      "course": "Warwick Hills G&CC - Grand Blanc, MI",
+      "roundNumber": 2,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "41635D0A-0303-5D04-87EB-4379236DE174",
+      "date": "2001-08-09T00:00:00Z",
+      "tournament": "Buick Open",
+      "course": "Warwick Hills G&CC - Grand Blanc, MI",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "DF613092-5785-55C0-9F40-1D000FF75534",
+      "date": "2001-07-27T00:00:00Z",
+      "tournament": "John Deere Classic",
+      "course": "TPC Deere Run - Silvis, IL",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "6D892362-1260-5D38-8AC0-58315ED7DCD2",
+      "date": "2001-07-26T00:00:00Z",
+      "tournament": "John Deere Classic",
+      "course": "TPC Deere Run - Silvis, IL",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "AA6D4222-C405-59E8-850C-3A78D0F44962",
+      "date": "2001-07-22T00:00:00Z",
+      "tournament": "B.C. Open",
+      "course": "En-Joie GC - Endicott, NY",
+      "roundNumber": 4,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "BA761D03-4DB9-5CEA-BC9C-B676BEDBD935",
+      "date": "2001-07-21T00:00:00Z",
+      "tournament": "B.C. Open",
+      "course": "En-Joie GC - Endicott, NY",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "2BB94790-69E6-5ADC-B8DD-204FA90CA41C",
+      "date": "2001-07-20T00:00:00Z",
+      "tournament": "B.C. Open",
+      "course": "En-Joie GC - Endicott, NY",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "68799274-6CCB-5A2E-8F5D-C4BEDC3E02E5",
+      "date": "2001-07-19T00:00:00Z",
+      "tournament": "B.C. Open",
+      "course": "En-Joie GC - Endicott, NY",
+      "roundNumber": 1,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "C4895A7C-9C76-5885-8546-26D527118E8F",
+      "date": "2001-07-15T00:00:00Z",
+      "tournament": "Greater Milwaukee Open",
+      "course": "Brown Deer Park GC - Milwaukee, WI",
+      "roundNumber": 4,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "A38C0A45-7DF9-5ABA-B76E-C797E67F6464",
+      "date": "2001-07-14T00:00:00Z",
+      "tournament": "Greater Milwaukee Open",
+      "course": "Brown Deer Park GC - Milwaukee, WI",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "4D9807B9-895E-5BD0-B2A4-EDD25B8A649B",
+      "date": "2001-07-13T00:00:00Z",
+      "tournament": "Greater Milwaukee Open",
+      "course": "Brown Deer Park GC - Milwaukee, WI",
+      "roundNumber": 2,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "5D68D97F-2EB6-5097-8177-19DE8A470F03",
+      "date": "2001-07-12T00:00:00Z",
+      "tournament": "Greater Milwaukee Open",
+      "course": "Brown Deer Park GC - Milwaukee, WI",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "A96154A6-D78A-5AD0-B1DB-EEC464BF8B93",
+      "date": "2001-07-06T00:00:00Z",
+      "tournament": "Advil Western Open",
+      "course": "Cog Hill G&CC - Lemont, IL",
+      "roundNumber": 2,
+      "score": 80,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "DF54F478-05B5-56F3-9591-ADE1D03D861F",
+      "date": "2001-07-05T00:00:00Z",
+      "tournament": "Advil Western Open",
+      "course": "Cog Hill G&CC - Lemont, IL",
+      "roundNumber": 1,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "F78FBE64-B965-536E-8DCC-AECB5F7132EE",
+      "date": "2001-07-01T00:00:00Z",
+      "tournament": "Canon Greater Hartford Open",
+      "course": "TPC River Highlands - Cromwell, CT",
+      "roundNumber": 4,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "D0E69BB3-6DAE-5073-B391-79603A30A587",
+      "date": "2001-06-30T00:00:00Z",
+      "tournament": "Canon Greater Hartford Open",
+      "course": "TPC River Highlands - Cromwell, CT",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "6263B874-44D7-544B-AE99-8AFE8B87CDF4",
+      "date": "2001-06-29T00:00:00Z",
+      "tournament": "Canon Greater Hartford Open",
+      "course": "TPC River Highlands - Cromwell, CT",
+      "roundNumber": 2,
+      "score": 65,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "3AA3D585-59B2-5846-ACC0-C8071C84E282",
+      "date": "2001-06-28T00:00:00Z",
+      "tournament": "Canon Greater Hartford Open",
+      "course": "TPC River Highlands - Cromwell, CT",
+      "roundNumber": 1,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "80E0DE74-CB75-5B2D-BB6A-19DF4E726669",
+      "date": "2001-06-22T00:00:00Z",
+      "tournament": "Buick Classic",
+      "course": "Westchester CC - Harrison, NY",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "18D10C5A-6DB3-56FE-A0C8-0D7C98C5D251",
+      "date": "2001-06-21T00:00:00Z",
+      "tournament": "Buick Classic",
+      "course": "Westchester CC - Harrison, NY",
+      "roundNumber": 1,
+      "score": 78,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "DE94D72C-C7B8-51D0-A139-F8C491FDC192",
+      "date": "2001-06-08T00:00:00Z",
+      "tournament": "FedEx St. Jude Classic",
+      "course": "TPC Southwind - Memphis, TN",
+      "roundNumber": 2,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "421D48E4-1961-511C-AA5C-03D3CBAB95AF",
+      "date": "2001-06-07T00:00:00Z",
+      "tournament": "FedEx St. Jude Classic",
+      "course": "TPC Southwind - Memphis, TN",
+      "roundNumber": 1,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "AA8EC66A-8562-57FA-992A-251DC2FEFBA4",
+      "date": "2001-05-11T00:00:00Z",
+      "tournament": "Verizon Byron Nelson Classic",
+      "course": "TPC Four Seasons Resort - Irving, TX",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "EF8771C4-A2A4-522B-B3A9-E97C3933CE1A",
+      "date": "2001-05-10T00:00:00Z",
+      "tournament": "Verizon Byron Nelson Classic",
+      "course": "TPC Four Seasons Resort - Irving, TX",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "4AB5B937-838E-5820-8506-2CB8E94AA484",
+      "date": "2001-05-04T00:00:00Z",
+      "tournament": "Compaq Classic of New Orleans",
+      "course": "English Turn - New Orleans, LA",
+      "roundNumber": 2,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "66642185-397D-550D-9463-DE9D7458C40D",
+      "date": "2001-05-03T00:00:00Z",
+      "tournament": "Compaq Classic of New Orleans",
+      "course": "English Turn - New Orleans, LA",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "EAC6FC54-EEAF-516A-BC79-CF1AF41ABB92",
+      "date": "2001-04-27T00:00:00Z",
+      "tournament": "Greater Greensboro Chrysler Classic",
+      "course": "Forest Oaks - Greensboro, NC",
+      "roundNumber": 2,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "91C548EB-21FA-5CF5-9742-75B385D0DE9F",
+      "date": "2001-04-26T00:00:00Z",
+      "tournament": "Greater Greensboro Chrysler Classic",
+      "course": "Forest Oaks - Greensboro, NC",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "58AFD03C-DDE1-588D-BEC6-70BACBED39AE",
+      "date": "2001-04-20T00:00:00Z",
+      "tournament": "Shell Houston Open",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "8A11FB6E-1FD4-5477-AACD-03001A0C2C30",
+      "date": "2001-04-19T00:00:00Z",
+      "tournament": "Shell Houston Open",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "A96A91B6-FDC5-57B2-AE24-84FE40518AA8",
+      "date": "2001-04-15T00:00:00Z",
+      "tournament": "WORLDCOM CLASSIC - The Heritage of Golf",
+      "course": "Harbour Town Golf Links - Hilton Head Island, SC",
+      "roundNumber": 4,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "949A811F-BB22-5C65-8F06-409343A93EFD",
+      "date": "2001-04-14T00:00:00Z",
+      "tournament": "WORLDCOM CLASSIC - The Heritage of Golf",
+      "course": "Harbour Town Golf Links - Hilton Head Island, SC",
+      "roundNumber": 3,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "6EEFABA9-630E-56BB-9FFA-7D5913C26011",
+      "date": "2001-04-13T00:00:00Z",
+      "tournament": "WORLDCOM CLASSIC - The Heritage of Golf",
+      "course": "Harbour Town Golf Links - Hilton Head Island, SC",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "110D30BE-FFAD-510E-A938-82FF56D970CD",
+      "date": "2001-04-12T00:00:00Z",
+      "tournament": "WORLDCOM CLASSIC - The Heritage of Golf",
+      "course": "Harbour Town Golf Links - Hilton Head Island, SC",
+      "roundNumber": 1,
+      "score": 65,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "1D9D2FD2-392F-50CD-A6A9-312272857769",
+      "date": "2001-03-30T00:00:00Z",
+      "tournament": "BellSouth Classic",
+      "course": "TPC Sugarloaf - Duluth, GA",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "4B91F9F8-ACBD-58B7-AE8A-D72A3BFF4B59",
+      "date": "2001-03-29T00:00:00Z",
+      "tournament": "BellSouth Classic",
+      "course": "TPC Sugarloaf - Duluth, GA",
+      "roundNumber": 1,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "4B509009-FE95-5BAE-AD17-A01D3797AFF9",
+      "date": "2001-03-23T00:00:00Z",
+      "tournament": "THE PLAYERS Championship",
+      "course": "TPC Sawgrass (THE PLAYERS Stadium Course) - Ponte Vedra Beach, FL",
+      "roundNumber": 2,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B4A76664-F4F4-5C4D-98CD-A2304A366EFA",
+      "date": "2001-03-22T00:00:00Z",
+      "tournament": "THE PLAYERS Championship",
+      "course": "TPC Sawgrass (THE PLAYERS Stadium Course) - Ponte Vedra Beach, FL",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "0BCD0A22-64DE-5D5A-AEB0-1E27D67F023E",
+      "date": "2001-03-11T00:00:00Z",
+      "tournament": "Honda Classic",
+      "course": "nan",
+      "roundNumber": 4,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "EB48E0F2-6A3A-5B27-9A1E-6A2FBB36312F",
+      "date": "2001-03-10T00:00:00Z",
+      "tournament": "Honda Classic",
+      "course": "nan",
+      "roundNumber": 3,
+      "score": 65,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "EF93E7D3-412F-526F-AD23-6354FE2663F3",
+      "date": "2001-03-09T00:00:00Z",
+      "tournament": "Honda Classic",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "BA143A5B-3FB4-5AC1-BE07-8B9B050C3BAB",
+      "date": "2001-03-08T00:00:00Z",
+      "tournament": "Honda Classic",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "DECB08F1-4DB5-57C2-A1F3-1DCFFFD87C91",
+      "date": "2001-03-04T00:00:00Z",
+      "tournament": "Genuity Championship",
+      "course": "Trump National Doral Golf Course - Doral, FL",
+      "roundNumber": 4,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "118847F9-D8FB-5E1E-9A13-82E904AD3917",
+      "date": "2001-03-03T00:00:00Z",
+      "tournament": "Genuity Championship",
+      "course": "Trump National Doral Golf Course - Doral, FL",
+      "roundNumber": 3,
+      "score": 78,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "8D63D204-5831-5121-A535-83B008C5F05D",
+      "date": "2001-03-02T00:00:00Z",
+      "tournament": "Genuity Championship",
+      "course": "Trump National Doral Golf Course - Doral, FL",
+      "roundNumber": 2,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "5B69A2CC-D0A0-5D6F-8065-A9F2F0C588F8",
+      "date": "2001-03-01T00:00:00Z",
+      "tournament": "Genuity Championship",
+      "course": "Trump National Doral Golf Course - Doral, FL",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "F4438A5B-7055-59A5-ABC6-93027FCC8118",
+      "date": "2001-02-25T00:00:00Z",
+      "tournament": "Nissan Open",
+      "course": "Riviera Country Club - Pacific Palisades, CA",
+      "roundNumber": 4,
+      "score": 80,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "8B0776CA-BB87-5B21-968E-A0F37F62B467",
+      "date": "2001-02-24T00:00:00Z",
+      "tournament": "Nissan Open",
+      "course": "Riviera Country Club - Pacific Palisades, CA",
+      "roundNumber": 3,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "CE61D7FE-3A81-5E3D-A2CA-E7B32E15B702",
+      "date": "2001-02-23T00:00:00Z",
+      "tournament": "Nissan Open",
+      "course": "Riviera Country Club - Pacific Palisades, CA",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "EFFC9219-5AA3-5091-AF46-AFC442F34832",
+      "date": "2001-02-22T00:00:00Z",
+      "tournament": "Nissan Open",
+      "course": "Riviera Country Club - Pacific Palisades, CA",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "89F63FEA-FF59-5796-A10B-866EB1D1127C",
+      "date": "2001-02-09T00:00:00Z",
+      "tournament": "Buick Invitational",
+      "course": "Torrey Pines (North Course) - La Jolla, CA",
+      "roundNumber": 2,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "F0BD805F-E6DB-546C-A2AA-94DA034B911A",
+      "date": "2001-02-08T00:00:00Z",
+      "tournament": "Buick Invitational",
+      "course": "Torrey Pines (North Course) - La Jolla, CA",
+      "roundNumber": 1,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "38C635BE-2EAE-5CA9-B17F-B58A14C2DABF",
+      "date": "2001-02-03T00:00:00Z",
+      "tournament": "AT&T Pebble Beach National Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "5A966693-6284-5CAC-B5E1-A8FD093A1F88",
+      "date": "2001-02-02T00:00:00Z",
+      "tournament": "AT&T Pebble Beach National Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "9EC1DFE3-39F2-5E6E-8565-AA58E00789FA",
+      "date": "2001-02-01T00:00:00Z",
+      "tournament": "AT&T Pebble Beach National Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "010B4390-0B25-59A2-A589-689975B69700",
+      "date": "2001-01-26T00:00:00Z",
+      "tournament": "Phoenix Open",
+      "course": "TPC Scottsdale (Stadium Course) - Scottsdale, AZ",
+      "roundNumber": 2,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "7A9AD980-3BD9-58CA-A716-C06B83DF2726",
+      "date": "2001-01-25T00:00:00Z",
+      "tournament": "Phoenix Open",
+      "course": "TPC Scottsdale (Stadium Course) - Scottsdale, AZ",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    }
+  ]
+}

@@ -1,0 +1,508 @@
+{
+  "version": 1,
+  "updatedAt": "2026-01-09T19:15:28Z",
+  "slug": "rich-berberian-jr",
+  "roundCount": 50,
+  "rounds": [
+    {
+      "id": "DA5D26E3-EFF8-577A-85DE-92160F3EE69C",
+      "date": "2020-08-07T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "TPC Harding Park - San Francisco, CA",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "5133EA81-3943-5D56-A073-67077C4843EF",
+      "date": "2020-08-07T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "4A383299-08FB-5F74-B5E5-1FC455C994BD",
+      "date": "2020-08-06T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "TPC Harding Park - San Francisco, CA",
+      "roundNumber": 1,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "C0548259-E424-5251-9E0B-8A5B4E7DD272",
+      "date": "2020-08-06T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "B6650D7A-EF0A-5603-9822-1FFA11C446E2",
+      "date": "2019-05-17T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "Bethpage State Park - Bethpage, NY",
+      "roundNumber": 2,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "34703265-6CC9-543C-8256-FA7C64419532",
+      "date": "2019-05-17T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "229E8D9C-78A3-5D95-A40E-25BF6295976E",
+      "date": "2019-05-16T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "Bethpage State Park - Bethpage, NY",
+      "roundNumber": 1,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "067C7FF3-8299-5BFF-983E-1EACEFDBC492",
+      "date": "2019-05-16T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "6D23C922-A624-51DB-AF92-8AC0716E9244",
+      "date": "2018-08-10T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "Bellerive Country Club - St. Louis, MO",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "CCA95CF3-2D45-5DAF-8287-59BC4CBFA435",
+      "date": "2018-08-09T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "Bellerive Country Club - St. Louis, MO",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "EB0CC5AE-24A2-5366-B971-703F8D6BFFE6",
+      "date": "2017-08-11T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "Quail Hollow Club - Charlotte, NC",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "CAD1E6A1-A284-58DF-869D-756A7642D09B",
+      "date": "2017-08-11T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "082E09E3-E044-50EE-9E29-F2F81A64D395",
+      "date": "2017-08-10T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "Quail Hollow Club - Charlotte, NC",
+      "roundNumber": 1,
+      "score": 79,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "EE7FB738-1276-5D77-8B41-1317DB73BC31",
+      "date": "2017-08-10T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 79,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "182FB117-4950-580B-B359-67E6EFA2567D",
+      "date": "2017-07-22T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "RTJ Trail Grand National Lake - Auburn, AL",
+      "roundNumber": 3,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "9C56A627-9B4E-587D-8052-CF6B3959C2AF",
+      "date": "2017-07-22T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "RTJ Trail Grand National Lake - Auburn, AL.",
+      "roundNumber": 3,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "80EFC082-F972-5F4E-A7BA-4C4DB4EB640B",
+      "date": "2017-07-21T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "RTJ Trail Grand National Lake - Auburn, AL",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "5FB2B6A0-C5FB-5E22-A523-29AF775853B5",
+      "date": "2017-07-21T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "RTJ Trail Grand National Lake - Auburn, AL.",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "7C8E34A0-B1B7-591D-BAAF-F9DA9AC5CB52",
+      "date": "2017-07-20T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "RTJ Trail Grand National Lake - Auburn, AL",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "8E6A7EEC-855C-50EC-B4B5-18212B21DC06",
+      "date": "2017-07-20T00:00:00Z",
+      "tournament": "Barbasol Championship",
+      "course": "RTJ Trail Grand National Lake - Auburn, AL.",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "6FF3A462-DE8D-564C-A7AF-845D11BD4ED7",
+      "date": "2017-03-31T00:00:00Z",
+      "tournament": "Shell Houston Open",
+      "course": "Golf Club of Houston - Houston, TX",
+      "roundNumber": 2,
+      "score": 84,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "7E92A4B5-B430-5D79-B119-EE296782BAAC",
+      "date": "2017-03-31T00:00:00Z",
+      "tournament": "Shell Houston Open",
+      "course": "Golf Club of Houston - Houston, TX.",
+      "roundNumber": 2,
+      "score": 84,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "2B4CA2EF-7F79-5651-9201-63F4AF17E609",
+      "date": "2017-03-30T00:00:00Z",
+      "tournament": "Shell Houston Open",
+      "course": "Golf Club of Houston - Houston, TX",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "A0B27AD3-0D84-598B-981B-9E06C5D8EC63",
+      "date": "2017-03-30T00:00:00Z",
+      "tournament": "Shell Houston Open",
+      "course": "Golf Club of Houston - Houston, TX.",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "7C7EFA4B-C0D0-5C9B-90B3-BD87F0C85275",
+      "date": "2017-03-26T00:00:00Z",
+      "tournament": "Puerto Rico Open",
+      "course": "Grand Reserve Country Club - Rio Grande, Puerto Rico",
+      "roundNumber": 4,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "A413FABB-A431-53B5-829F-D194E8ECF6C3",
+      "date": "2017-03-26T00:00:00Z",
+      "tournament": "Puerto Rico Open",
+      "course": "Grand Reserve Country Club - Rio Grande, Puerto Rico.",
+      "roundNumber": 4,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "B2808D3F-0026-56CA-AE85-76309CE1DAF6",
+      "date": "2017-03-25T00:00:00Z",
+      "tournament": "Puerto Rico Open",
+      "course": "Grand Reserve Country Club - Rio Grande, Puerto Rico",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "80710F3F-8351-5958-8198-1263E6A8A975",
+      "date": "2017-03-25T00:00:00Z",
+      "tournament": "Puerto Rico Open",
+      "course": "Grand Reserve Country Club - Rio Grande, Puerto Rico.",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "967946CF-4D02-53F4-9F4F-F8778278B732",
+      "date": "2017-03-24T00:00:00Z",
+      "tournament": "Puerto Rico Open",
+      "course": "Grand Reserve Country Club - Rio Grande, Puerto Rico",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "26699FED-4230-5901-85CE-551CDAF07C44",
+      "date": "2017-03-24T00:00:00Z",
+      "tournament": "Puerto Rico Open",
+      "course": "Grand Reserve Country Club - Rio Grande, Puerto Rico.",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "9A69AEBF-5F55-561C-BA19-3F018907D943",
+      "date": "2017-03-23T00:00:00Z",
+      "tournament": "Puerto Rico Open",
+      "course": "Grand Reserve Country Club - Rio Grande, Puerto Rico",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "AB6751E5-1A57-5927-86C9-17D2CFE73498",
+      "date": "2017-03-23T00:00:00Z",
+      "tournament": "Puerto Rico Open",
+      "course": "Grand Reserve Country Club - Rio Grande, Puerto Rico.",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "9C69E1B7-7BD5-5125-967C-BCC6E9416EBB",
+      "date": "2017-02-17T00:00:00Z",
+      "tournament": "Genesis Open",
+      "course": "Riviera Country Club - Pacific Palisades, CA",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "8BCC8421-206E-5093-8AA9-8826A342410E",
+      "date": "2017-02-17T00:00:00Z",
+      "tournament": "Genesis Open",
+      "course": "Riviera Country Club - Pacific Palisades, CA.",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "73C23164-D163-5914-A2EF-C063797C1954",
+      "date": "2017-02-16T00:00:00Z",
+      "tournament": "Genesis Open",
+      "course": "Riviera Country Club - Pacific Palisades, CA",
+      "roundNumber": 1,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "D0F2FDFC-0BD6-5BF0-8F7A-04986B8FEE55",
+      "date": "2017-02-16T00:00:00Z",
+      "tournament": "Genesis Open",
+      "course": "Riviera Country Club - Pacific Palisades, CA.",
+      "roundNumber": 1,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "B8F53CA1-00B2-5D28-A7B1-F07CD02D55FE",
+      "date": "2017-02-11T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "756757D2-4403-5D7D-A17B-01CDD725154D",
+      "date": "2017-02-11T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA. Pebble Beach Golf Links - Pebble Beach, CA. Monterey Peninsula Country Club (Shore Course) - Pebble Beach, CA.",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "AC6F487C-9C65-5FBB-9137-E61E5FF2690C",
+      "date": "2017-02-10T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "23745AD3-B21D-5D2E-9E7C-3BD1DABCC838",
+      "date": "2017-02-10T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA. Pebble Beach Golf Links - Pebble Beach, CA. Monterey Peninsula Country Club (Shore Course) - Pebble Beach, CA.",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "88D92974-739D-535A-8985-F8BA5E981008",
+      "date": "2017-02-09T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B573CA59-6B4E-5F19-A8C7-04A56FF1B037",
+      "date": "2017-02-09T00:00:00Z",
+      "tournament": "AT&T Pebble Beach Pro-Am",
+      "course": "Spyglass Hill GC - Pebble Beach, CA. Pebble Beach Golf Links - Pebble Beach, CA. Monterey Peninsula Country Club (Shore Course) - Pebble Beach, CA.",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "7BD124D3-B1DD-54F6-89DD-0E6D54406E2F",
+      "date": "2016-07-29T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "Baltusrol GC - Springfield, NJ",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B2E39564-6C6B-54B5-9346-ADECDE672723",
+      "date": "2016-07-29T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "4FD09C4C-4896-5082-B4E8-7B74CC1A5E11",
+      "date": "2016-07-28T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "Baltusrol GC - Springfield, NJ",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "3F22B478-D956-5AE3-9F27-59000C479EDF",
+      "date": "2016-07-28T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "231CD801-FBF1-54C2-B16B-EF0480506FCC",
+      "date": "2015-06-19T00:00:00Z",
+      "tournament": "U.S. Open",
+      "course": "Chambers Bay GC - University Place, WA",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B79AAC61-D104-5F23-BC8C-F837E6271BE6",
+      "date": "2015-06-19T00:00:00Z",
+      "tournament": "U.S. Open",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "D88A85C0-1656-5102-A336-F0DDA527D81D",
+      "date": "2015-06-18T00:00:00Z",
+      "tournament": "U.S. Open",
+      "course": "Chambers Bay GC - University Place, WA",
+      "roundNumber": 1,
+      "score": 83,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "43C3C866-B1C0-5A2C-A827-360B68354AE7",
+      "date": "2015-06-18T00:00:00Z",
+      "tournament": "U.S. Open",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 83,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    }
+  ]
+}

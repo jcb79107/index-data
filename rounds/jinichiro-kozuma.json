@@ -1,0 +1,788 @@
+{
+  "version": 1,
+  "updatedAt": "2026-01-09T19:15:28Z",
+  "slug": "jinichiro-kozuma",
+  "roundCount": 78,
+  "rounds": [
+    {
+      "id": "561994DD-8767-58C2-B03C-FE724CD3B1A1",
+      "date": "2025-06-13T00:00:00Z",
+      "tournament": "U.S. Open",
+      "course": "Oakmont Country Club - Oakmont, PA",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "E9225D8A-131F-54A7-866D-6C355ADFA7C8",
+      "date": "2025-06-12T00:00:00Z",
+      "tournament": "U.S. Open",
+      "course": "Oakmont Country Club - Oakmont, PA",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "FEA57FF0-136E-5FB2-B1F3-ECBD01753C50",
+      "date": "2024-09-15T00:00:00Z",
+      "tournament": "LIV Chicago",
+      "course": "Chicago",
+      "roundNumber": 3,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "336D9042-89A5-5C73-B8BC-80F563450BF8",
+      "date": "2024-09-14T00:00:00Z",
+      "tournament": "LIV Chicago",
+      "course": "Chicago",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "9BD1B9C6-262B-5D71-BB67-E62AB94EFEC7",
+      "date": "2024-09-13T00:00:00Z",
+      "tournament": "LIV Chicago",
+      "course": "Chicago",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "B88F0628-8C18-5AC3-81E6-8B0E1BAAC7B5",
+      "date": "2024-08-18T00:00:00Z",
+      "tournament": "LIV Greenbrier",
+      "course": "Greenbrier",
+      "roundNumber": 3,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "BF58E25B-FD69-57A1-A81B-483493B75DB5",
+      "date": "2024-08-17T00:00:00Z",
+      "tournament": "LIV Greenbrier",
+      "course": "Greenbrier",
+      "roundNumber": 2,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "29794B9F-5301-593C-B06B-1C41CA7A3CF6",
+      "date": "2024-08-16T00:00:00Z",
+      "tournament": "LIV Greenbrier",
+      "course": "Greenbrier",
+      "roundNumber": 1,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "F9C98D6B-8B01-5FFE-B00C-D5D71FCA76BD",
+      "date": "2024-07-28T00:00:00Z",
+      "tournament": "LIV UK",
+      "course": "UK",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "57C8CAEA-FBC2-5D0E-B2CD-A0DBF8109B62",
+      "date": "2024-07-27T00:00:00Z",
+      "tournament": "LIV UK",
+      "course": "UK",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "EFE72F16-CE8E-50D3-A373-E9559B669C5F",
+      "date": "2024-07-26T00:00:00Z",
+      "tournament": "LIV UK",
+      "course": "UK",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "A7E29038-4FB6-5150-8D21-9D284EDDD6E2",
+      "date": "2024-07-14T00:00:00Z",
+      "tournament": "LIV Andalucia",
+      "course": "Andalucia",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "5EED00C0-F217-5D4A-BEF8-7E61FBB68AD0",
+      "date": "2024-07-13T00:00:00Z",
+      "tournament": "LIV Andalucia",
+      "course": "Andalucia",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "0643E90C-34A1-5B63-8C29-46324EB008CC",
+      "date": "2024-07-12T00:00:00Z",
+      "tournament": "LIV Andalucia",
+      "course": "Andalucia",
+      "roundNumber": 1,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "41C40678-5A9F-5BBA-A546-239CBBE147B4",
+      "date": "2024-06-23T00:00:00Z",
+      "tournament": "LIV Nashville",
+      "course": "Nashville",
+      "roundNumber": 3,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "9E8A1ADC-EE0A-5F4D-B8D3-0D32E5064DCC",
+      "date": "2024-06-22T00:00:00Z",
+      "tournament": "LIV Nashville",
+      "course": "Nashville",
+      "roundNumber": 2,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "28CBF98C-2EC3-590F-A3AD-C606ACFCDE4A",
+      "date": "2024-06-21T00:00:00Z",
+      "tournament": "LIV Nashville",
+      "course": "Nashville",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "F0E4D1C2-58ED-510D-AD2E-A99193D9F3F2",
+      "date": "2024-06-09T00:00:00Z",
+      "tournament": "LIV Houston",
+      "course": "Houston",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "847BC7AC-1AAE-5F6E-A166-B3A85D9362DC",
+      "date": "2024-06-08T00:00:00Z",
+      "tournament": "LIV Houston",
+      "course": "Houston",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "79347841-E47A-5D54-8823-F1F19779F29C",
+      "date": "2024-06-07T00:00:00Z",
+      "tournament": "LIV Houston",
+      "course": "Houston",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "79AE0E37-8268-5E38-9AC5-7E0A4A48B21E",
+      "date": "2024-05-04T00:00:00Z",
+      "tournament": "LIV Singapore",
+      "course": "Singapore",
+      "roundNumber": 3,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "2D4CEE8D-1591-5B74-9A56-12B09D422808",
+      "date": "2024-05-03T00:00:00Z",
+      "tournament": "LIV Singapore",
+      "course": "Singapore",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "CD40BB37-A659-5B91-B3A6-FD807EF5F9CA",
+      "date": "2024-05-02T00:00:00Z",
+      "tournament": "LIV Singapore",
+      "course": "Singapore",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "DF817997-9223-5B5E-8BD0-3E22BCDFCE98",
+      "date": "2024-04-27T00:00:00Z",
+      "tournament": "LIV Adelaide",
+      "course": "Adelaide",
+      "roundNumber": 3,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "78D6957D-3650-5F0B-AE6A-573872C7B5C4",
+      "date": "2024-04-26T00:00:00Z",
+      "tournament": "LIV Adelaide",
+      "course": "Adelaide",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "B9318A31-7189-552F-B24A-0C0EDCF9DFFF",
+      "date": "2024-04-25T00:00:00Z",
+      "tournament": "LIV Adelaide",
+      "course": "Adelaide",
+      "roundNumber": 1,
+      "score": 63,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "0A73D34F-00D0-5B0A-8124-4314EDE78563",
+      "date": "2024-04-07T00:00:00Z",
+      "tournament": "LIV Miami",
+      "course": "Miami",
+      "roundNumber": 3,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "D82382DF-4FCD-5B78-9A17-10E40AC45F16",
+      "date": "2024-04-06T00:00:00Z",
+      "tournament": "LIV Miami",
+      "course": "Miami",
+      "roundNumber": 2,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "D3B56AEA-E95B-5952-ACB1-3E52A8FA087B",
+      "date": "2024-04-05T00:00:00Z",
+      "tournament": "LIV Miami",
+      "course": "Miami",
+      "roundNumber": 1,
+      "score": 80,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "1FE90E66-33A9-51F7-9C23-4EE842864CE3",
+      "date": "2024-03-09T00:00:00Z",
+      "tournament": "LIV Hong Kong",
+      "course": "Hong Kong",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "893AD1D2-19C7-58AD-BE94-7F7FF7775D0A",
+      "date": "2024-03-08T00:00:00Z",
+      "tournament": "LIV Hong Kong",
+      "course": "Hong Kong",
+      "roundNumber": 2,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "24F4729E-DC52-57D3-8ED3-E4059CAFAA6D",
+      "date": "2024-03-07T00:00:00Z",
+      "tournament": "LIV Hong Kong",
+      "course": "Hong Kong",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "B90AF913-E274-5F38-8377-1C3C7D6EA8FB",
+      "date": "2024-03-03T00:00:00Z",
+      "tournament": "LIV Jeddah",
+      "course": "Jeddah",
+      "roundNumber": 3,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "DDA41684-6B78-5E9D-B989-277BF01C5EB1",
+      "date": "2024-03-02T00:00:00Z",
+      "tournament": "LIV Jeddah",
+      "course": "Jeddah",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "52804592-6A3A-5E80-ACA3-4B7C9F97EB53",
+      "date": "2024-03-01T00:00:00Z",
+      "tournament": "LIV Jeddah",
+      "course": "Jeddah",
+      "roundNumber": 1,
+      "score": 65,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "D675F6C2-DDDC-523D-9B42-CF6A35CF6A14",
+      "date": "2024-02-10T00:00:00Z",
+      "tournament": "LIV Las Vegas",
+      "course": "Las Vegas",
+      "roundNumber": 3,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "8C914B00-4D3C-58F6-8F35-021B54A2B483",
+      "date": "2024-02-09T00:00:00Z",
+      "tournament": "LIV Las Vegas",
+      "course": "Las Vegas",
+      "roundNumber": 2,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "4E0A0F8A-1F50-51ED-8F1D-CFE4FB17D9EA",
+      "date": "2024-02-08T00:00:00Z",
+      "tournament": "LIV Las Vegas",
+      "course": "Las Vegas",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "0F39B1D7-55F4-5D16-BBD6-2D31EA88DAFF",
+      "date": "2024-02-04T00:00:00Z",
+      "tournament": "LIV Mayakoba",
+      "course": "Mayakoba",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "AA8B2E8D-98C3-5189-8A5E-73A695567A11",
+      "date": "2024-02-03T00:00:00Z",
+      "tournament": "LIV Mayakoba",
+      "course": "Mayakoba",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "802037EC-40DF-5CB9-8B41-E5DA9E1DCCD5",
+      "date": "2024-02-02T00:00:00Z",
+      "tournament": "LIV Mayakoba",
+      "course": "Mayakoba",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "3DE0C27C-700E-5B0F-97FC-E9FAA9510D9D",
+      "date": "2022-10-24T00:00:00Z",
+      "tournament": "ZOZO CHAMPIONSHIP",
+      "course": "Accordia Golf Narashino Country Club - Chiba, Japan.",
+      "roundNumber": 4,
+      "score": 65,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "6A53B05A-52B2-50D2-827D-E128ECC8E1B4",
+      "date": "2022-10-23T00:00:00Z",
+      "tournament": "ZOZO CHAMPIONSHIP",
+      "course": "Accordia Golf Narashino Country Club - Chiba, Japan.",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "20D6FB6F-B68C-5F44-9B88-3F1E0CBB07C5",
+      "date": "2022-10-22T00:00:00Z",
+      "tournament": "ZOZO CHAMPIONSHIP",
+      "course": "Accordia Golf Narashino Country Club - Chiba, Japan.",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "281A85FC-950C-5FCA-A81C-6C79CAE6CCAA",
+      "date": "2022-10-21T00:00:00Z",
+      "tournament": "ZOZO CHAMPIONSHIP",
+      "course": "Accordia Golf Narashino Country Club - Chiba, Japan.",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "CF8403B5-8405-5449-AE8E-B0F6B282CBD0",
+      "date": "2022-07-31T00:00:00Z",
+      "tournament": "LIV Bedminster",
+      "course": "Bedminster",
+      "roundNumber": 3,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "C896984B-878D-560E-B5CB-666FD1DFC217",
+      "date": "2022-07-30T00:00:00Z",
+      "tournament": "LIV Bedminster",
+      "course": "Bedminster",
+      "roundNumber": 2,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "DAEE8532-9965-5617-AABD-3B93C9D78DD9",
+      "date": "2022-07-29T00:00:00Z",
+      "tournament": "LIV Bedminster",
+      "course": "Bedminster",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "D97DEA6D-9EC4-53E7-B2BA-DEC263F2A17F",
+      "date": "2022-07-02T00:00:00Z",
+      "tournament": "LIV Portland",
+      "course": "Portland",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "50B27326-477B-5750-B6B4-ADB698CD33AF",
+      "date": "2022-07-01T00:00:00Z",
+      "tournament": "LIV Portland",
+      "course": "Portland",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "7862BBBE-37C1-5D8D-8A84-10C3456B6108",
+      "date": "2022-06-30T00:00:00Z",
+      "tournament": "LIV Portland",
+      "course": "Portland",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "2C327A03-B848-5396-A37F-DC26597E274D",
+      "date": "2022-06-17T00:00:00Z",
+      "tournament": "U.S. Open",
+      "course": "The Country Club - Brookline, MA",
+      "roundNumber": 2,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "85BCE014-768A-5C47-861C-A03CB27A6556",
+      "date": "2022-06-17T00:00:00Z",
+      "tournament": "U.S. Open",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "EF8F67E9-3FC7-5D30-8485-ECC904D27610",
+      "date": "2022-06-16T00:00:00Z",
+      "tournament": "U.S. Open",
+      "course": "The Country Club - Brookline, MA",
+      "roundNumber": 1,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "5D2ABA21-C872-5BB3-A1CA-C17ED5C8D064",
+      "date": "2022-06-16T00:00:00Z",
+      "tournament": "U.S. Open",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "BD0814D7-B10C-50BA-B219-BB97AFBD5CAF",
+      "date": "2022-06-11T00:00:00Z",
+      "tournament": "LIV London",
+      "course": "London",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "5459E6D4-E572-58FF-B42F-2C0EA8AE210F",
+      "date": "2022-06-10T00:00:00Z",
+      "tournament": "LIV London",
+      "course": "London",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "CD412DFF-4658-5C5E-BD3A-FD55FDD151F2",
+      "date": "2022-06-09T00:00:00Z",
+      "tournament": "LIV London",
+      "course": "London",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: LIV Results CSV"
+    },
+    {
+      "id": "00479F3E-1EA7-5361-904F-814EB0383BD4",
+      "date": "2022-05-20T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "Southern Hills Country Club - Tulsa, OK",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "858FCC00-5002-5711-AC6A-0BB6B8906F14",
+      "date": "2022-05-20T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "2036BAA7-7B79-5D1E-8539-2B50F214C569",
+      "date": "2022-05-19T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "Southern Hills Country Club - Tulsa, OK",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "0EDDB9E9-3EAE-5AEC-9899-52360B088104",
+      "date": "2022-05-19T00:00:00Z",
+      "tournament": "PGA Championship",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "61ADE55D-1C92-5883-9CB3-F94F893F2703",
+      "date": "2021-10-24T00:00:00Z",
+      "tournament": "ZOZO CHAMPIONSHIP",
+      "course": "Accordia Golf Narashino CC - Chiba, Japan",
+      "roundNumber": 4,
+      "score": 65,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "55C3B94E-794E-5389-9CB8-D05A97AE940E",
+      "date": "2021-10-23T00:00:00Z",
+      "tournament": "ZOZO CHAMPIONSHIP",
+      "course": "Accordia Golf Narashino CC - Chiba, Japan",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "E8413524-9B22-5193-A459-F15124EC9CAD",
+      "date": "2021-10-22T00:00:00Z",
+      "tournament": "ZOZO CHAMPIONSHIP",
+      "course": "Accordia Golf Narashino CC - Chiba, Japan",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "B8FFEC3C-4600-5E03-A637-FE58A3150D4D",
+      "date": "2021-10-21T00:00:00Z",
+      "tournament": "ZOZO CHAMPIONSHIP",
+      "course": "Accordia Golf Narashino CC - Chiba, Japan",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "A45987AC-E283-5E3F-8ABE-78FF9A2E1C8D",
+      "date": "2021-01-15T00:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Waialae Country Club - Honolulu, HI",
+      "roundNumber": 2,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "165FB921-75C7-55E6-B230-5F9024173331",
+      "date": "2021-01-15T00:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Waialae Country Club - Honolulu, HI.",
+      "roundNumber": 2,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "96405757-B993-52AE-9137-425EC073C473",
+      "date": "2021-01-14T00:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Waialae Country Club - Honolulu, HI",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "9AD52D94-9176-5A50-92AF-60B6726070B3",
+      "date": "2021-01-14T00:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Waialae Country Club - Honolulu, HI.",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "78B35209-DA59-5FCA-8146-5DF3207225EF",
+      "date": "2020-10-27T00:00:00Z",
+      "tournament": "The ZOZO CHAMPIONSHIP",
+      "course": "Accordia Golf Narashino CC - Chiba, Japan.",
+      "roundNumber": 4,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "59E9B8B5-2F02-57B2-BB7C-102BC89FEA66",
+      "date": "2020-10-26T00:00:00Z",
+      "tournament": "The ZOZO CHAMPIONSHIP",
+      "course": "Accordia Golf Narashino CC - Chiba, Japan.",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "6F9077DC-5C61-5C60-8267-36C8089A4E2D",
+      "date": "2020-10-25T00:00:00Z",
+      "tournament": "The ZOZO CHAMPIONSHIP",
+      "course": "Accordia Golf Narashino CC - Chiba, Japan.",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "413E0C4B-A2D4-5287-A182-69436EA7C387",
+      "date": "2020-10-24T00:00:00Z",
+      "tournament": "The ZOZO CHAMPIONSHIP",
+      "course": "Accordia Golf Narashino CC - Chiba, Japan.",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "F72F3727-CEEC-566A-8FC8-0DCCECD7795A",
+      "date": "2019-10-27T00:00:00Z",
+      "tournament": "The ZOZO CHAMPIONSHIP",
+      "course": "Accordia Golf Narashino CC - Chiba, Japan",
+      "roundNumber": 4,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "D57250A8-8478-5972-A01A-DD3656241665",
+      "date": "2019-10-26T00:00:00Z",
+      "tournament": "The ZOZO CHAMPIONSHIP",
+      "course": "Accordia Golf Narashino CC - Chiba, Japan",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "108BEEC1-CC2D-547B-8C96-8EEFEA662696",
+      "date": "2019-10-25T00:00:00Z",
+      "tournament": "The ZOZO CHAMPIONSHIP",
+      "course": "Accordia Golf Narashino CC - Chiba, Japan",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "D8A06181-9D22-5768-BB9C-64FF422E5CF7",
+      "date": "2019-10-24T00:00:00Z",
+      "tournament": "The ZOZO CHAMPIONSHIP",
+      "course": "Accordia Golf Narashino CC - Chiba, Japan",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "updatedAt": "2026-01-09T19:15:28Z",
+  "slug": "toto-gana",
+  "roundCount": 4,
+  "rounds": [
+    {
+      "id": "5E24D020-9020-52EB-9E57-6EFDCD17AA07",
+      "date": "2017-04-07T00:00:00Z",
+      "tournament": "2017 Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 2,
+      "score": 80,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "E0B382B6-1DAC-509B-B5B6-A9E2F256558A",
+      "date": "2017-04-07T00:00:00Z",
+      "tournament": "2017 Masters Tournament",
+      "course": "nan",
+      "roundNumber": 2,
+      "score": 80,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "D7691E4D-6B7F-5169-A5B8-C8DA0E2F9ADE",
+      "date": "2017-04-06T00:00:00Z",
+      "tournament": "2017 Masters Tournament",
+      "course": "Augusta National Golf Club - Augusta, GA",
+      "roundNumber": 1,
+      "score": 81,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "EFC99BD5-833F-55BF-B1B5-27F592891133",
+      "date": "2017-04-06T00:00:00Z",
+      "tournament": "2017 Masters Tournament",
+      "course": "nan",
+      "roundNumber": 1,
+      "score": 81,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    }
+  ]
+}

@@ -1,0 +1,528 @@
+{
+  "version": 1,
+  "updatedAt": "2026-01-09T19:15:28Z",
+  "slug": "sanghyun-park",
+  "roundCount": 52,
+  "rounds": [
+    {
+      "id": "3955DE55-2A59-5F68-85AC-8EF73A0C1B20",
+      "date": "2024-07-12T00:00:00Z",
+      "tournament": "Genesis Scottish Open",
+      "course": "The Renaissance Club - North Berwick, Scotland",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "0E0A84E5-F49B-5E99-815E-94FDDA1C7184",
+      "date": "2024-07-11T00:00:00Z",
+      "tournament": "Genesis Scottish Open",
+      "course": "The Renaissance Club - North Berwick, Scotland",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "4B9BC9FA-0C91-5AAD-806E-5D2BA2379CC7",
+      "date": "2022-10-23T00:00:00Z",
+      "tournament": "THE CJ CUP in South Carolina",
+      "course": "Congaree Golf Club - Ridgeland, SC",
+      "roundNumber": 4,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "92BECACF-54A3-59D0-99C5-E737E2E58D21",
+      "date": "2022-10-22T00:00:00Z",
+      "tournament": "THE CJ CUP in South Carolina",
+      "course": "Congaree Golf Club - Ridgeland, SC",
+      "roundNumber": 3,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "FB04567F-8BEB-5EF5-B3E1-2E24A88F4268",
+      "date": "2022-10-21T00:00:00Z",
+      "tournament": "THE CJ CUP in South Carolina",
+      "course": "Congaree Golf Club - Ridgeland, SC",
+      "roundNumber": 2,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "1CFFB5E5-DB01-583C-B4A2-2BE6ACD54B47",
+      "date": "2022-10-20T00:00:00Z",
+      "tournament": "THE CJ CUP in South Carolina",
+      "course": "Congaree Golf Club - Ridgeland, SC",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "F58455A2-1F61-5B0E-B6AF-E91ADFCB051C",
+      "date": "2020-10-27T00:00:00Z",
+      "tournament": "The ZOZO CHAMPIONSHIP",
+      "course": "Accordia Golf Narashino CC - Chiba, Japan.",
+      "roundNumber": 4,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "D7673AF8-7565-5E7D-AE63-2F0E46FC3FB3",
+      "date": "2020-10-26T00:00:00Z",
+      "tournament": "The ZOZO CHAMPIONSHIP",
+      "course": "Accordia Golf Narashino CC - Chiba, Japan.",
+      "roundNumber": 3,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "7DD1C981-A01C-5CF3-8730-80A6630F16F2",
+      "date": "2020-10-25T00:00:00Z",
+      "tournament": "The ZOZO CHAMPIONSHIP",
+      "course": "Accordia Golf Narashino CC - Chiba, Japan.",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "4BB5BC8E-7DCD-5BF9-9989-BA182E867A81",
+      "date": "2020-10-24T00:00:00Z",
+      "tournament": "The ZOZO CHAMPIONSHIP",
+      "course": "Accordia Golf Narashino CC - Chiba, Japan.",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "AD015EC9-0B19-5273-AB8F-6A70E9490AD4",
+      "date": "2020-10-19T00:00:00Z",
+      "tournament": "THE CJ CUP @ NINE BRIDGES",
+      "course": "The Club at Nine Bridges - Jeju Island, South Korea.",
+      "roundNumber": 4,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "C081AD2C-9E51-5DDA-83ED-14CD38637E14",
+      "date": "2020-10-18T00:00:00Z",
+      "tournament": "THE CJ CUP @ NINE BRIDGES",
+      "course": "The Club at Nine Bridges - Jeju Island, South Korea.",
+      "roundNumber": 3,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "45C3200D-F2FA-53E0-99EF-3431AF4D4F2D",
+      "date": "2020-10-17T00:00:00Z",
+      "tournament": "THE CJ CUP @ NINE BRIDGES",
+      "course": "The Club at Nine Bridges - Jeju Island, South Korea.",
+      "roundNumber": 2,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "04FD996D-18D4-5BDA-94AA-BB954D25B24E",
+      "date": "2020-10-16T00:00:00Z",
+      "tournament": "THE CJ CUP @ NINE BRIDGES",
+      "course": "The Club at Nine Bridges - Jeju Island, South Korea.",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "7C76617B-C078-502D-B25B-CDABBA4D521D",
+      "date": "2019-10-27T00:00:00Z",
+      "tournament": "The ZOZO CHAMPIONSHIP",
+      "course": "Accordia Golf Narashino CC - Chiba, Japan",
+      "roundNumber": 4,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "8555390B-CE91-573C-84EA-501BC53813D1",
+      "date": "2019-10-27T00:00:00Z",
+      "tournament": "WGC-HSBC CHAMPIONS",
+      "course": "Sheshan International GC - Shanghai, China.",
+      "roundNumber": 4,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "46B80ED9-7A48-56CE-8605-70B0E0A8B28B",
+      "date": "2019-10-26T00:00:00Z",
+      "tournament": "The ZOZO CHAMPIONSHIP",
+      "course": "Accordia Golf Narashino CC - Chiba, Japan",
+      "roundNumber": 3,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "EB142466-D1C0-585D-9091-941E2A071DF0",
+      "date": "2019-10-26T00:00:00Z",
+      "tournament": "WGC-HSBC CHAMPIONS",
+      "course": "Sheshan International GC - Shanghai, China.",
+      "roundNumber": 3,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "5D593486-82C2-564B-96DD-0E28F8510B20",
+      "date": "2019-10-25T00:00:00Z",
+      "tournament": "The ZOZO CHAMPIONSHIP",
+      "course": "Accordia Golf Narashino CC - Chiba, Japan",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "502E7787-9EB2-5650-9566-2A7D9A78CE21",
+      "date": "2019-10-25T00:00:00Z",
+      "tournament": "WGC-HSBC CHAMPIONS",
+      "course": "Sheshan International GC - Shanghai, China.",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "FAA2B074-4CA9-535E-9F07-50B1E2E0EB61",
+      "date": "2019-10-24T00:00:00Z",
+      "tournament": "The ZOZO CHAMPIONSHIP",
+      "course": "Accordia Golf Narashino CC - Chiba, Japan",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "3CF7D1C5-0DEF-5489-B407-6B9CC3A78561",
+      "date": "2019-10-24T00:00:00Z",
+      "tournament": "WGC-HSBC CHAMPIONS",
+      "course": "Sheshan International GC - Shanghai, China.",
+      "roundNumber": 1,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "9FF17439-CC54-5634-8FA2-97F4B5EC1844",
+      "date": "2019-10-20T00:00:00Z",
+      "tournament": "THE CJ CUP @ NINE BRIDGES",
+      "course": "The Club at Nine Bridges - Jeju Island, South Korea.",
+      "roundNumber": 4,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "1A303E66-ACE1-59BD-9BC4-C592220C294F",
+      "date": "2019-10-19T00:00:00Z",
+      "tournament": "THE CJ CUP @ NINE BRIDGES",
+      "course": "The Club at Nine Bridges - Jeju Island, South Korea",
+      "roundNumber": 4,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "EDF2F591-A5CA-5101-B68D-94A93E9BFB27",
+      "date": "2019-10-19T00:00:00Z",
+      "tournament": "THE CJ CUP @ NINE BRIDGES",
+      "course": "The Club at Nine Bridges - Jeju Island, South Korea.",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "DE01F5E5-FE0E-523A-8281-4A67C320EFED",
+      "date": "2019-10-18T00:00:00Z",
+      "tournament": "THE CJ CUP @ NINE BRIDGES",
+      "course": "The Club at Nine Bridges - Jeju Island, South Korea",
+      "roundNumber": 3,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "0B072659-4914-5ECF-9650-0D6CEA777B74",
+      "date": "2019-10-18T00:00:00Z",
+      "tournament": "THE CJ CUP @ NINE BRIDGES",
+      "course": "The Club at Nine Bridges - Jeju Island, South Korea.",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "FE6F4693-14C7-52A4-A16B-81A08550655C",
+      "date": "2019-10-17T00:00:00Z",
+      "tournament": "THE CJ CUP @ NINE BRIDGES",
+      "course": "The Club at Nine Bridges - Jeju Island, South Korea",
+      "roundNumber": 2,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "7565A74C-470A-5C3E-B337-D3B6DBEBC197",
+      "date": "2019-10-17T00:00:00Z",
+      "tournament": "THE CJ CUP @ NINE BRIDGES",
+      "course": "The Club at Nine Bridges - Jeju Island, South Korea.",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "8431D007-3F40-599F-8BBE-AC79AE947BB4",
+      "date": "2019-10-16T00:00:00Z",
+      "tournament": "THE CJ CUP @ NINE BRIDGES",
+      "course": "The Club at Nine Bridges - Jeju Island, South Korea",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "E92C87FC-EEE6-544F-8B42-E19BADB9AD48",
+      "date": "2019-10-13T00:00:00Z",
+      "tournament": "CIMB Classic",
+      "course": "TPC Kuala Lumpur - Kuala Lumpur, Malaysia.",
+      "roundNumber": 4,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "FB769EF7-453F-5F91-9F3A-F5D3C4678E43",
+      "date": "2019-10-12T00:00:00Z",
+      "tournament": "CIMB Classic",
+      "course": "TPC Kuala Lumpur - Kuala Lumpur, Malaysia.",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "2E71E494-11E6-5859-9EEE-29057C19DE79",
+      "date": "2019-10-11T00:00:00Z",
+      "tournament": "CIMB Classic",
+      "course": "TPC Kuala Lumpur - Kuala Lumpur, Malaysia.",
+      "roundNumber": 2,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "E9195EFF-E951-5792-B2C0-168BC6292038",
+      "date": "2019-10-10T00:00:00Z",
+      "tournament": "CIMB Classic",
+      "course": "TPC Kuala Lumpur - Kuala Lumpur, Malaysia.",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "CA4B9CCC-47F9-530A-8734-6AD25F0B2BAE",
+      "date": "2019-02-23T00:00:00Z",
+      "tournament": "WGC-Mexico Championship",
+      "course": "Club De Golf Chapultepec - Mexico City, Mexico",
+      "roundNumber": 3,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "659680CD-E931-5001-A08C-B67A94A1C195",
+      "date": "2019-02-23T00:00:00Z",
+      "tournament": "WGC-Mexico Championship",
+      "course": "Club De Golf Chapultepec - Mexico City, Mexico.",
+      "roundNumber": 3,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "0F95337B-9215-5E7A-9827-E2EB7F7BC760",
+      "date": "2019-02-22T00:00:00Z",
+      "tournament": "WGC-Mexico Championship",
+      "course": "Club De Golf Chapultepec - Mexico City, Mexico",
+      "roundNumber": 2,
+      "score": 79,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "BBFC6067-CE99-566C-9AEA-B2BA5B681DE8",
+      "date": "2019-02-22T00:00:00Z",
+      "tournament": "WGC-Mexico Championship",
+      "course": "Club De Golf Chapultepec - Mexico City, Mexico.",
+      "roundNumber": 2,
+      "score": 79,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "77326BA9-FB44-5A0B-BBF3-30A7CAF25763",
+      "date": "2019-02-21T00:00:00Z",
+      "tournament": "WGC-Mexico Championship",
+      "course": "Club De Golf Chapultepec - Mexico City, Mexico",
+      "roundNumber": 1,
+      "score": 80,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "05827290-7008-50FC-8A84-D28FE5ED233E",
+      "date": "2019-02-21T00:00:00Z",
+      "tournament": "WGC-Mexico Championship",
+      "course": "Club De Golf Chapultepec - Mexico City, Mexico.",
+      "roundNumber": 1,
+      "score": 80,
+      "par": 72,
+      "notes": "Source: Full Leaderboard + Tournament Table"
+    },
+    {
+      "id": "C6B2EF6C-699B-573C-B7D2-F5803F8CEB48",
+      "date": "2018-10-27T00:00:00Z",
+      "tournament": "WGC-HSBC CHAMPIONS",
+      "course": "Sheshan International GC - Shanghai, China",
+      "roundNumber": 4,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "07E821E4-8601-5DE4-956F-C570AB806448",
+      "date": "2018-10-26T00:00:00Z",
+      "tournament": "WGC-HSBC CHAMPIONS",
+      "course": "Sheshan International GC - Shanghai, China",
+      "roundNumber": 3,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "7155C9F5-6B41-56D5-8C7B-902EA87E9720",
+      "date": "2018-10-25T00:00:00Z",
+      "tournament": "WGC-HSBC CHAMPIONS",
+      "course": "Sheshan International GC - Shanghai, China",
+      "roundNumber": 2,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "EC4F9AD8-97CC-5BDD-9B32-1527A65309F1",
+      "date": "2018-10-24T00:00:00Z",
+      "tournament": "WGC-HSBC CHAMPIONS",
+      "course": "Sheshan International GC - Shanghai, China",
+      "roundNumber": 1,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "EB988197-D4EB-5DDA-9892-BAB6BE4AF822",
+      "date": "2018-10-20T00:00:00Z",
+      "tournament": "THE CJ CUP @ NINE BRIDGES",
+      "course": "The Club at Nine Bridges - Jeju Island, South Korea",
+      "roundNumber": 4,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "7BE41E3C-F541-550A-A0B3-2799E0B65B06",
+      "date": "2018-10-19T00:00:00Z",
+      "tournament": "THE CJ CUP @ NINE BRIDGES",
+      "course": "The Club at Nine Bridges - Jeju Island, South Korea",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "EB3B2852-C791-538A-9F89-65E3A8134365",
+      "date": "2018-10-18T00:00:00Z",
+      "tournament": "THE CJ CUP @ NINE BRIDGES",
+      "course": "The Club at Nine Bridges - Jeju Island, South Korea",
+      "roundNumber": 2,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "61EB1921-0CEA-595A-867B-E25E3CB3DF21",
+      "date": "2018-10-17T00:00:00Z",
+      "tournament": "THE CJ CUP @ NINE BRIDGES",
+      "course": "The Club at Nine Bridges - Jeju Island, South Korea",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "28B4EE27-FEA6-58E7-B05F-66659B61125A",
+      "date": "2018-10-13T00:00:00Z",
+      "tournament": "CIMB Classic",
+      "course": "TPC Kuala Lumpur - Kuala Lumpur, Malaysia",
+      "roundNumber": 4,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "C2C412B6-DEAF-50A9-8FC2-BE190ED63D51",
+      "date": "2018-10-12T00:00:00Z",
+      "tournament": "CIMB Classic",
+      "course": "TPC Kuala Lumpur - Kuala Lumpur, Malaysia",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "2EED85C5-3B3A-5F0D-B3BE-7C769307EA74",
+      "date": "2018-10-11T00:00:00Z",
+      "tournament": "CIMB Classic",
+      "course": "TPC Kuala Lumpur - Kuala Lumpur, Malaysia",
+      "roundNumber": 2,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "7A27F010-776B-5A89-BEDD-E7089C4D974C",
+      "date": "2018-10-10T00:00:00Z",
+      "tournament": "CIMB Classic",
+      "course": "TPC Kuala Lumpur - Kuala Lumpur, Malaysia",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    }
+  ]
+}

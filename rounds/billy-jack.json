@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updatedAt": "2026-01-09T19:15:28Z",
+  "slug": "billy-jack",
+  "roundCount": 2,
+  "rounds": [
+    {
+      "id": "7E5A7CC8-B3F8-52D1-A8E2-68D18E1E4DA3",
+      "date": "2005-04-01T00:00:00Z",
+      "tournament": "BellSouth Classic",
+      "course": "TPC Sugarloaf - Duluth, GA",
+      "roundNumber": 2,
+      "score": 81,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    },
+    {
+      "id": "70150A1F-D9FA-5AED-973B-962035F7B9CE",
+      "date": "2005-03-31T00:00:00Z",
+      "tournament": "BellSouth Classic",
+      "course": "TPC Sugarloaf - Duluth, GA",
+      "roundNumber": 1,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: PGA Tour Results TSV"
+    }
+  ]
+}
