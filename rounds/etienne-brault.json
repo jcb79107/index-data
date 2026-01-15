@@ -12,7 +12,13 @@
       "roundNumber": 2,
       "score": 69,
       "par": 72,
-      "notes": "Source: PGA Tour Results TSV"
+      "notes": "Source: PGA Tour Results TSV",
+      "differential": -0.55,
+      "fieldAverage": 69.55,
+      "fieldSize": 312,
+      "slope": 113,
+      "courseRating": 69.55,
+      "source": "Field Avg"
     },
     {
       "id": "996A2C1A-B33F-5B0B-A966-64BF426CCFEF",
@@ -22,7 +28,13 @@
       "roundNumber": 2,
       "score": 69,
       "par": 72,
-      "notes": "Source: Full Leaderboard + Tournament Table"
+      "notes": "Source: Full Leaderboard + Tournament Table",
+      "differential": -0.55,
+      "fieldAverage": 69.55,
+      "fieldSize": 312,
+      "slope": 113,
+      "courseRating": 69.55,
+      "source": "Field Avg"
     },
     {
       "id": "CEB5B40D-3EEE-577E-A123-8366CB5617B2",
@@ -32,7 +44,13 @@
       "roundNumber": 1,
       "score": 72,
       "par": 72,
-      "notes": "Source: PGA Tour Results TSV"
+      "notes": "Source: PGA Tour Results TSV",
+      "differential": 2.59,
+      "fieldAverage": 69.41,
+      "fieldSize": 312,
+      "slope": 113,
+      "courseRating": 69.41,
+      "source": "Field Avg"
     },
     {
       "id": "4BF025E4-1ED5-579D-AC55-162650E1A648",
@@ -42,7 +60,13 @@
       "roundNumber": 1,
       "score": 72,
       "par": 72,
-      "notes": "Source: Full Leaderboard + Tournament Table"
+      "notes": "Source: Full Leaderboard + Tournament Table",
+      "differential": 2.59,
+      "fieldAverage": 69.41,
+      "fieldSize": 312,
+      "slope": 113,
+      "courseRating": 69.41,
+      "source": "Field Avg"
     }
   ]
 }

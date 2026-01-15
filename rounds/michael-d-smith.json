@@ -12,7 +12,13 @@
       "roundNumber": 4,
       "score": 71,
       "par": 72,
-      "notes": "Source: PGA Tour Results TSV"
+      "notes": "Source: PGA Tour Results TSV",
+      "differential": -4.06,
+      "fieldAverage": 69.11,
+      "fieldSize": 142,
+      "slope": 139,
+      "courseRating": 76.0,
+      "source": "USGA"
     },
     {
       "id": "5ECF2E4D-8697-55E1-993E-DBA88DC16851",
@@ -22,7 +28,13 @@
       "roundNumber": 4,
       "score": 71,
       "par": 72,
-      "notes": "Source: Full Leaderboard + Tournament Table"
+      "notes": "Source: Full Leaderboard + Tournament Table",
+      "differential": -4.06,
+      "fieldAverage": 69.11,
+      "fieldSize": 142,
+      "slope": 139,
+      "courseRating": 76.0,
+      "source": "USGA"
     },
     {
       "id": "0393E07D-4431-5EF7-BAD6-ED585F4F3986",
@@ -32,7 +44,13 @@
       "roundNumber": 3,
       "score": 67,
       "par": 72,
-      "notes": "Source: PGA Tour Results TSV"
+      "notes": "Source: PGA Tour Results TSV",
+      "differential": -7.32,
+      "fieldAverage": 69.48,
+      "fieldSize": 142,
+      "slope": 139,
+      "courseRating": 76.0,
+      "source": "USGA"
     },
     {
       "id": "007CDFD1-46F6-5DB9-8BF0-7E834F655E1E",
@@ -42,7 +60,13 @@
       "roundNumber": 3,
       "score": 67,
       "par": 72,
-      "notes": "Source: Full Leaderboard + Tournament Table"
+      "notes": "Source: Full Leaderboard + Tournament Table",
+      "differential": -7.32,
+      "fieldAverage": 69.48,
+      "fieldSize": 142,
+      "slope": 139,
+      "courseRating": 76.0,
+      "source": "USGA"
     },
     {
       "id": "FBD26701-FAA2-5536-A36A-5F5DC39AF9B2",
@@ -52,7 +76,13 @@
       "roundNumber": 2,
       "score": 68,
       "par": 72,
-      "notes": "Source: PGA Tour Results TSV"
+      "notes": "Source: PGA Tour Results TSV",
+      "differential": -6.5,
+      "fieldAverage": 69.6,
+      "fieldSize": 300,
+      "slope": 139,
+      "courseRating": 76.0,
+      "source": "USGA"
     },
     {
       "id": "09E4D5EB-14AF-5323-B313-C57AADA1A4A6",
@@ -62,7 +92,13 @@
       "roundNumber": 2,
       "score": 68,
       "par": 72,
-      "notes": "Source: Full Leaderboard + Tournament Table"
+      "notes": "Source: Full Leaderboard + Tournament Table",
+      "differential": -6.5,
+      "fieldAverage": 69.6,
+      "fieldSize": 300,
+      "slope": 139,
+      "courseRating": 76.0,
+      "source": "USGA"
     },
     {
       "id": "9D72394B-9310-5921-81EC-0A46C9B37A86",
@@ -72,7 +108,13 @@
       "roundNumber": 1,
       "score": 70,
       "par": 72,
-      "notes": "Source: PGA Tour Results TSV"
+      "notes": "Source: PGA Tour Results TSV",
+      "differential": -4.88,
+      "fieldAverage": 70.77,
+      "fieldSize": 300,
+      "slope": 139,
+      "courseRating": 76.0,
+      "source": "USGA"
     },
     {
       "id": "9EF24C1F-B65A-510E-9A96-779E5B44E9F2",
@@ -82,7 +124,13 @@
       "roundNumber": 1,
       "score": 70,
       "par": 72,
-      "notes": "Source: Full Leaderboard + Tournament Table"
+      "notes": "Source: Full Leaderboard + Tournament Table",
+      "differential": -4.88,
+      "fieldAverage": 70.77,
+      "fieldSize": 300,
+      "slope": 139,
+      "courseRating": 76.0,
+      "source": "USGA"
     },
     {
       "id": "BF7226A7-547B-50D7-AEFC-E5B321BCF2F1",
@@ -92,7 +140,13 @@
       "roundNumber": 2,
       "score": 76,
       "par": 72,
-      "notes": "Source: PGA Tour Results TSV"
+      "notes": "Source: PGA Tour Results TSV",
+      "differential": 2.91,
+      "fieldAverage": 73.09,
+      "fieldSize": 155,
+      "slope": 113,
+      "courseRating": 73.09,
+      "source": "Field Avg"
     },
     {
       "id": "56096355-EFC3-5934-9C19-B31E8E52D5E4",
@@ -102,7 +156,13 @@
       "roundNumber": 1,
       "score": 76,
       "par": 72,
-      "notes": "Source: PGA Tour Results TSV"
+      "notes": "Source: PGA Tour Results TSV",
+      "differential": 1.9,
+      "fieldAverage": 74.1,
+      "fieldSize": 155,
+      "slope": 113,
+      "courseRating": 74.1,
+      "source": "Field Avg"
     }
   ]
 }

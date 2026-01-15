@@ -12,7 +12,13 @@
       "roundNumber": 4,
       "score": 77,
       "par": 72,
-      "notes": "Source: PGA Tour Results TSV"
+      "notes": "Source: PGA Tour Results TSV",
+      "differential": 0.57,
+      "fieldAverage": 72.11,
+      "fieldSize": 126,
+      "slope": 140,
+      "courseRating": 76.3,
+      "source": "USGA"
     },
     {
       "id": "3919A358-1E9B-5D7A-BB81-E45187F47CF0",
@@ -22,7 +28,13 @@
       "roundNumber": 4,
       "score": 77,
       "par": 72,
-      "notes": "Source: Full Leaderboard + Tournament Table"
+      "notes": "Source: Full Leaderboard + Tournament Table",
+      "differential": 0.57,
+      "fieldAverage": 72.11,
+      "fieldSize": 126,
+      "slope": 140,
+      "courseRating": 76.3,
+      "source": "USGA"
     },
     {
       "id": "A30AD43F-86E5-5614-AD21-B442D701C66F",
@@ -32,7 +44,13 @@
       "roundNumber": 3,
       "score": 73,
       "par": 72,
-      "notes": "Source: PGA Tour Results TSV"
+      "notes": "Source: PGA Tour Results TSV",
+      "differential": -2.66,
+      "fieldAverage": 70.52,
+      "fieldSize": 128,
+      "slope": 140,
+      "courseRating": 76.3,
+      "source": "USGA"
     },
     {
       "id": "BFE1C08C-0FAD-5898-822F-CEA91BB1ED5C",
@@ -42,7 +60,13 @@
       "roundNumber": 3,
       "score": 73,
       "par": 72,
-      "notes": "Source: Full Leaderboard + Tournament Table"
+      "notes": "Source: Full Leaderboard + Tournament Table",
+      "differential": -2.66,
+      "fieldAverage": 70.52,
+      "fieldSize": 128,
+      "slope": 140,
+      "courseRating": 76.3,
+      "source": "USGA"
     },
     {
       "id": "1FC25A7F-3D5F-52BE-AF0C-027BBE4AE82E",
@@ -52,7 +76,13 @@
       "roundNumber": 2,
       "score": 71,
       "par": 72,
-      "notes": "Source: PGA Tour Results TSV"
+      "notes": "Source: PGA Tour Results TSV",
+      "differential": -4.28,
+      "fieldAverage": 71.95,
+      "fieldSize": 306,
+      "slope": 140,
+      "courseRating": 76.3,
+      "source": "USGA"
     },
     {
       "id": "E51101BA-ED75-59FB-A756-1500552DA5C5",
@@ -62,7 +92,13 @@
       "roundNumber": 2,
       "score": 71,
       "par": 72,
-      "notes": "Source: Full Leaderboard + Tournament Table"
+      "notes": "Source: Full Leaderboard + Tournament Table",
+      "differential": -4.28,
+      "fieldAverage": 71.95,
+      "fieldSize": 306,
+      "slope": 140,
+      "courseRating": 76.3,
+      "source": "USGA"
     },
     {
       "id": "C3F6F236-5858-5D9F-B16D-BAF3DFD8D443",
@@ -72,7 +108,13 @@
       "roundNumber": 1,
       "score": 72,
       "par": 72,
-      "notes": "Source: PGA Tour Results TSV"
+      "notes": "Source: PGA Tour Results TSV",
+      "differential": -3.47,
+      "fieldAverage": 73.61,
+      "fieldSize": 306,
+      "slope": 140,
+      "courseRating": 76.3,
+      "source": "USGA"
     },
     {
       "id": "349AB47E-5D40-5E38-BAB8-143350301740",
@@ -82,7 +124,13 @@
       "roundNumber": 1,
       "score": 72,
       "par": 72,
-      "notes": "Source: Full Leaderboard + Tournament Table"
+      "notes": "Source: Full Leaderboard + Tournament Table",
+      "differential": -3.47,
+      "fieldAverage": 73.61,
+      "fieldSize": 306,
+      "slope": 140,
+      "courseRating": 76.3,
+      "source": "USGA"
     },
     {
       "id": "0207DD04-C5E0-5AC9-A4F2-B34F7FD994C5",
@@ -92,7 +140,13 @@
       "roundNumber": 2,
       "score": 76,
       "par": 72,
-      "notes": "Source: PGA Tour Results TSV"
+      "notes": "Source: PGA Tour Results TSV",
+      "differential": 3.25,
+      "fieldAverage": 72.75,
+      "fieldSize": 153,
+      "slope": 113,
+      "courseRating": 72.75,
+      "source": "Field Avg"
     },
     {
       "id": "C2045C4D-CF09-5432-902D-2E9869DD0002",
@@ -102,7 +156,13 @@
       "roundNumber": 1,
       "score": 79,
       "par": 72,
-      "notes": "Source: PGA Tour Results TSV"
+      "notes": "Source: PGA Tour Results TSV",
+      "differential": 5.56,
+      "fieldAverage": 73.44,
+      "fieldSize": 153,
+      "slope": 113,
+      "courseRating": 73.44,
+      "source": "Field Avg"
     }
   ]
 }
