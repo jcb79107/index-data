@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "chad-ramey",
-  "roundCount": 430,
+  "roundCount": 432,
   "rounds": [
     {
       "id": "15E8BF04-9856-56B8-B5AE-E11437DFEC16",
@@ -4136,7 +4136,7 @@
       "id": "3235CDB0-D55C-535B-A809-DD40DAC9DE13",
       "date": "2022-11-04T00:00:00Z",
       "tournament": "World Wide Technology Championship at Mayakoba",
-      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "course": "El Camale\u00f3n Golf Course at Mayakoba - Quintana Roo, Mexico",
       "roundNumber": 2,
       "score": 70,
       "par": 72,
@@ -4152,7 +4152,7 @@
       "id": "6726E81A-8452-556E-A914-186685B4D7DA",
       "date": "2022-11-03T00:00:00Z",
       "tournament": "World Wide Technology Championship at Mayakoba",
-      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "course": "El Camale\u00f3n Golf Course at Mayakoba - Quintana Roo, Mexico",
       "roundNumber": 1,
       "score": 69,
       "par": 72,
@@ -6882,6 +6882,28 @@
       "slope": 139,
       "courseRating": 75.7,
       "source": "USGA"
+    },
+    {
+      "id": "5C7516E9-2F53-48A9-94CB-A38326E53F68",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "B39AE365-A2B8-4C0C-808B-CD11E7B71E8B",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 12,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

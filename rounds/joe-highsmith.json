@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "joe-highsmith",
-  "roundCount": 160,
+  "roundCount": 162,
   "rounds": [
     {
       "id": "B56FA529-F059-5FF5-A214-325D4D71D6FB",
@@ -2563,6 +2563,28 @@
       "slope": 143,
       "courseRating": 78.6,
       "source": "USGA"
+    },
+    {
+      "id": "2B9DFCAC-3C7D-4172-8864-FF83D9E7C755",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "18FB1770-AEC9-47DC-9B70-B510E67AA78F",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

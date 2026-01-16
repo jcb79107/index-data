@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T14:00:01Z",
   "slug": "andre-chi",
-  "roundCount": 8,
+  "roundCount": 12,
   "rounds": [
     {
       "id": "BA5942FB-19B1-5E64-92B7-9A86BC1D7003",
@@ -131,6 +131,50 @@
       "slope": 143,
       "courseRating": 76.1,
       "source": "USGA"
+    },
+    {
+      "id": "2FA26C3D-50D1-4DDC-9FEC-B64CF30B3447",
+      "date": "2025-12-11T05:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "PGA TOUR Q-School presented by Korn Ferry",
+      "roundNumber": 1,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "7432AF50-FE8E-4749-9564-608100CCF637",
+      "date": "2025-12-12T05:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "PGA TOUR Q-School presented by Korn Ferry",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "880D44E1-441A-48FA-8737-4F30A75C780C",
+      "date": "2025-12-13T05:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "PGA TOUR Q-School presented by Korn Ferry",
+      "roundNumber": 3,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "249EE594-51FB-4EF9-858D-EB4E79296F42",
+      "date": "2025-12-14T05:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "PGA TOUR Q-School presented by Korn Ferry",
+      "roundNumber": 4,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

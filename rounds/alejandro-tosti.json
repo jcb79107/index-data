@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T14:00:01Z",
   "slug": "alejandro-tosti",
-  "roundCount": 148,
+  "roundCount": 154,
   "rounds": [
     {
       "id": "D3AE4904-1755-5B4B-8597-7B543976A18C",
@@ -2371,6 +2371,72 @@
       "slope": 113,
       "courseRating": 72.39,
       "source": "Field Avg"
+    },
+    {
+      "id": "BEAAAC66-0B80-4B60-88E2-AD412D752FA1",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "0F36AACE-F669-47EC-9F29-D9C81A7EE65A",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "0B19F6FA-004B-4C1A-8020-C5B86C375408",
+      "date": "2025-12-11T05:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "PGA TOUR Q-School presented by Korn Ferry",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "FAEF719F-E912-40BA-8B7C-958278FA4B6E",
+      "date": "2025-12-12T05:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "PGA TOUR Q-School presented by Korn Ferry",
+      "roundNumber": 2,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "50CF8523-36FD-438C-AE10-313ACEE0F6B7",
+      "date": "2025-12-13T05:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "PGA TOUR Q-School presented by Korn Ferry",
+      "roundNumber": 3,
+      "score": 65,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "19E4E422-1E40-4ABF-8E01-0D36560D020D",
+      "date": "2025-12-14T05:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "PGA TOUR Q-School presented by Korn Ferry",
+      "roundNumber": 4,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

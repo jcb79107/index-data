@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "john-vanderlaan",
-  "roundCount": 18,
+  "roundCount": 20,
   "rounds": [
     {
       "id": "4F58C066-CBDA-5AB9-BFA3-7CFB61AAB49E",
@@ -291,6 +291,28 @@
       "slope": 113,
       "courseRating": 70.26,
       "source": "Field Avg"
+    },
+    {
+      "id": "45847184-1608-41C0-B933-F7A313806D60",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 63,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "74EE4EE4-BD69-461D-8BAE-1004CF2551EB",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

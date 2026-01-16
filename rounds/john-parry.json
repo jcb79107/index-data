@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "john-parry",
-  "roundCount": 36,
+  "roundCount": 38,
   "rounds": [
     {
       "id": "5C2EB9D9-D190-5855-ADB6-F54001050CE3",
@@ -579,6 +579,28 @@
       "slope": 113,
       "courseRating": 74.26,
       "source": "Field Avg"
+    },
+    {
+      "id": "4DE849C8-C401-457D-A108-6D9B612EC136",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 64,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "2FC1D75F-CE27-4BFF-9611-388552424BE4",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

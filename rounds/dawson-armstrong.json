@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T14:00:01Z",
   "slug": "dawson-armstrong",
-  "roundCount": 22,
+  "roundCount": 26,
   "rounds": [
     {
       "id": "803F5540-0237-5D32-9B4D-203C0541A1A7",
@@ -355,6 +355,50 @@
       "slope": 139,
       "courseRating": 75.7,
       "source": "USGA"
+    },
+    {
+      "id": "341B4F88-243F-4E17-B627-E6D973C4089E",
+      "date": "2025-12-11T05:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "PGA TOUR Q-School presented by Korn Ferry",
+      "roundNumber": 1,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "7F6884F4-5B99-4572-B1A6-137EE8C052AB",
+      "date": "2025-12-12T05:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "PGA TOUR Q-School presented by Korn Ferry",
+      "roundNumber": 2,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "2D7F4FBD-78C1-485F-ADB1-B205E879A2DB",
+      "date": "2025-12-13T05:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "PGA TOUR Q-School presented by Korn Ferry",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "B5FF268C-2D54-465C-A938-680D276183F4",
+      "date": "2025-12-14T05:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "PGA TOUR Q-School presented by Korn Ferry",
+      "roundNumber": 4,
+      "score": 77,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

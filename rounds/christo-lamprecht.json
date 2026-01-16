@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "christo-lamprecht",
-  "roundCount": 18,
+  "roundCount": 20,
   "rounds": [
     {
       "id": "01C5A998-F938-5CA7-9E50-BBBDD65150E2",
@@ -291,6 +291,28 @@
       "slope": 137,
       "courseRating": 78.1,
       "source": "USGA"
+    },
+    {
+      "id": "6D3EA37B-1C6C-4BA6-96CF-70D8FF5FB67C",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "8C287CDE-A470-4811-901E-2C49A49B1428",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

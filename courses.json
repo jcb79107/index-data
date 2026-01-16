@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-15T21:52:19.670025+00:00Z",
-  "count": 209,
+  "updatedAt": "2026-01-16T20:08:11.119729+00:00Z",
+  "count": 211,
   "courses": [
     {
       "slug": "accordia-golf-narashino-cc",
@@ -12727,6 +12727,155 @@
       ]
     },
     {
+      "slug": "pga-tour-q-school-presented-by-korn-ferry",
+      "name": "PGA Tour Q-School Presented By Korn Ferry",
+      "fullName": "PGA Tour Q-School Presented By Korn Ferry",
+      "city": null,
+      "state": null,
+      "country": null,
+      "hasUSGARating": false,
+      "courseRating": null,
+      "slope": null,
+      "par": 72,
+      "tournamentCount": 1,
+      "roundCount": 691,
+      "firstPlayed": "2025-12-11T05:00:00+00:00Z",
+      "lastPlayed": "2025-12-14T05:00:00+00:00Z",
+      "recentTournaments": [
+        {
+          "name": "PGA TOUR Q-School presented by Korn Ferry",
+          "year": 2025,
+          "dates": "2025-12-11 to 2025-12-14",
+          "winnerSlug": "brandon-matthews",
+          "winningScore": -37,
+          "fieldSize": null,
+          "fieldAverage": null,
+          "leaderboard": [
+            {
+              "playerSlug": "norman-xiong",
+              "totalScore": 78,
+              "scoreToPar": 6,
+              "rounds": 1
+            },
+            {
+              "playerSlug": "braden-thornberry",
+              "totalScore": 120,
+              "scoreToPar": -24,
+              "rounds": 2
+            },
+            {
+              "playerSlug": "robby-shelton",
+              "totalScore": 144,
+              "scoreToPar": 0,
+              "rounds": 2
+            },
+            {
+              "playerSlug": "trey-mullinax",
+              "totalScore": 147,
+              "scoreToPar": 3,
+              "rounds": 2
+            },
+            {
+              "playerSlug": "carson-young",
+              "totalScore": 148,
+              "scoreToPar": 4,
+              "rounds": 2
+            },
+            {
+              "playerSlug": "nicolo-galletti",
+              "totalScore": 211,
+              "scoreToPar": -5,
+              "rounds": 3
+            },
+            {
+              "playerSlug": "jackson-suber",
+              "totalScore": 214,
+              "scoreToPar": -2,
+              "rounds": 3
+            },
+            {
+              "playerSlug": "ricky-castillo",
+              "totalScore": 244,
+              "scoreToPar": -44,
+              "rounds": 4
+            },
+            {
+              "playerSlug": "sy-noh",
+              "totalScore": 248,
+              "scoreToPar": -40,
+              "rounds": 4
+            },
+            {
+              "playerSlug": "brandon-matthews",
+              "totalScore": 260,
+              "scoreToPar": -28,
+              "rounds": 4
+            },
+            {
+              "playerSlug": "aj-ewart",
+              "totalScore": 266,
+              "scoreToPar": -22,
+              "rounds": 4
+            },
+            {
+              "playerSlug": "alejandro-tosti",
+              "totalScore": 268,
+              "scoreToPar": -20,
+              "rounds": 4
+            },
+            {
+              "playerSlug": "adam-svensson",
+              "totalScore": 268,
+              "scoreToPar": -20,
+              "rounds": 4
+            },
+            {
+              "playerSlug": "marcelo-rozo",
+              "totalScore": 268,
+              "scoreToPar": -20,
+              "rounds": 4
+            },
+            {
+              "playerSlug": "dylan-wu",
+              "totalScore": 269,
+              "scoreToPar": -19,
+              "rounds": 4
+            },
+            {
+              "playerSlug": "ben-silverman",
+              "totalScore": 269,
+              "scoreToPar": -19,
+              "rounds": 4
+            },
+            {
+              "playerSlug": "matt-atkins",
+              "totalScore": 270,
+              "scoreToPar": -18,
+              "rounds": 4
+            },
+            {
+              "playerSlug": "camilo-villegas",
+              "totalScore": 270,
+              "scoreToPar": -18,
+              "rounds": 4
+            },
+            {
+              "playerSlug": "ian-holt",
+              "totalScore": 271,
+              "scoreToPar": -17,
+              "rounds": 4
+            },
+            {
+              "playerSlug": "mitchell-meissner",
+              "totalScore": 271,
+              "scoreToPar": -17,
+              "rounds": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
       "slug": "pga-west-nicklaus-tournament-course",
       "name": "PGA West (Nicklaus Tournament Course)",
       "fullName": "PGA West (Nicklaus Tournament Course) - La Quinta, CA, USA",
@@ -16804,6 +16953,155 @@
               "totalScore": 206,
               "scoreToPar": -10,
               "rounds": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sony-open-in-hawaii",
+      "name": "Sony Open In Hawaii",
+      "fullName": "Sony Open In Hawaii",
+      "city": null,
+      "state": null,
+      "country": null,
+      "hasUSGARating": false,
+      "courseRating": null,
+      "slope": null,
+      "par": 72,
+      "tournamentCount": 1,
+      "roundCount": 240,
+      "firstPlayed": "2026-01-15T05:00:00+00:00Z",
+      "lastPlayed": "2026-01-16T05:00:00+00:00Z",
+      "recentTournaments": [
+        {
+          "name": "Sony Open in Hawaii",
+          "year": 2026,
+          "dates": "2026-01-15 to 2026-01-16",
+          "winnerSlug": "doug-ghim",
+          "winningScore": -69,
+          "fieldSize": null,
+          "fieldAverage": null,
+          "leaderboard": [
+            {
+              "playerSlug": "nick-taylor",
+              "totalScore": 62,
+              "scoreToPar": -10,
+              "rounds": 1
+            },
+            {
+              "playerSlug": "kevin-roy",
+              "totalScore": 62,
+              "scoreToPar": -10,
+              "rounds": 1
+            },
+            {
+              "playerSlug": "ben-griffin",
+              "totalScore": 63,
+              "scoreToPar": -9,
+              "rounds": 1
+            },
+            {
+              "playerSlug": "john-vanderlaan",
+              "totalScore": 63,
+              "scoreToPar": -9,
+              "rounds": 1
+            },
+            {
+              "playerSlug": "sh-kim",
+              "totalScore": 63,
+              "scoreToPar": -9,
+              "rounds": 1
+            },
+            {
+              "playerSlug": "chris-gotterup",
+              "totalScore": 63,
+              "scoreToPar": -9,
+              "rounds": 1
+            },
+            {
+              "playerSlug": "john-parry",
+              "totalScore": 64,
+              "scoreToPar": -8,
+              "rounds": 1
+            },
+            {
+              "playerSlug": "alex-smalley",
+              "totalScore": 64,
+              "scoreToPar": -8,
+              "rounds": 1
+            },
+            {
+              "playerSlug": "adrien-dumont-de-chassart",
+              "totalScore": 64,
+              "scoreToPar": -8,
+              "rounds": 1
+            },
+            {
+              "playerSlug": "russell-henley",
+              "totalScore": 65,
+              "scoreToPar": -7,
+              "rounds": 1
+            },
+            {
+              "playerSlug": "kurt-kitayama",
+              "totalScore": 65,
+              "scoreToPar": -7,
+              "rounds": 1
+            },
+            {
+              "playerSlug": "mac-meissner",
+              "totalScore": 65,
+              "scoreToPar": -7,
+              "rounds": 1
+            },
+            {
+              "playerSlug": "denny-mccarthy",
+              "totalScore": 65,
+              "scoreToPar": -7,
+              "rounds": 1
+            },
+            {
+              "playerSlug": "nick-dunlap",
+              "totalScore": 65,
+              "scoreToPar": -7,
+              "rounds": 1
+            },
+            {
+              "playerSlug": "harry-hall",
+              "totalScore": 65,
+              "scoreToPar": -7,
+              "rounds": 1
+            },
+            {
+              "playerSlug": "emiliano-grillo",
+              "totalScore": 66,
+              "scoreToPar": -6,
+              "rounds": 1
+            },
+            {
+              "playerSlug": "jake-knapp",
+              "totalScore": 66,
+              "scoreToPar": -6,
+              "rounds": 1
+            },
+            {
+              "playerSlug": "david-ford",
+              "totalScore": 66,
+              "scoreToPar": -6,
+              "rounds": 1
+            },
+            {
+              "playerSlug": "ricky-castillo",
+              "totalScore": 66,
+              "scoreToPar": -6,
+              "rounds": 1
+            },
+            {
+              "playerSlug": "brice-garnett",
+              "totalScore": 66,
+              "scoreToPar": -6,
+              "rounds": 1
             }
           ]
         }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "david-ford",
-  "roundCount": 34,
+  "roundCount": 36,
   "rounds": [
     {
       "id": "6EC9213B-D7FC-5765-976D-51B7067175C4",
@@ -547,6 +547,28 @@
       "slope": 135,
       "courseRating": 75.3,
       "source": "USGA"
+    },
+    {
+      "id": "6BFD5314-64A3-40F8-9A1F-5A067AC46B95",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "CDF1870E-0480-43A1-887E-1B1F9DB20BF2",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

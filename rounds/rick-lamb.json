@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T14:00:01Z",
   "slug": "rick-lamb",
-  "roundCount": 164,
+  "roundCount": 168,
   "rounds": [
     {
       "id": "95B53923-2B1E-5BC3-9B30-05F8F757948C",
@@ -936,7 +936,7 @@
       "id": "C6C82CA3-BB34-5CFB-8748-A55735C09046",
       "date": "2017-11-11T00:00:00Z",
       "tournament": "OHL Classic at Mayakoba",
-      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico.",
+      "course": "El Camale\u00f3n Golf Course at Mayakoba - Quintana Roo, Mexico.",
       "roundNumber": 2,
       "score": 76,
       "par": 72,
@@ -952,7 +952,7 @@
       "id": "DFD226CC-5435-538E-99CE-7EF2CA56DDDC",
       "date": "2017-11-10T00:00:00Z",
       "tournament": "OHL Classic at Mayakoba",
-      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico.",
+      "course": "El Camale\u00f3n Golf Course at Mayakoba - Quintana Roo, Mexico.",
       "roundNumber": 1,
       "score": 73,
       "par": 72,
@@ -2536,7 +2536,7 @@
       "id": "77F2C6A9-4605-56CB-BB46-FBF4BBD41F8D",
       "date": "2016-11-11T00:00:00Z",
       "tournament": "OHL Classic at Mayakoba",
-      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "course": "El Camale\u00f3n Golf Course at Mayakoba - Quintana Roo, Mexico",
       "roundNumber": 2,
       "score": 76,
       "par": 72,
@@ -2552,7 +2552,7 @@
       "id": "C43EFF7F-7A71-5871-9961-9A32460BC766",
       "date": "2016-11-10T00:00:00Z",
       "tournament": "OHL Classic at Mayakoba",
-      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "course": "El Camale\u00f3n Golf Course at Mayakoba - Quintana Roo, Mexico",
       "roundNumber": 1,
       "score": 73,
       "par": 72,
@@ -2627,6 +2627,50 @@
       "slope": 113,
       "courseRating": 71.06,
       "source": "Field Avg"
+    },
+    {
+      "id": "F05C44B8-F79A-4A68-9CC4-4070FBA62239",
+      "date": "2025-12-11T05:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "PGA TOUR Q-School presented by Korn Ferry",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "B62EF5CC-E482-434C-B479-E4A4D63C67E0",
+      "date": "2025-12-12T05:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "PGA TOUR Q-School presented by Korn Ferry",
+      "roundNumber": 2,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "E5A24B20-EB5A-4A28-823F-92455382A7B7",
+      "date": "2025-12-13T05:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "PGA TOUR Q-School presented by Korn Ferry",
+      "roundNumber": 3,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "1CD1F03D-5DA7-4F78-A649-C59AAD54B34B",
+      "date": "2025-12-14T05:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "PGA TOUR Q-School presented by Korn Ferry",
+      "roundNumber": 4,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "jordan-smith",
-  "roundCount": 70,
+  "roundCount": 72,
   "rounds": [
     {
       "id": "C2D9225A-7356-5AFD-BEE0-FDF67EB49433",
@@ -1123,6 +1123,28 @@
       "slope": 113,
       "courseRating": 74.67,
       "source": "Field Avg"
+    },
+    {
+      "id": "2587E538-C495-42DE-AA6B-2653507FBE65",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "42511A09-F54B-4175-A9F3-C074DD0A475F",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

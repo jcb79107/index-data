@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "kevin-roy",
-  "roundCount": 171,
+  "roundCount": 173,
   "rounds": [
     {
       "id": "F5338C45-7A66-55E5-9B2B-BA9A4C4E9FB1",
@@ -2739,6 +2739,28 @@
       "slope": 113,
       "courseRating": 71.38,
       "source": "Field Avg"
+    },
+    {
+      "id": "36DBCA90-D58A-4720-BDAD-A9B347074F23",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 62,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "B2D990DD-F0AF-40F8-9977-C86B4D808F56",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

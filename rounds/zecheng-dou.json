@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "zecheng-dou",
-  "roundCount": 205,
+  "roundCount": 207,
   "rounds": [
     {
       "id": "7DBF4766-2224-592A-BAF4-14DFC7C34908",
@@ -1768,7 +1768,7 @@
       "id": "9082A5F8-854D-5C25-AD16-16C2624F238D",
       "date": "2022-11-04T00:00:00Z",
       "tournament": "World Wide Technology Championship at Mayakoba",
-      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "course": "El Camale\u00f3n Golf Course at Mayakoba - Quintana Roo, Mexico",
       "roundNumber": 2,
       "score": 72,
       "par": 72,
@@ -1784,7 +1784,7 @@
       "id": "3D1F9B9C-7B4E-5DD4-9C78-A6E7DCBA5F60",
       "date": "2022-11-03T00:00:00Z",
       "tournament": "World Wide Technology Championship at Mayakoba",
-      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "course": "El Camale\u00f3n Golf Course at Mayakoba - Quintana Roo, Mexico",
       "roundNumber": 1,
       "score": 69,
       "par": 72,
@@ -2760,7 +2760,7 @@
       "id": "E3042606-7547-57CA-97B1-B17B5C5DC626",
       "date": "2017-11-09T00:00:00Z",
       "tournament": "OHL Classic at Mayakoba",
-      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "course": "El Camale\u00f3n Golf Course at Mayakoba - Quintana Roo, Mexico",
       "roundNumber": 1,
       "score": 78,
       "par": 72,
@@ -3283,6 +3283,28 @@
       "slope": 113,
       "courseRating": 73.28,
       "source": "Field Avg"
+    },
+    {
+      "id": "277CCAD0-A7D4-452E-8CAE-7C63D6D6386E",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "F0F93943-8EB8-4BF5-8B02-720DD0D6EA30",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

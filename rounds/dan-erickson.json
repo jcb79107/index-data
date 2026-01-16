@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T14:00:01Z",
   "slug": "dan-erickson",
-  "roundCount": 4,
+  "roundCount": 8,
   "rounds": [
     {
       "id": "7773A14E-8B14-5595-AF7A-31D1D2500FB0",
@@ -67,6 +67,50 @@
       "slope": 155,
       "courseRating": 76.8,
       "source": "USGA"
+    },
+    {
+      "id": "BFBEF017-871F-412E-8E8B-8C7EC8835C6A",
+      "date": "2025-12-11T05:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "PGA TOUR Q-School presented by Korn Ferry",
+      "roundNumber": 1,
+      "score": 72,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "C9921AA6-FC81-4E2E-93FD-7A286D7504DC",
+      "date": "2025-12-12T05:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "PGA TOUR Q-School presented by Korn Ferry",
+      "roundNumber": 2,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "A93F2946-51E9-4446-A20A-18C4F20BF475",
+      "date": "2025-12-13T05:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "PGA TOUR Q-School presented by Korn Ferry",
+      "roundNumber": 3,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "3F3DE8EC-6DCB-4C01-A0D2-33DD9EF19BEB",
+      "date": "2025-12-14T05:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "PGA TOUR Q-School presented by Korn Ferry",
+      "roundNumber": 4,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

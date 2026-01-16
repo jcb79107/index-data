@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "haotong-li",
-  "roundCount": 254,
+  "roundCount": 256,
   "rounds": [
     {
       "id": "5CC54FBA-E262-5968-B3D6-044FF435389A",
@@ -4067,6 +4067,28 @@
       "slope": 113,
       "courseRating": 72.1,
       "source": "Field Avg"
+    },
+    {
+      "id": "4A53CD7F-1A5A-495B-B75F-981BCB704D2E",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "6A45F17F-4C41-4CF2-9DE1-ABC116E8B674",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "mac-meissner",
-  "roundCount": 169,
+  "roundCount": 171,
   "rounds": [
     {
       "id": "87A02D58-6968-5563-A270-461F75426F10",
@@ -2707,6 +2707,28 @@
       "slope": 140,
       "courseRating": 76.3,
       "source": "USGA"
+    },
+    {
+      "id": "1709EAB0-1AED-4F6F-9947-6CAD3F8640BE",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 65,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "D94266C0-FAB6-4FFF-90EA-81EC4A1B8F6B",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

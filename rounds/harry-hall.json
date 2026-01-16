@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "harry-hall",
-  "roundCount": 307,
+  "roundCount": 309,
   "rounds": [
     {
       "id": "5A5A3C1E-A910-504D-8F40-847661339370",
@@ -4248,7 +4248,7 @@
       "id": "F20A9FBB-FF84-5BC6-819D-3057FD113095",
       "date": "2022-11-04T00:00:00Z",
       "tournament": "World Wide Technology Championship at Mayakoba",
-      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "course": "El Camale\u00f3n Golf Course at Mayakoba - Quintana Roo, Mexico",
       "roundNumber": 2,
       "score": 68,
       "par": 72,
@@ -4264,7 +4264,7 @@
       "id": "F3189EC6-CE6D-51AD-90FF-8210911FB913",
       "date": "2022-11-03T00:00:00Z",
       "tournament": "World Wide Technology Championship at Mayakoba",
-      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "course": "El Camale\u00f3n Golf Course at Mayakoba - Quintana Roo, Mexico",
       "roundNumber": 1,
       "score": 75,
       "par": 72,
@@ -4915,6 +4915,28 @@
       "slope": 143,
       "courseRating": 78.6,
       "source": "USGA"
+    },
+    {
+      "id": "2D9853AD-BE5A-4A7E-BD58-2AA7F57F6859",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 65,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "AC2FD0AB-C250-41E0-917C-88AB241DF690",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

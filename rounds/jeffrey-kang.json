@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "jeffrey-kang",
-  "roundCount": 26,
+  "roundCount": 28,
   "rounds": [
     {
       "id": "D6D5834C-0D9D-5AC0-9F5D-5213B20DD4F2",
@@ -419,6 +419,28 @@
       "slope": 133,
       "courseRating": 74.4,
       "source": "USGA"
+    },
+    {
+      "id": "CE733940-824C-476B-89B8-7E149D69B1AD",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "3C9B8C56-B4A4-496B-A897-7A48A2018978",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "kazuki-higa",
-  "roundCount": 40,
+  "roundCount": 42,
   "rounds": [
     {
       "id": "3507F14A-4F5D-53AA-90E9-58CD145C15B1",
@@ -643,6 +643,28 @@
       "slope": 133,
       "courseRating": 73.9,
       "source": "USGA"
+    },
+    {
+      "id": "8781F498-626B-4B7C-8045-1D7885618796",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "78A0731D-5057-47AB-8919-BF5F0D4D6AED",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

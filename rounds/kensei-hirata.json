@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "kensei-hirata",
-  "roundCount": 22,
+  "roundCount": 24,
   "rounds": [
     {
       "id": "6D3A4B38-13E2-50B7-9989-E1F8D3E7427C",
@@ -355,6 +355,28 @@
       "slope": 113,
       "courseRating": 73.25,
       "source": "Field Avg"
+    },
+    {
+      "id": "8640D054-A81C-43F6-9FAA-E795CC4D64DC",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "4D191C93-954C-4136-A92E-C63866BC8AF5",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

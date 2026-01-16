@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "chandler-phillips",
-  "roundCount": 188,
+  "roundCount": 190,
   "rounds": [
     {
       "id": "49930771-82EA-55EF-B973-C1368FAD9B46",
@@ -3011,6 +3011,28 @@
       "slope": 140,
       "courseRating": 76.4,
       "source": "USGA"
+    },
+    {
+      "id": "0758E8C2-8142-49EF-9CF6-B2348942F255",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "5FB0AF74-0EA3-4FEA-85B9-3AE359C191FB",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

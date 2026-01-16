@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "sahith-theegala",
-  "roundCount": 564,
+  "roundCount": 566,
   "rounds": [
     {
       "id": "C069C3B7-3DDE-58F5-8AE4-4E3109BDC221",
@@ -9027,6 +9027,28 @@
       "slope": 142,
       "courseRating": 75.6,
       "source": "USGA"
+    },
+    {
+      "id": "C6D00574-1270-4E0A-8420-C653CF086653",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "64ED0409-98EF-4FA3-ACBA-D56B775F78F1",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

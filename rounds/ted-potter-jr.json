@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T14:00:01Z",
   "slug": "ted-potter-jr",
-  "roundCount": 873,
+  "roundCount": 877,
   "rounds": [
     {
       "id": "66B74ED3-C8EA-57BA-9715-0D97E965DAD7",
@@ -8072,7 +8072,7 @@
       "id": "5F2E8A6E-05DC-5443-8F0B-9DD6DF0AA515",
       "date": "2017-11-10T00:00:00Z",
       "tournament": "OHL Classic at Mayakoba",
-      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "course": "El Camale\u00f3n Golf Course at Mayakoba - Quintana Roo, Mexico",
       "roundNumber": 2,
       "score": 71,
       "par": 72,
@@ -8088,7 +8088,7 @@
       "id": "6A0EE470-C96F-541E-8ADB-9FB067852710",
       "date": "2017-11-09T00:00:00Z",
       "tournament": "OHL Classic at Mayakoba",
-      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "course": "El Camale\u00f3n Golf Course at Mayakoba - Quintana Roo, Mexico",
       "roundNumber": 1,
       "score": 73,
       "par": 72,
@@ -13971,6 +13971,50 @@
       "slope": 113,
       "courseRating": 74.75,
       "source": "Field Avg"
+    },
+    {
+      "id": "B2303C3B-0788-4C47-9AEA-EB55F009CC5D",
+      "date": "2025-12-11T05:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "PGA TOUR Q-School presented by Korn Ferry",
+      "roundNumber": 1,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "430AFCD8-5179-4AFC-B1B5-4D65697B9B6B",
+      "date": "2025-12-12T05:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "PGA TOUR Q-School presented by Korn Ferry",
+      "roundNumber": 2,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "B3FE9607-F1CE-4206-8CF1-F74DE8316FD4",
+      "date": "2025-12-13T05:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "PGA TOUR Q-School presented by Korn Ferry",
+      "roundNumber": 3,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "D1A88F12-969F-4485-AD83-12F845BDF589",
+      "date": "2025-12-14T05:00:00Z",
+      "tournament": "PGA TOUR Q-School presented by Korn Ferry",
+      "course": "PGA TOUR Q-School presented by Korn Ferry",
+      "roundNumber": 4,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

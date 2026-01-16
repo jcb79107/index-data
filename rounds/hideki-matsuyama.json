@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "hideki-matsuyama",
-  "roundCount": 1695,
+  "roundCount": 1697,
   "rounds": [
     {
       "id": "9C766FEF-A149-5B02-9A10-5664BF479868",
@@ -27123,6 +27123,28 @@
       "slope": 133,
       "courseRating": 73.9,
       "source": "USGA"
+    },
+    {
+      "id": "C631E126-C188-4F39-85D0-5FCDFA01FF3C",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "94A4D4C2-F4B8-4AB6-A037-4D51798FF4FA",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

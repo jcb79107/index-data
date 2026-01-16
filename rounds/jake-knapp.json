@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "jake-knapp",
-  "roundCount": 173,
+  "roundCount": 175,
   "rounds": [
     {
       "id": "E61C3CA2-B01B-57AC-9BDC-4C2C59899F9C",
@@ -2771,6 +2771,28 @@
       "slope": 143,
       "courseRating": 78.6,
       "source": "USGA"
+    },
+    {
+      "id": "D78324AE-FFE1-49C7-9B88-6F0D48D3B9EC",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "10F10F0D-6CD0-4619-86F0-C935534BE94E",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

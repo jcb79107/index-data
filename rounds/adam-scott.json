@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "adam-scott",
-  "roundCount": 2162,
+  "roundCount": 2164,
   "rounds": [
     {
       "id": "E0CF75EE-473D-54C1-8255-CA9A6AB9B360",
@@ -34595,6 +34595,28 @@
       "slope": 113,
       "courseRating": 70.61,
       "source": "Field Avg"
+    },
+    {
+      "id": "831C7C6D-464E-46B5-8D81-4A4A93EC980F",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "C06AF57B-A5F5-4307-975D-BB8D375DDD67",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

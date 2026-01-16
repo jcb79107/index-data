@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "robert-macintyre",
-  "roundCount": 350,
+  "roundCount": 352,
   "rounds": [
     {
       "id": "83C46EC3-FA9F-5EE6-AE1E-745B89615325",
@@ -5603,6 +5603,28 @@
       "slope": 113,
       "courseRating": 72.99,
       "source": "Field Avg"
+    },
+    {
+      "id": "4418F70C-AFAB-4A36-A44E-DDF67E0B2A30",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "E6320FE0-CA17-4B83-BB51-DC4A2A223D50",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

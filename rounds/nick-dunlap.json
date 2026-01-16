@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "nick-dunlap",
-  "roundCount": 155,
+  "roundCount": 157,
   "rounds": [
     {
       "id": "35D7B03D-ECF4-5EFC-A908-16152BF11573",
@@ -2483,6 +2483,28 @@
       "slope": 113,
       "courseRating": 72.77,
       "source": "Field Avg"
+    },
+    {
+      "id": "E436CBE8-46F8-4CFA-9E1D-25785782043B",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 65,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "CBAB400E-D39B-4633-82AB-406E0C5DD860",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

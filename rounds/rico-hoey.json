@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "rico-hoey",
-  "roundCount": 191,
+  "roundCount": 193,
   "rounds": [
     {
       "id": "C3108A49-42A3-53B4-91E2-2756B15D1BBD",
@@ -3059,6 +3059,28 @@
       "slope": 133,
       "courseRating": 73.9,
       "source": "USGA"
+    },
+    {
+      "id": "A4477615-50E6-474C-A470-FACDB5D89E9E",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "43F74714-CFED-4BCC-BAA3-F9FC52778D76",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

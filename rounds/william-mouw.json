@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "william-mouw",
-  "roundCount": 83,
+  "roundCount": 85,
   "rounds": [
     {
       "id": "53664925-2D21-5902-A3DC-8862ED1CA0A1",
@@ -1331,6 +1331,28 @@
       "slope": 113,
       "courseRating": 72.77,
       "source": "Field Avg"
+    },
+    {
+      "id": "96816CA0-AD18-4D66-BBB5-3203A1C075CE",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "A51C3A19-9381-4A65-9AD3-A2FF802669F8",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

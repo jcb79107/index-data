@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "jacob-bridgeman",
-  "roundCount": 194,
+  "roundCount": 196,
   "rounds": [
     {
       "id": "5C2C8796-4FAB-5AFC-9659-EB1A2501E994",
@@ -3107,6 +3107,28 @@
       "slope": 113,
       "courseRating": 69.55,
       "source": "Field Avg"
+    },
+    {
+      "id": "60C000C1-7B76-4518-92AD-CD20E571CFA3",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "4F72BD21-2A22-49DC-A01F-13B82CAE97AD",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "alex-smalley",
-  "roundCount": 489,
+  "roundCount": 491,
   "rounds": [
     {
       "id": "A954E551-86F3-5BC8-AECD-923E3CB20D57",
@@ -7827,6 +7827,28 @@
       "slope": 143,
       "courseRating": 78.3,
       "source": "USGA"
+    },
+    {
+      "id": "CDBD3E2E-9088-4EA6-8765-54D3ECF2FEB9",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 64,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "25423C61-D569-43DB-94A2-7317B7BFBE1B",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

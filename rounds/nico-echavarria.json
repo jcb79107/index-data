@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "nico-echavarria",
-  "roundCount": 259,
+  "roundCount": 261,
   "rounds": [
     {
       "id": "B3D77E34-E26F-5C22-B7E8-081252DA798A",
@@ -4147,6 +4147,28 @@
       "slope": 113,
       "courseRating": 71.38,
       "source": "Field Avg"
+    },
+    {
+      "id": "676A2086-3992-4B8A-A323-725B8CA918CB",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "E7D97F53-D62F-4077-A07A-43F07A54B2B2",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "adrien-dumont-de-chassart",
-  "roundCount": 93,
+  "roundCount": 95,
   "rounds": [
     {
       "id": "0A7C354E-C7E6-5C57-AC0F-50847AD35690",
@@ -1491,6 +1491,28 @@
       "slope": 113,
       "courseRating": 72.77,
       "source": "Field Avg"
+    },
+    {
+      "id": "023DACF3-50A8-48AD-9BB0-4BE99F012DDA",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 64,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "7A3CCA5A-510C-4452-B077-A869BBB9C758",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

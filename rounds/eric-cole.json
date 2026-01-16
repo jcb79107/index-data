@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "eric-cole",
-  "roundCount": 360,
+  "roundCount": 362,
   "rounds": [
     {
       "id": "0C0C9E61-7DDB-5067-80B2-D913F85BF619",
@@ -5320,7 +5320,7 @@
       "id": "945DB6A7-A62E-5898-8FBC-0D9167CA78EE",
       "date": "2022-11-06T00:00:00Z",
       "tournament": "World Wide Technology Championship at Mayakoba",
-      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "course": "El Camale\u00f3n Golf Course at Mayakoba - Quintana Roo, Mexico",
       "roundNumber": 4,
       "score": 67,
       "par": 72,
@@ -5336,7 +5336,7 @@
       "id": "6237C94F-E0B9-5592-9211-0F6D34B78963",
       "date": "2022-11-05T00:00:00Z",
       "tournament": "World Wide Technology Championship at Mayakoba",
-      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "course": "El Camale\u00f3n Golf Course at Mayakoba - Quintana Roo, Mexico",
       "roundNumber": 3,
       "score": 66,
       "par": 72,
@@ -5352,7 +5352,7 @@
       "id": "6734835F-431B-5008-8ED2-D79E7B98850F",
       "date": "2022-11-04T00:00:00Z",
       "tournament": "World Wide Technology Championship at Mayakoba",
-      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "course": "El Camale\u00f3n Golf Course at Mayakoba - Quintana Roo, Mexico",
       "roundNumber": 2,
       "score": 68,
       "par": 72,
@@ -5368,7 +5368,7 @@
       "id": "E27EB057-E8E0-5A13-9CB2-6BE600A9583B",
       "date": "2022-11-03T00:00:00Z",
       "tournament": "World Wide Technology Championship at Mayakoba",
-      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "course": "El Camale\u00f3n Golf Course at Mayakoba - Quintana Roo, Mexico",
       "roundNumber": 1,
       "score": 70,
       "par": 72,
@@ -5763,6 +5763,28 @@
       "slope": 113,
       "courseRating": 72.44,
       "source": "Field Avg"
+    },
+    {
+      "id": "D19DE8EC-E69B-415A-9088-01F60F63ACB0",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "F54D79AD-B82E-47C5-8DF5-2DDBFE42B376",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 8,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

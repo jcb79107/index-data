@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "chris-gotterup",
-  "roundCount": 245,
+  "roundCount": 247,
   "rounds": [
     {
       "id": "FC9F1BA4-8784-5B85-8A27-17855D00C7DA",
@@ -3923,6 +3923,28 @@
       "slope": 113,
       "courseRating": 72.39,
       "source": "Field Avg"
+    },
+    {
+      "id": "73A69568-2102-473B-B08D-080DDB3E9887",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 63,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "B8452101-C02D-47C3-B2B9-5C2D87FB97B3",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "kristoffer-reitan",
-  "roundCount": 10,
+  "roundCount": 12,
   "rounds": [
     {
       "id": "FD6E5B03-F100-5947-A026-EDADC0DDC5B6",
@@ -163,6 +163,28 @@
       "slope": 113,
       "courseRating": 76.47,
       "source": "Field Avg"
+    },
+    {
+      "id": "6A325081-4F21-4695-88DE-2E1A12E10296",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "DD42DEF8-1534-401A-AA1E-437204688ABB",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

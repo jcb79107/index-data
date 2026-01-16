@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "takumi-kanaya",
-  "roundCount": 177,
+  "roundCount": 179,
   "rounds": [
     {
       "id": "A2ECE0E1-F233-534D-BE0C-1EC4B8E3181A",
@@ -2835,6 +2835,28 @@
       "slope": 133,
       "courseRating": 73.9,
       "source": "USGA"
+    },
+    {
+      "id": "FADD8A4A-B0A2-4D38-BCCF-DBBF941FCEBB",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 66,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "AF92F742-A86A-4741-947D-D1705A67B8C5",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

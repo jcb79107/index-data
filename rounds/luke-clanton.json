@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "luke-clanton",
-  "roundCount": 58,
+  "roundCount": 60,
   "rounds": [
     {
       "id": "320A5F6B-462C-5093-975D-4223E3C9A6B0",
@@ -931,6 +931,28 @@
       "slope": 133,
       "courseRating": 73.9,
       "source": "USGA"
+    },
+    {
+      "id": "A0192F9C-DF42-4DDD-A80C-691D045C11CD",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "C1DC346C-EF8C-4895-89B1-B0CAA5C63AF2",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

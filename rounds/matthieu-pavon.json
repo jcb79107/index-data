@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "matthieu-pavon",
-  "roundCount": 181,
+  "roundCount": 183,
   "rounds": [
     {
       "id": "03F4ED00-1E55-50DA-836E-C3A2F6D332AA",
@@ -2899,6 +2899,28 @@
       "slope": 113,
       "courseRating": 71.92,
       "source": "Field Avg"
+    },
+    {
+      "id": "D9A75471-7DCE-4C7D-8518-41324543A7AE",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "00DE716B-8FD9-4511-ACC6-0FDDE1F90B53",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

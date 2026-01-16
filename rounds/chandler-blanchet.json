@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "chandler-blanchet",
-  "roundCount": 10,
+  "roundCount": 12,
   "rounds": [
     {
       "id": "19425EA0-4FFE-5E09-9E42-9F37F6FF5899",
@@ -163,6 +163,28 @@
       "slope": 113,
       "courseRating": 67.75,
       "source": "Field Avg"
+    },
+    {
+      "id": "05F2D5F9-E03D-4651-A2DC-B505C05A5E86",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "096728F6-9E9E-4210-AFDF-D7AF35811E14",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

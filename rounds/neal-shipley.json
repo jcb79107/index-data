@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "neal-shipley",
-  "roundCount": 38,
+  "roundCount": 40,
   "rounds": [
     {
       "id": "55171990-21AA-51E1-B917-5BD4BE811F30",
@@ -611,6 +611,28 @@
       "slope": 137,
       "courseRating": 78.1,
       "source": "USGA"
+    },
+    {
+      "id": "8E939C1E-D5B6-45B0-9CE9-E91397CB77D3",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 76,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "6A25E774-2D0A-443C-B118-FC6C5261E869",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

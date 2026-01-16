@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "matt-mccarty",
-  "roundCount": 104,
+  "roundCount": 106,
   "rounds": [
     {
       "id": "8CDD05FD-3A0B-5930-AB2A-25986CC28E3D",
@@ -1667,6 +1667,28 @@
       "slope": 113,
       "courseRating": 72.77,
       "source": "Field Avg"
+    },
+    {
+      "id": "EC0F5867-B823-471D-822C-B358552270E1",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "8BD186FA-56D2-4D38-8E07-35AB117F7EBE",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

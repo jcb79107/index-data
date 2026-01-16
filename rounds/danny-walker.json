@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "danny-walker",
-  "roundCount": 77,
+  "roundCount": 79,
   "rounds": [
     {
       "id": "22E4E08F-80C7-5D04-9B4F-29D95D0F9254",
@@ -1235,6 +1235,28 @@
       "slope": 113,
       "courseRating": 69.97,
       "source": "Field Avg"
+    },
+    {
+      "id": "44C1C299-17DF-4BA1-A09B-DE47BB9C77C5",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 67,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "EC1D50AB-3ECD-4375-880C-890019B0745F",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

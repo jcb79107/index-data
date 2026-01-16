@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "isaiah-salinda",
-  "roundCount": 138,
+  "roundCount": 140,
   "rounds": [
     {
       "id": "EDA1F241-E7A4-5533-BC7E-4BA5DC3FF781",
@@ -2211,6 +2211,28 @@
       "slope": 113,
       "courseRating": 71.53,
       "source": "Field Avg"
+    },
+    {
+      "id": "51F27D69-1156-4C60-959F-C3916A39570C",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "483A7EE3-3E6D-46FC-9C4D-E558A5115F4D",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

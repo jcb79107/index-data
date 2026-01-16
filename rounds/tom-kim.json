@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "tom-kim",
-  "roundCount": 382,
+  "roundCount": 384,
   "rounds": [
     {
       "id": "15847376-5178-51A4-9F47-299CE80B8529",
@@ -6115,6 +6115,28 @@
       "slope": 113,
       "courseRating": 71.12,
       "source": "Field Avg"
+    },
+    {
+      "id": "22A2C5C9-73CF-4763-89B9-C85647674CCC",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "1EF4081D-5D3B-44F6-B4B9-2286BA8BDCF5",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

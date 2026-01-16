@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "johnny-keefer",
-  "roundCount": 22,
+  "roundCount": 24,
   "rounds": [
     {
       "id": "9260102F-1F05-578D-A484-438B21CEBDEB",
@@ -355,6 +355,28 @@
       "slope": 113,
       "courseRating": 71.32,
       "source": "Field Avg"
+    },
+    {
+      "id": "839EA9B1-8C9B-4D6C-974D-E4E7BC7BD04E",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "44703037-C301-4CD2-90BD-87ED5ABA2CA9",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

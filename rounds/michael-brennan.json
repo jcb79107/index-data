@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "michael-brennan",
-  "roundCount": 16,
+  "roundCount": 18,
   "rounds": [
     {
       "id": "489DE8B2-3668-5020-BDC8-88EE0D1CA93A",
@@ -259,6 +259,28 @@
       "slope": 113,
       "courseRating": 70.27,
       "source": "Field Avg"
+    },
+    {
+      "id": "B7C3EE83-FA21-48BE-BE1E-6E2BADBFA3D3",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 75,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "B9CF4558-EEF6-4DF6-90AF-41009F857DF8",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

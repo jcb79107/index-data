@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "zach-bauchou",
-  "roundCount": 16,
+  "roundCount": 18,
   "rounds": [
     {
       "id": "171216AA-D17C-5D0F-A6A3-FA9D33D82B79",
@@ -200,7 +200,7 @@
       "id": "A5E37D1A-EA71-5DCB-A5F2-76F58A6A9330",
       "date": "2018-11-09T00:00:00Z",
       "tournament": "Mayakoba Golf Classic",
-      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "course": "El Camale\u00f3n Golf Course at Mayakoba - Quintana Roo, Mexico",
       "roundNumber": 2,
       "score": 78,
       "par": 72,
@@ -216,7 +216,7 @@
       "id": "92C21263-1E2A-5E0C-8B30-DF11AF939FC9",
       "date": "2018-11-08T00:00:00Z",
       "tournament": "Mayakoba Golf Classic",
-      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "course": "El Camale\u00f3n Golf Course at Mayakoba - Quintana Roo, Mexico",
       "roundNumber": 1,
       "score": 70,
       "par": 72,
@@ -259,6 +259,28 @@
       "slope": 113,
       "courseRating": 70.13,
       "source": "Field Avg"
+    },
+    {
+      "id": "B1F12406-B579-41F1-AC2B-7B5B3987EA7B",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "682B2100-28CA-4304-A58A-EA26118B6CC0",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

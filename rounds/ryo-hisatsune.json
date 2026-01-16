@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "ryo-hisatsune",
-  "roundCount": 200,
+  "roundCount": 202,
   "rounds": [
     {
       "id": "875AF135-5AE9-5956-A43B-0260A072D40D",
@@ -3203,6 +3203,28 @@
       "slope": 113,
       "courseRating": 70.32,
       "source": "Field Avg"
+    },
+    {
+      "id": "ACDFD396-EE13-4C76-97D6-C197460A6274",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "AD2B67EA-0561-4D45-919A-9271D94FA5C4",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

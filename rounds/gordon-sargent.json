@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "gordon-sargent",
-  "roundCount": 31,
+  "roundCount": 33,
   "rounds": [
     {
       "id": "86DACDA9-2CCF-5E58-9B1C-739E50F518D6",
@@ -499,6 +499,28 @@
       "slope": 113,
       "courseRating": 68.74,
       "source": "Field Avg"
+    },
+    {
+      "id": "9CB44324-59F6-4E18-B702-8D94B26424D7",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 73,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "419CBCCD-9F2A-4B9E-A548-3AA776881EDE",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "keita-nakajima",
-  "roundCount": 52,
+  "roundCount": 54,
   "rounds": [
     {
       "id": "C010B296-75EA-596E-A169-04C0B7E87EF8",
@@ -835,6 +835,28 @@
       "slope": 113,
       "courseRating": 70.32,
       "source": "Field Avg"
+    },
+    {
+      "id": "403136B2-5D87-4D57-B6F1-2C16F4AC6B5E",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 71,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "B59BD563-C515-4969-8ED3-DEAE1DF83E41",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

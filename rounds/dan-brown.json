@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updatedAt": "2026-01-16T11:54:26Z",
+  "slug": "dan-brown",
+  "roundCount": 2,
+  "rounds": [
+    {
+      "id": "C261A5FA-F789-4676-960F-3B13E0A9CBCA",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 70,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "5F5F3A53-1A5B-4A45-A83E-1FE35FCCFB13",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    }
+  ]
+}

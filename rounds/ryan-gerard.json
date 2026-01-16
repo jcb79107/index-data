@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "ryan-gerard",
-  "roundCount": 172,
+  "roundCount": 174,
   "rounds": [
     {
       "id": "0A5D2B46-E3E0-5265-9501-C0829021A967",
@@ -2755,6 +2755,28 @@
       "slope": 113,
       "courseRating": 72.77,
       "source": "Field Avg"
+    },
+    {
+      "id": "814CD541-9000-4790-AD92-1C29ED5B3A6E",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 69,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "A3C11609-DD54-48DA-9805-15A8A72673CD",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

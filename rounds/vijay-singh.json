@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "vijay-singh",
-  "roundCount": 2054,
+  "roundCount": 2056,
   "rounds": [
     {
       "id": "1229B5A6-3942-56F1-A2BD-E0ECE6D9B58B",
@@ -32867,6 +32867,28 @@
       "slope": 113,
       "courseRating": 71.58,
       "source": "Field Avg"
+    },
+    {
+      "id": "2537BABD-9CD4-4E9B-A636-2F3E5B01F19C",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "542E5F9D-4664-438A-ADE3-5C50FB795759",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

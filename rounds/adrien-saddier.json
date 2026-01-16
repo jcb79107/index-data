@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "adrien-saddier",
-  "roundCount": 14,
+  "roundCount": 16,
   "rounds": [
     {
       "id": "ADB15D19-2500-5907-845C-0C12B4BA040F",
@@ -227,6 +227,28 @@
       "slope": 113,
       "courseRating": 70.77,
       "source": "Field Avg"
+    },
+    {
+      "id": "5E702E97-5143-471A-9769-C14CA207E262",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "524A713C-E76D-499E-B7DC-0B30610FFC8E",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

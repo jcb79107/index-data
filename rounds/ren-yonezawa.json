@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "ren-yonezawa",
-  "roundCount": 8,
+  "roundCount": 10,
   "rounds": [
     {
       "id": "D1A03FE7-294A-5AFC-B301-697D22CA8454",
@@ -131,6 +131,28 @@
       "slope": 113,
       "courseRating": 69.13,
       "source": "Field Avg"
+    },
+    {
+      "id": "1794DC4C-DE9C-436F-ABB9-B137300B53CA",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "57F731AE-4D8C-4873-A7D9-3C842E5215EE",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

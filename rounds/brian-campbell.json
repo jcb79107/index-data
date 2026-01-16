@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "brian-campbell",
-  "roundCount": 188,
+  "roundCount": 190,
   "rounds": [
     {
       "id": "3B664DEA-BB72-5217-A157-D5BC55CCF81C",
@@ -3011,6 +3011,28 @@
       "slope": 137,
       "courseRating": 76.7,
       "source": "USGA"
+    },
+    {
+      "id": "DCD8A759-AF22-4D60-8240-EAE5E55DDD30",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 74,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "13C9B375-1DDB-4CBD-9546-8CBEAA83AA7E",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

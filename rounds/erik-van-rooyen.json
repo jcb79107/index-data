@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "erik-van-rooyen",
-  "roundCount": 593,
+  "roundCount": 595,
   "rounds": [
     {
       "id": "FD4FBD3B-D4A5-5143-9BC8-487762CF1014",
@@ -3640,7 +3640,7 @@
       "id": "0B500F20-84AA-5622-94F5-28209082FB4B",
       "date": "2022-11-04T00:00:00Z",
       "tournament": "World Wide Technology Championship at Mayakoba",
-      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "course": "El Camale\u00f3n Golf Course at Mayakoba - Quintana Roo, Mexico",
       "roundNumber": 2,
       "score": 71,
       "par": 72,
@@ -3656,7 +3656,7 @@
       "id": "5BD6D077-CD8D-51DA-8563-4F7E35BBA391",
       "date": "2022-11-03T00:00:00Z",
       "tournament": "World Wide Technology Championship at Mayakoba",
-      "course": "El Camaleón Golf Course at Mayakoba - Quintana Roo, Mexico",
+      "course": "El Camale\u00f3n Golf Course at Mayakoba - Quintana Roo, Mexico",
       "roundNumber": 1,
       "score": 68,
       "par": 72,
@@ -9491,6 +9491,28 @@
       "slope": 143,
       "courseRating": 77.4,
       "source": "USGA"
+    },
+    {
+      "id": "55F0C133-40FD-41FD-A6A5-2C5DE92860A3",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 68,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "B92590B3-49EC-418A-ABAF-41B779FEA17A",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }

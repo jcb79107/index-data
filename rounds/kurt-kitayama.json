@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-09T19:15:28Z",
+  "updatedAt": "2026-01-16T11:54:26Z",
   "slug": "kurt-kitayama",
-  "roundCount": 451,
+  "roundCount": 453,
   "rounds": [
     {
       "id": "6A2DA066-54C5-5D4B-9B18-F8A9BBE97166",
@@ -7219,6 +7219,28 @@
       "slope": 130,
       "courseRating": 73.9,
       "source": "USGA"
+    },
+    {
+      "id": "3C6E0AB7-8C25-41FD-9F2A-7F0BB011586A",
+      "date": "2026-01-15T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 1,
+      "score": 65,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
+    },
+    {
+      "id": "1F74868B-1D3B-44CA-80BE-20E6270CA924",
+      "date": "2026-01-16T05:00:00Z",
+      "tournament": "Sony Open in Hawaii",
+      "course": "Sony Open in Hawaii",
+      "roundNumber": 2,
+      "score": 0,
+      "par": 72,
+      "notes": "Source: ESPN API (Event 401833647)",
+      "source": "ESPN API"
     }
   ]
 }
